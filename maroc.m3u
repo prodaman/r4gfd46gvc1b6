@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",beIN SPORTS الإخبارية
+#EXTINF:0 tvg-logo="" group-title="|MA|🇲🇦 MAROC",beIN SPORTS الإخبارية
 https://www.youtube.com/watch?v=5VtrmK81NG4
-#EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",beIN SPORTS
+#EXTINF:0 tvg-logo="" group-title="|MA|🇲🇦 MAROC",beIN SPORTS
 https://www.youtube.com/watch?v=b5U5CZi8-20
 #EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",AL AOULA LAAYOUNE
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
