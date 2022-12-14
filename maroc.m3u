@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="" group-title="|MA|🇲🇦 MAROC",Al Kass One
+#EXTINF:0 tvg-logo="https://www.alkass.net/alkass/assets/images/logo@2x.png" group-title="|MA|🇲🇦 MAROC",Al Kass One
 https://liveakgrns.alkassdigital.net/hls/live/2097037/AlkassOnAe/master.m3u8?hdnts=exp=1671024827~hmac=fda98edb747db97ab019c7fb8daaa195821a20f174284a6d202ae5dab58f33de
+#EXTINF:0 tvg-logo="https://www.alkass.net/alkass/assets/images/logo@2x.png" group-title="|MA|🇲🇦 MAROC",Al Kass Four
+https://liveaks.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/playlist.m3u8?hdnts=exp=1671025470~hmac=506e0da22bd9c8725c7163ab95efb8f57dd8c20e64cc99b9db8d3d5b5aa27b0e
 #EXTINF:0 tvg-logo="" group-title="|MA|🇲🇦 MAROC",beIN SPORTS الإخبارية
 https://www.youtube.com/watch?v=5VtrmK81NG4
 #EXTINF:0 tvg-logo="" group-title="|MA|🇲🇦 MAROC",beIN SPORTS
