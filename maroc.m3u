@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/BeIN_MAX_1_Logo.png" group-title="|MA|🇲🇦 MAROC",BEIN MAX 1
 http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX1-H265/video.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/BeIN_MAX_2_Logo.png" group-title="|MA|🇲🇦 MAROC",BEIN MAX 2
+http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX2-H265/video.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png" group-title="|MA|🇲🇦 MAROC",ARRIADIA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:0 tvg-logo="https://img1.freepng.es/20180602/fvw/kisspng-la-1-television-la-2-rtve-audiencia-5b1356d84bb878.2574871615279940723102.jpg" group-title="|MA|🇲🇦 MAROC",La 1 Oficial
