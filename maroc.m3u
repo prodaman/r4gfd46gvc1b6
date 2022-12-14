@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://img1.freepng.es/20180602/fvw/kisspng-la-1-television-la-2-rtve-audiencia-5b1356d84bb878.2574871615279940723102.jpg" group-title="|MA|🇲🇦 MAROC",La 1 Oficial
 https://www.rtve.es/ztnr/1688877.m3u8?mvk
+#EXTINF:0 tvg-logo="https://img1.freepng.es/20180602/fvw/kisspng-la-1-television-la-2-rtve-audiencia-5b1356d84bb878.2574871615279940723102.jpg" group-title="|MA|🇲🇦 MAROC",La 1 Oficial
+https://www.rtve.es/ztnr/1688877.m3u8
 #EXTINF:0 tvg-logo="https://www.alkass.net/alkass/assets/images/logo@2x.png" group-title="|MA|🇲🇦 MAROC",Al Kass One
 https://liveakgrns.alkassdigital.net/hls/live/2097037/AlkassOnAe/master.m3u8?hdnts=exp=1671026159~hmac=919bc364d79fe1c78fe7cefa8559a8ae972622c49a582854543a6fc32f440e5b
 #EXTINF:0 tvg-logo="https://www.alkass.net/alkass/assets/images/logo@2x.png" group-title="|MA|🇲🇦 MAROC",Al Kass Four
