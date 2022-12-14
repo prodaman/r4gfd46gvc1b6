@@ -1,30 +1,18 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/BeIN_MAX_1_Logo.png" group-title="|MA|🇲🇦 MAROC",BEIN MAX 1
 http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX1-H265/video.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/BeIN_MAX_1_Logo.png" group-title="|MA|🇲🇦 MAROC",BEIN MAX 1
-http://mvk@t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX1-H265/video.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png" group-title="|MA|🇲🇦 MAROC",ARRIADIA
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:0 tvg-logo="https://img1.freepng.es/20180602/fvw/kisspng-la-1-television-la-2-rtve-audiencia-5b1356d84bb878.2574871615279940723102.jpg" group-title="|MA|🇲🇦 MAROC",La 1 Oficial
 https://www.rtve.es/ztnr/1688877.m3u8
-#EXTINF:0 tvg-logo="" group-title="|MA|🇲🇦 MAROC",Gol Mundial
-https://s01.castamp.com/live/iraffletv2/chunklist.m3u8?h=9PW7JPpI7Uzx2YCKs8SyfQ&e=1671066311&u=7846e3a867d3fedc9b39d410788e4554&d=197_144_70_30
 #EXTINF:0 tvg-logo="" group-title="|MA|🇲🇦 MAROC",ITV
-https://mvk@lele.bongstreams.com/live/adaptive_bong-1/live/bong-1_720p/chunks.m3u8
-#EXTINF:0 tvg-logo="https://www.alkass.net/alkass/assets/images/logo@2x.png" group-title="|MA|🇲🇦 MAROC",Al Kass One
-https://liveakgrns.alkassdigital.net/hls/live/2097037/AlkassOnAe/master.m3u8?hdnts=exp=1671026159~hmac=919bc364d79fe1c78fe7cefa8559a8ae972622c49a582854543a6fc32f440e5b
-#EXTINF:0 tvg-logo="https://www.alkass.net/alkass/assets/images/logo@2x.png" group-title="|MA|🇲🇦 MAROC",Al Kass Four
-https://liveaks.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/playlist.m3u8?hdnts=exp=1671025470~hmac=506e0da22bd9c8725c7163ab95efb8f57dd8c20e64cc99b9db8d3d5b5aa27b0e
-#EXTINF:0 tvg-logo="" group-title="|MA|🇲🇦 MAROC",beIN SPORTS الإخبارية
-https://www.youtube.com/watch?v=5VtrmK81NG4
-#EXTINF:0 tvg-logo="" group-title="|MA|🇲🇦 MAROC",beIN SPORTS
-https://www.youtube.com/watch?v=b5U5CZi8-20
+https://lele.bongstreams.com/live/adaptive_bong-1/live/bong-1_720p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",AL AOULA LAAYOUNE
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",Al AOULA INT
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" group-title="|MA|🇲🇦 MAROC",2M MONDE
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png" group-title="|MA|🇲🇦 MAROC",ARRIADIA
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/k8gk0Hb/arrabiaa.png" group-title="|MA|🇲🇦 MAROC",ARRABIAA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/5kp5CmP/almaghribia.png" group-title="|MA|🇲🇦 MAROC",AL MAGHRIBIA
