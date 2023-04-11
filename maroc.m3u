@@ -1,3 +1,4 @@
+Access-Control-Allow-Origin: *
 #EXTM3U
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/BeIN_MAX_1_Logo.png" group-title="|MA|🇲🇦 MAROC",BEIN MAX 1
 http://mvk@t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX1-H265/video.m3u8
