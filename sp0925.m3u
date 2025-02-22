@@ -1,11 +1,11 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz"
 #EXTINF:-1 tvg-id=""tvg-name="LA 1"tvg-logo="https://i.ibb.co/0JKQNsQ/TVE.png"group-title="→ ESPAÑA TDT ←",LA 1 SD
 http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/236478
 #EXTINF:-1 tvg-id=""tvg-name="LIGA BAR TV"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7YE4Z35BWVyQvicFP7ptgLBzA2hVuxQ0b4Q&s"group-title="→ ESPAÑA LALIGA TV ←",LIGA BAR TV FHD
 http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/254286
 #EXTINF:-1 tvg-id=""tvg-name="DAZN LaLiga"tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png"group-title="→ ESPAÑA DAZN ←",DAZN LaLiga FHD
 http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/60244
-#EXTINF:-1 tvg-id=""tvg-name="M+ LIGA DE CAMPEONES"tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png"group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA CAMPEONES SD
+#EXTINF:-1 tvg-id=""tvg-name="M+ LIGA DE CAMPEONES "tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png"group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA CAMPEONES SD
 http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/60279
 #EXTINF:-1 tvg-id=""tvg-name="M+"tvg-logo="https://i.postimg.cc/CxtLMVH3/Movistar-Plus-2022.png"group-title="→ CINE Y SERIES ESPAÑA ←",M+
 http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/236377
@@ -2269,7 +2269,7 @@ http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/12399
 http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/12400
 #EXTINF:-1 tvg-id="GOL PLAY"tvg-name="GOL PLAY"tvg-logo="https://i.ibb.co/chCBk8g/GOL.png"group-title="→ ESPAÑA ←",GOL PLAY
 http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/12401
-#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES"tvg-name="M+ LIGA DE CAMPEONES"tvg-logo="https://i.ibb.co/chT748n/CHAPIO.png"group-title="→ ESPAÑA ←",M+ LIGA DE CAMPEONES HD
+#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES "tvg-name="M+ LIGA DE CAMPEONES "tvg-logo="https://i.ibb.co/chT748n/CHAPIO.png"group-title="→ ESPAÑA ←",M+ LIGA DE CAMPEONES HD
 http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/12404
 #EXTINF:-1 tvg-id="Mezzo Live"tvg-name="MEZZO LIVE"tvg-logo="https://i.ibb.co/28bgY00/MEZO HD.png"group-title="→ ESPAÑA ←",MEZZO LIVE HD
 http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/12405
@@ -2373,7 +2373,7 @@ http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/12455
 http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/12457
 #EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 2 U"tvg-name="M+ LIGA CAMPEONES 2 [LIVE-EVENT]"tvg-logo="https://i.ibb.co/SvhnzBP/CHAP1.png"group-title="→ ESPAÑA ←",MOVISTAR LIGA CAMPEONES 2 [LIVE-EVENT]
 http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/12458
-#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES"tvg-name="M+ LIGA CAMPEONES"tvg-logo="https://i.ibb.co/chT748n/CHAPIO.png"group-title="→ ESPAÑA ←",MOVISTAR LIGA CAMPEONES HEVC
+#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES "tvg-name="M+ LIGA CAMPEONES"tvg-logo="https://i.ibb.co/chT748n/CHAPIO.png"group-title="→ ESPAÑA ←",MOVISTAR LIGA CAMPEONES HEVC
 http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/12459
 #EXTINF:-1 tvg-id="Mezzo Live"tvg-name="MEZZO LIVE"tvg-logo="https://i.ibb.co/28bgY00/MEZO HD.png"group-title="→ ESPAÑA ←",MEZZO LIVE HD HEVC
 http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/12460
@@ -2389,7 +2389,7 @@ http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/249894
 http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/12463
 #EXTINF:-1 tvg-id="M+ LALIGA TV"tvg-name="M+ LALIGA TV"tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png"group-title="→ ESPAÑA ←",Movistar LALIGA TV
 http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/12465
-#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES"tvg-name="M+ LIGA DE CAMPEONES"tvg-logo="https://i.ibb.co/chT748n/CHAPIO.png"group-title="→ ESPAÑA ←",M+ LIGA DE CAMPEONES
+#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES "tvg-name="M+ LIGA DE CAMPEONES "tvg-logo="https://i.ibb.co/chT748n/CHAPIO.png"group-title="→ ESPAÑA ←",M+ LIGA DE CAMPEONES
 http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/12468
 #EXTINF:-1 tvg-id="M+ Deportes"tvg-name="M+ Deportes"tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png"group-title="→ ESPAÑA ←",Movistar Deportes
 http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/12470
@@ -6177,9 +6177,9 @@ http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/60269
 http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/60270
 #EXTINF:-1 tvg-id=""tvg-name="DAZN LaLiga 4"tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL4.png"group-title="→ ESPAÑA DAZN ←",DAZN LaLiga 4 HD
 http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/60271
-#EXTINF:-1 tvg-id=""tvg-name="M+ LIGA DE CAMPEONES"tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png"group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA CAMPEONES HD
+#EXTINF:-1 tvg-id=""tvg-name="M+ LIGA DE CAMPEONES "tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png"group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA CAMPEONES HD
 http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/60280
-#EXTINF:-1 tvg-id=""tvg-name="M+ LIGA DE CAMPEONES"tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png"group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA CAMPEONES FHD
+#EXTINF:-1 tvg-id=""tvg-name="M+ LIGA DE CAMPEONES "tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png"group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA CAMPEONES FHD
 http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/60283
 #EXTINF:-1 tvg-id=""tvg-name="M+ LIGA CAMPEONES HD(OP B)"tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png"group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA CAMPEONES HD(OP B)
 http://ultrapremium.cloud:8080/92mema87ze57pa82/47wuma84duwe57/60281
