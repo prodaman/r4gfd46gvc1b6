@@ -1,51 +1,45 @@
-name: Merge EPG Files
+name: Merge EPG XML Files
 
 on:
   push:
     branches:
       - main
   schedule:
-    - cron: '0 12 * * *'  # Ejecuta diariamente a mediodía (12:00 PM UTC)
+    - cron: '0 12 * * *'  # Ejecuta diariamente a las 12:00 PM UTC
 
 jobs:
-  merge_epg:
+  build:
     runs-on: ubuntu-latest
-    
+
     steps:
-      # Paso 1: Checkout del código
       - name: Checkout repository
         uses: actions/checkout@v2
-        
-      # Paso 2: Instalar PHP
-      - name: Set up PHP
-        uses: shivammathur/setup-php@v2
-        with:
-          php-version: '7.4'
 
-      # Paso 3: Descargar archivos XML sin comprimir
-      - name: Download XML files
+      - name: Download and merge XML files
         run: |
-          mkdir -p files
-          curl -o files/spain1.xml https://www.open-epg.com/files/spain1.xml.gz
-          curl -o files/spain2.xml https://www.open-epg.com/files/spain2.xml.gz
-          curl -o files/spain3.xml https://www.open-epg.com/files/spain3.xml.gz
-          curl -o files/spain4.xml https://www.open-epg.com/files/spain4.xml.gz
-          
-      # Paso 4: Ejecutar el script PHP para fusionar los archivos XML
-      - name: Run PHP script
-        run: |
+          # Descargar los archivos XML
+          mkdir files
+          curl -L -o files/spain1.xml https://www.open-epg.com/files/spain1.xml
+          curl -L -o files/spain2.xml https://www.open-epg.com/files/spain2.xml
+          curl -L -o files/spain3.xml https://www.open-epg.com/files/spain3.xml
+          curl -L -o files/spain4.xml https://www.open-epg.com/files/spain4.xml
+
+          # Ejecutar el script PHP para fusionar los archivos XML
           php merge_epg.php
 
-      # Paso 5: Comprimir el archivo fusionado en .gz
-      - name: Compress merged EPG file
-        run: |
-          gzip merged_epg.xml
-          
-      # Paso 6: Subir el archivo fusionado comprimido
-      - name: Commit and push merged file
-        uses: EndBug/add-and-commit@v7
+      - name: Set environment variable for merged file
+        run: echo "merged_file=merged_epg.xml.gz" >> $GITHUB_ENV
+
+      - name: Upload merged XML to repository
+        uses: actions/upload-artifact@v2
         with:
-          author_name: "GitHub Actions"
-          author_email: "github-actions@github.com"
-          message: "Add merged and compressed EPG file"
-          add: "merged_epg.xml.gz"
+          name: merged_epg
+          path: merged_epg.xml.gz
+
+      - name: Commit and push merged XML file
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add merged_epg.xml.gz
+          git commit -m "Update merged EPG file"
+          git push
