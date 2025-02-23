@@ -38,36 +38,10 @@ function mergeEPG($files) {
     }
     $finalXML .= "</tv>\n";
     
+    // Guardar el archivo fusionado como .xml
     file_put_contents("merged_epg.xml", $finalXML);
-    echo "EPG fusionado guardado en merged_epg.xml\n";
-}
 
-$urls = [
-    "https://www.open-epg.com/files/spain1.xml.gz",
-    "https://www.open-epg.com/files/spain2.xml.gz",
-    "https://www.open-epg.com/files/spain3.xml.gz",
-    "https://www.open-epg.com/files/spain4.xml.gz"
-];
-
-$tempFiles = [];
-foreach ($urls as $url) {
-    $tempFile = tempnam(sys_get_temp_dir(), "epg_") . ".gz";
-    file_put_contents($tempFile, file_get_contents($url));
-    $xmlFile = str_replace(".gz", "", $tempFile);
-    $gz = gzopen($tempFile, "rb");
-    $xmlContent = stream_get_contents($gz);
-    gzclose($gz);
-    file_put_contents($xmlFile, $xmlContent);
-    $tempFiles[] = $xmlFile;
-}
-
-mergeEPG($tempFiles);
-
-foreach ($tempFiles as $file) {
-    unlink($file);
-}
-
-// modificar cosas en xml
+    // modificar cosas en xml
 
 $file_pointer = 'merged_epg.xml';
 
@@ -79,6 +53,31 @@ $open = str_replace('>Hollywood<','>Canal Hollywood<',$open);
 
 file_put_contents($file_pointer, $open);
 
+    // Comprimir el archivo a .gz
+    $gz = gzopen('merged_epg.xml.gz', 'wb9');
+    gzwrite($gz, $finalXML);
+    gzclose($gz);
 
+    echo "EPG fusionado y comprimido guardado como merged_epg.xml.gz\n";
+}
+
+$urls = [
+    "https://www.open-epg.com/files/spain1.xml",
+    "https://www.open-epg.com/files/spain2.xml",
+    "https://www.open-epg.com/files/spain3.xml",
+    "https://www.open-epg.com/files/spain4.xml"
+];
+
+$tempFiles = [];
+foreach ($urls as $url) {
+    $tempFile = tempnam(sys_get_temp_dir(), "epg_") . ".xml";
+    file_put_contents($tempFile, file_get_contents($url));
+    $tempFiles[] = $tempFile;
+}
+
+mergeEPG($tempFiles);
+
+foreach ($tempFiles as $file) {
+    unlink($file);
+}
 ?>
-
