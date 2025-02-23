@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://github.com/davidmuma/EPG_dobleM/raw/refs/heads/master/guiafanart_sincolor.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="------|Arabic-Moroc|------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/------|Arabic-Maroc|------.png" group-title="|MA|🇲🇦 MAROC",------|Arabic-Moroc|------
 http://abcnew.site:8880/DAALM21168/Bk8uxZJzpj/27555
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=28-06-2024?w=256&q=75" group-title="|MA|🇲🇦 MAROC", beIN SPORTS
