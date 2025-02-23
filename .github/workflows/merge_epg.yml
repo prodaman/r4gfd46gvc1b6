@@ -22,33 +22,26 @@ jobs:
         with:
           php-version: '7.4'
 
-      # Paso 3: Descargar archivos XML
+      # Paso 3: Descargar archivos XML sin comprimir
       - name: Download XML files
         run: |
           mkdir -p files
-          curl -o files/spain1.xml.gz https://www.open-epg.com/files/spain1.xml.gz
-          curl -o files/spain2.xml.gz https://www.open-epg.com/files/spain2.xml.gz
-          curl -o files/spain3.xml.gz https://www.open-epg.com/files/spain3.xml.gz
-          curl -o files/spain4.xml.gz https://www.open-epg.com/files/spain4.xml.gz
+          curl -o files/spain1.xml https://www.open-epg.com/files/spain1.xml.gz
+          curl -o files/spain2.xml https://www.open-epg.com/files/spain2.xml.gz
+          curl -o files/spain3.xml https://www.open-epg.com/files/spain3.xml.gz
+          curl -o files/spain4.xml https://www.open-epg.com/files/spain4.xml.gz
           
-      # Paso 4: Descomprimir archivos XML
-      - name: Decompress XML files
-        run: |
-          for file in files/*.gz; do
-            gunzip "$file"
-          done
-          
-      # Paso 5: Ejecutar el script PHP para fusionar los archivos XML
+      # Paso 4: Ejecutar el script PHP para fusionar los archivos XML
       - name: Run PHP script
         run: |
           php merge_epg.php
 
-      # Paso 6: Comprimir el archivo fusionado en .gz
+      # Paso 5: Comprimir el archivo fusionado en .gz
       - name: Compress merged EPG file
         run: |
           gzip merged_epg.xml
           
-      # Paso 7: Subir el archivo fusionado comprimido
+      # Paso 6: Subir el archivo fusionado comprimido
       - name: Commit and push merged file
         uses: EndBug/add-and-commit@v7
         with:
@@ -56,4 +49,3 @@ jobs:
           author_email: "github-actions@github.com"
           message: "Add merged and compressed EPG file"
           add: "merged_epg.xml.gz"
-
