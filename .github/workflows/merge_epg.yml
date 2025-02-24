@@ -48,7 +48,7 @@ jobs:
           fi
 
       - name: Upload merged XML to repository
-        uses: actions/upload-artifact@latest  # Usamos la versión @latest
+        uses: actions/upload-artifact@v3.2.0  # Usamos la versión v3.2.0
         with:
           name: merged_epg
           path: merged_epg.xml.gz
