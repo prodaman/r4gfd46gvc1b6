@@ -48,7 +48,8 @@ jobs:
           fi
 
       - name: Upload merged XML to repository
-        uses: actions/upload-artifact@v3.2.0  # Usamos la versión v3.2.0
-        with:
-          name: merged_epg
-          path: merged_epg.xml.gz
+        run: |
+          # Usamos la API de GitHub para subir el archivo como un artefacto
+          curl -X POST -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          -F "file=@merged_epg.xml.gz" \
+          https://uploads.github.com/repos/${{ github.repository }}/releases/assets?name=merged_epg.xml.gz
