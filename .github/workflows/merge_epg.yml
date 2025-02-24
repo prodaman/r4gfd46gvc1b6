@@ -5,11 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 12 * * *'  # Ejecuta diariamente a las 12:00 PM UTC
-
-concurrency:
-  group: merge-epg
-  cancel-in-progress: true
+    - cron: '0 * * * *'  # Ejecuta cada hora (en UTC)
 
 jobs:
   build:
@@ -19,47 +15,52 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download and merge XML files
+      - name: Download XML files
         run: |
-          # Crear directorio temporal
           mkdir -p files
           
-          # Descargar los archivos XML
-          curl -L -o files/spain1.xml https://www.open-epg.com/files/spain1.xml
-          curl -L -o files/spain2.xml https://www.open-epg.com/files/spain2.xml
-          curl -L -o files/spain3.xml https://www.open-epg.com/files/spain3.xml
-          curl -L -o files/spain4.xml https://www.open-epg.com/files/spain4.xml
+          # Descargamos los archivos XML y calculamos su hash antes de actualizar
+          for i in {1..4}; do
+            curl -L -o "files/spain${i}.xml.new" "https://www.open-epg.com/files/spain${i}.xml"
+            
+            if [ -f "files/spain${i}.xml" ]; then
+              OLD_HASH=$(sha256sum "files/spain${i}.xml" | awk '{print $1}')
+              NEW_HASH=$(sha256sum "files/spain${i}.xml.new" | awk '{print $1}')
+              
+              if [ "$OLD_HASH" != "$NEW_HASH" ]; then
+                echo "spain${i}.xml ha cambiado, actualizando..."
+                mv "files/spain${i}.xml.new" "files/spain${i}.xml"
+                UPDATE_NEEDED=true
+              else
+                echo "spain${i}.xml no ha cambiado."
+                rm "files/spain${i}.xml.new"
+              fi
+            else
+              echo "spain${i}.xml no existe, descargando..."
+              mv "files/spain${i}.xml.new" "files/spain${i}.xml"
+              UPDATE_NEEDED=true
+            fi
+          done
 
-          # Ejecutar el script PHP para fusionar los archivos XML
-          php merge_epg.php
+          if [ "$UPDATE_NEEDED" != "true" ]; then
+            echo "No hay cambios en los archivos XML, saliendo."
+            exit 0
+          fi
 
-          # Comprimir el archivo resultante
-          gzip -f merged_epg.xml
+      - name: Run PHP script to merge XML files
+        run: php merge_epg.php
 
       - name: Check if merged file has changed
-        id: check_changes
         run: |
           if git diff --quiet merged_epg.xml.gz; then
-            echo "No changes detected."
-            echo "CHANGED=false" >> $GITHUB_ENV
-          else
-            echo "Changes detected."
-            echo "CHANGED=true" >> $GITHUB_ENV
+            echo "No changes detected in merged_epg.xml.gz, skipping commit."
+            exit 0
           fi
 
       - name: Commit and push merged XML file
-        if: env.CHANGED == 'true'
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add merged_epg.xml.gz
           git commit -m "Update merged EPG file"
           git push
-
-      - name: Upload merged XML as artifact
-        if: env.CHANGED == 'true'
-        uses: actions/upload-artifact@v4
-        with:
-          name: merged_epg.xml.gz
-          path: merged_epg.xml.gz
-          retention-days: 7  # Se guarda por 7 días
