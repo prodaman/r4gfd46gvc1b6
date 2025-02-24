@@ -30,16 +30,25 @@ jobs:
       - name: Set environment variable for merged file
         run: echo "merged_file=merged_epg.xml.gz" >> $GITHUB_ENV
 
+      - name: Check if merged file has changed
+        run: |
+          git diff --quiet merged_epg.xml.gz || echo "Changes detected in merged_epg.xml.gz" > /dev/null
+
+      - name: Commit and push merged XML file
+        run: |
+          # Comprobar si el archivo ha cambiado
+          if git diff --quiet merged_epg.xml.gz; then
+            echo "No changes detected, skipping commit."
+          else
+            git config --global user.name "GitHub Actions"
+            git config --global user.email "actions@github.com"
+            git add merged_epg.xml.gz
+            git commit -m "Update merged EPG file"
+            git push
+          fi
+
       - name: Upload merged XML to repository
         uses: actions/upload-artifact@v2
         with:
           name: merged_epg
           path: merged_epg.xml.gz
-
-      - name: Commit and push merged XML file
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add merged_epg.xml.gz
-          git commit -m "Update merged EPG file"
-          git push
