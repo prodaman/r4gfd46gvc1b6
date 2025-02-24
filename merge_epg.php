@@ -40,6 +40,7 @@ function mergeEPG($files) {
 
     $finalXML = str_replace('.es</','</',$finalXML);
     $finalXML = str_replace('>Hollywood<','>Canal Hollywood<',$finalXML);
+    $finalXML = str_replace('<display-name>M+ Accion</display-name>','<display-name>M+ Accion</display-name><display-name>M+ Acción</display-name>',$finalXML);
     
     // Guardar el archivo fusionado como .xml
     file_put_contents("merged_epg.xml", $finalXML);
