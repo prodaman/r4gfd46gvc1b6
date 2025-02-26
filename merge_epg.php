@@ -2,6 +2,7 @@
 function mergeEPG($files) {
     $mergedChannels = [];
     $mergedProgrammes = [];
+    $programmeKeys = [];
     
     foreach ($files as $file) {
         $xmlContent = file_get_contents($file);
@@ -25,7 +26,14 @@ function mergeEPG($files) {
         
         foreach ($xml->programme as $programme) {
             $start = (string) $programme["start"];
-            $mergedProgrammes[$start][] = $programme->asXML();
+            $stop = (string) $programme["stop"];
+            $channel = (string) $programme["channel"];
+            $key = $start . '|' . $stop . '|' . $channel;
+            
+            if (!isset($programmeKeys[$key])) {
+                $programmeKeys[$key] = true;
+                $mergedProgrammes[$start][] = $programme->asXML();
+            }
         }
     }
     
