@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/prodaman/r4gfd46gvc1b6/refs/heads/main/merged_epg.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO Max 1" tvg-logo="" group-title="SPAIN",HBO Max 1
 http://rr4---sn-xrcyjpdu.es.binott.me:25461/67RS2L7AQp/167132462666/26649?h=3dd4b625679b652dfd881e61755eccd20503a5cb&z=196.70.87.250&i=12791
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO Max 2" tvg-logo="" group-title="SPAIN",HBO Max 2
