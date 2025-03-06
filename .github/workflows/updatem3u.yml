@@ -1,0 +1,24 @@
+name: Ejecutar PHP una vez
+on:
+  workflow_dispatch: # Permite ejecución manual
+
+jobs:
+  run-php:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v3
+
+      - name: Instalar PHP
+        run: sudo apt-get install -y php
+
+      - name: Ejecutar script PHP
+        run: php replacex.php
+
+      - name: Subir cambios
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add .
+          git commit -m "Ejecutado una vez en GitHub Actions" || echo "Sin cambios para commitear"
+          git push
