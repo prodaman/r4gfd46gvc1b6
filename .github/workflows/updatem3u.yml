@@ -17,12 +17,16 @@ jobs:
       - name: Ejecutar script PHP
         run: php replacex.php
 
-      - name: Verificar cambios en Git
+      - name: Verificar estado de git
         run: git status
 
       - name: Agregar archivos nuevos y modificados
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add --all  # Asegura que TODOS los archivos sean añadidos
-          git commit -m "Actualiz
+          git add .  # Asegura que TODOS los archivos sean añadidos
+          git commit -m "Actualización automática de archivos .m3u" || echo "Sin cambios para commitear"
+          
+      - name: Push de cambios
+        run: |
+          git push origin main || echo "No se pudo hacer push"
