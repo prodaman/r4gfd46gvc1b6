@@ -1,8 +1,8 @@
 <?php
 
 $repoPath = __DIR__; // Directorio del repositorio local
-$search = "https://raw.githubusercontent.com/prodaman/r4gfd46gvc1b6/refs/heads/main/merged_epg.xml.gz";
-$replace = "https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz";
+$search = "http://183792.solanaflix.com/";
+$replace = "http://almire.testmyiptv.com/";
 
 // Buscar archivos .m3u en el repositorio
 $m3uFiles = glob("$repoPath/*.m3u");
