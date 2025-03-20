@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=rklYWxQZ6LU
 http://almire.testmyiptv.com/live/TV-18337778/548937129241/118311.ts
 #EXTINF:-1 tvg-id="" tvg-name="|MA| 2M LIVE TNT" tvg-logo="" group-title="|MA|🇲🇦 MAROC",|MA| 2M LIVE TNT
 http://almire.testmyiptv.com/live/TV-18337778/548937129241/71949.ts
+#EXTINF:-1 tvg-id="" tvg-name="|MA| ARRYADIA" tvg-logo="" group-title="|MA|🇲🇦 MAROC",|MA| ARRYADIA HD
+http://almire.testmyiptv.com/live/TV-18337778/548937129241/71940.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Al Aoula" tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",|TNT| Al Aoula HD
 http://ce354af30a3947a345c118805d502641.ar.unver.me:25461/Fe7UwE9owx/751961314347/723?h=3dd4b625679b652dfd881e61755eccd20503a5cb&z=196.70.87.250&i=12791
 #EXTINF:-1 tvg-id="ext" tvg-name="2M" tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" group-title="|MA|🇲🇦 MAROC",|TNT| 2M
