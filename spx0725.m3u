@@ -231,7 +231,7 @@ http://tv.zeuspro.xyz:8080/jesusrojaswapp1/ab0ad27288cb/8252
 http://tv.zeuspro.xyz:8080/jesusrojaswapp1/ab0ad27288cb/8253
 #EXTINF:-1 tvg-id="" tvg-name="XTRM" tvg-logo="" group-title="ESPAÑA",XTRM(1080)
 http://tv.zeuspro.xyz:8080/jesusrojaswapp1/ab0ad27288cb/8254
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga BAR" tvg-logo="https://www.M+plus.es/recorte/m-NEO/canal/LIGBAR.png" group-title="ES | SPORT",LaLiga BAR
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV BAR" tvg-logo="https://www.M+plus.es/recorte/m-NEO/canal/LIGBAR.png" group-title="ES | SPORT",LaLiga BAR
 http://tv.zeuspro.xyz:8080/jesusrojaswapp1/ab0ad27288cb/103699
 #EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga TV" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/LaLiga.png" group-title="ES | SPORT",M. LaLiga
 http://tv.zeuspro.xyz:8080/jesusrojaswapp1/ab0ad27288cb/103696
@@ -265,9 +265,9 @@ http://tv.zeuspro.xyz:8080/jesusrojaswapp1/ab0ad27288cb/94466
 http://tv.zeuspro.xyz:8080/jesusrojaswapp1/ab0ad27288cb/103713
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 2 BAR" tvg-logo="https://www.M+plus.es/recorte/m-NEO/canal/M2SD.png" group-title="ES | SPORT",Dazn 2 BAR
 http://tv.zeuspro.xyz:8080/jesusrojaswapp1/ab0ad27288cb/103714
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga BAR 2" tvg-logo="https://www.M+plus.es/recorte/m-NEO/canal/LIGBA1.png" group-title="ES | SPORT",LaLiga BAR 2
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV BAR 2" tvg-logo="https://www.M+plus.es/recorte/m-NEO/canal/LIGBA1.png" group-title="ES | SPORT",LaLiga BAR 2
 http://tv.zeuspro.xyz:8080/jesusrojaswapp1/ab0ad27288cb/103700
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga BAR 3" tvg-logo="https://www.M+plus.es/recorte/m-NEO/canal/LIGBA2.png" group-title="ES | SPORT",LaLiga BAR 3
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV BAR 3" tvg-logo="https://www.M+plus.es/recorte/m-NEO/canal/LIGBA2.png" group-title="ES | SPORT",LaLiga BAR 3
 http://tv.zeuspro.xyz:8080/jesusrojaswapp1/ab0ad27288cb/103701
 #EXTINF:-1 tvg-id="" tvg-name="Liga Hypermotion 2" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/LaLiga_Hypermotion.png" group-title="ES | SPORT",Liga Hypermotion 2
 http://tv.zeuspro.xyz:8080/jesusrojaswapp1/ab0ad27288cb/103705
