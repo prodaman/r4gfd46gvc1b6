@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/prodaman/r4gfd46gvc1b6/refs/heads/main/merged_epg.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
 #EXTINF:-1 tvg-id=""tvg-name="LA 1"tvg-logo="https://i.ibb.co/0JKQNsQ/TVE.png"group-title="→ ESPAÑA TDT ←",LA 1 SD
 http://canal-pro.xyz:8080/92mema87ze57pa82/47wuma84duwe57/236478
 #EXTINF:-1 tvg-id=""tvg-name="LIGA BAR TV"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7YE4Z35BWVyQvicFP7ptgLBzA2hVuxQ0b4Q&s"group-title="→ ESPAÑA LALIGA TV ←",LIGA BAR TV FHD
