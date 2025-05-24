@@ -1,4 +1,10 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
+#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="ESPAGNE ☆ MOVISTAR",LA 1
+http://covertv.lol:8080/pereira01/20122020XXX/308813
+#EXTINF:-1 tvg-id="" tvg-name="M+ SUPER COPA ESPANA VODAFON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Movistar_Plus%2B_Supercopa_de_España_logo_2023.png" group-title="ESPAGNE ☆ SPORT",M+ SUPER COPA ESPANA VODAFON
+http://covertv.lol:8080/pereira01/20122020XXX/354167
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="ARABIA SPORT ☆",beIN SPORT NEWS
+http://covertv.lol:8080/pereira01/20122020XXX/393434
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT" tvg-logo="https://i.ibb.co/jw1Y65B/CHN43-FN-177-29082023.png" group-title="FRANCE ☆SPORT",CANAL+ SPORT SD
 http://covertv.lol:8080/pereira01/20122020XXX/298371
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT" tvg-logo="https://i.ibb.co/jw1Y65B/CHN43-FN-177-29082023.png" group-title="FRANCE ☆SPORT",CANAL+ SPORT HD
@@ -807,8 +813,6 @@ http://covertv.lol:8080/pereira01/20122020XXX/437716
 http://covertv.lol:8080/pereira01/20122020XXX/437717
 #EXTINF:-1 tvg-id="" tvg-name="•●| ★ MOVISTAR+ ★ |●•" tvg-logo="https://assets.stickpng.com/images/62de9f02ff3c6e4b8b5de8b2.png" group-title="ESPAGNE ☆ MOVISTAR",•●| ★ MOVISTAR+ ★ |●•
 http://covertv.lol:8080/pereira01/20122020XXX/308812
-#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="ESPAGNE ☆ MOVISTAR",LA 1
-http://covertv.lol:8080/pereira01/20122020XXX/308813
 #EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png" group-title="ESPAGNE ☆ MOVISTAR",LA 2
 http://covertv.lol:8080/pereira01/20122020XXX/308814
 #EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/CuatroHD.svg/1200px-CuatroHD.svg.png" group-title="ESPAGNE ☆ MOVISTAR",CUATRO
@@ -15349,8 +15353,6 @@ http://covertv.lol:8080/pereira01/20122020XXX/347361
 http://covertv.lol:8080/pereira01/20122020XXX/347362
 #EXTINF:-1 tvg-id="" tvg-name="IS:quran Alafasy" tvg-logo="http://live.geoiptv.org:8880/channels_icon/47729389861.png" group-title="ARABIC ☆ VIP",IS:quran Alafasy HD
 http://covertv.lol:8080/pereira01/20122020XXX/347363
-#EXTINF:-1 tvg-id="" tvg-name="M+ SUPER COPA ESPANA VODAFON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Movistar_Plus%2B_Supercopa_de_España_logo_2023.png" group-title="ESPAGNE ☆ SPORT",M+ SUPER COPA ESPANA VODAFON
-http://covertv.lol:8080/pereira01/20122020XXX/354167
 #EXTINF:-1 tvg-id="" tvg-name="M+ SUPER COPA ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Movistar_Plus%2B_Supercopa_de_España_logo_2023.png" group-title="ESPAGNE ☆ SPORT",M+ SUPER COPA ESPANA
 http://covertv.lol:8080/pereira01/20122020XXX/354168
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="M+ LALIGA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/800px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ESPAGNE ☆ SPORT",M+ LALIGA ORANGE
