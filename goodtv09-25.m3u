@@ -3223,15 +3223,15 @@ http://goodtv.autos/play/Yousef06/57544875/321422.ts
 http://goodtv.autos/play/Yousef06/57544875/321423.ts
 #EXTINF:-1 tvg-id="SyFy" tvg-name="SYFY" tvg-logo="https://miguia.tv/channels/big_141.png" group-title="ES SPAIN+",SYFY SD
 http://goodtv.autos/play/Yousef06/57544875/321424.ts
-#EXTINF:-1 tvg-id="Movistar Series" tvg-name="Movistar SERIES" tvg-logo="https://miguia.tv/channels/big_273.png" group-title="ES SPAIN+",M+ SERIES FHD
+#EXTINF:-1 tvg-id="Movistar Series" tvg-name="Movistar SERIES" tvg-logo="https://miguia.tv/channels/big_273.png" group-title="ES SPAIN+",M+ Hits FHD
 http://goodtv.autos/play/Yousef06/57544875/321347.ts
-#EXTINF:-1 tvg-id="Movistar Series" tvg-name="Movistar SERIES" tvg-logo="https://miguia.tv/channels/big_273.png" group-title="ES SPAIN+",M+ SERIES HD
+#EXTINF:-1 tvg-id="Movistar Series" tvg-name="Movistar SERIES" tvg-logo="https://miguia.tv/channels/big_273.png" group-title="ES SPAIN+",M+ Hits HD
 http://goodtv.autos/play/Yousef06/57544875/321348.ts
-#EXTINF:-1 tvg-id="Movistar Series" tvg-name="Movistar SERIES" tvg-logo="https://miguia.tv/channels/big_273.png" group-title="ES SPAIN+",M+ SERIES SD
+#EXTINF:-1 tvg-id="Movistar Series" tvg-name="Movistar SERIES" tvg-logo="https://miguia.tv/channels/big_273.png" group-title="ES SPAIN+",M+ Hits SD
 http://goodtv.autos/play/Yousef06/57544875/321349.ts
-#EXTINF:-1 tvg-id="movistarseries2.es" tvg-name="Movistar SERIES 2" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7882_414_1_C00000_0_0_0.png" group-title="ES SPAIN+",M+ SERIES 2 FHD
+#EXTINF:-1 tvg-id="movistarseries2.es" tvg-name="Movistar SERIES 2" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7882_414_1_C00000_0_0_0.png" group-title="ES SPAIN+",M+ Hits 2 FHD
 http://goodtv.autos/play/Yousef06/57544875/321344.ts
-#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="Movistar SERIESMANIA" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-multideporte-es.png?raw=true" group-title="ES SPAIN+",M+ SERIESMANIA FHD
+#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="Movistar SERIESMANIA" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-multideporte-es.png?raw=true" group-title="ES SPAIN+",M+ HitsMANIA FHD
 http://goodtv.autos/play/Yousef06/57544875/321350.ts
 #EXTINF:-1 tvg-id="Antena 3" tvg-name="TEN" tvg-logo="https://diretele.com/wp-content/uploads/2020/09/ten-tv.png" group-title="ES SPAIN+",TEN SD
 http://goodtv.autos/play/Yousef06/57544875/321440.ts
@@ -4723,11 +4723,11 @@ http://goodtv.autos/play/Yousef06/57544875/696064.ts
 http://goodtv.autos/play/Yousef06/57544875/701015.ts
 #EXTINF:-1 tvg-id="" tvg-name="CRONICA TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/Cronica-TV-en-vivo-Online.png" group-title="ES SPAIN+",CRONICA TV HD
 http://goodtv.autos/play/Yousef06/57544875/703133.ts
-#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="Movistar SERIESMANIA" tvg-logo="" group-title="ES SPAIN+",M+ SERIESMANIA HD
+#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="Movistar SERIESMANIA" tvg-logo="" group-title="ES SPAIN+",M+ HitsMANIA HD
 http://goodtv.autos/play/Yousef06/57544875/703134.ts
 #EXTINF:-1 tvg-id="foxlife.es" tvg-name="FOX LIFE" tvg-logo="http://fanc.tmsimg.com/assets/s101732_ll_h3_aa.png" group-title="ES SPAIN+",FOX LIFE HD
 http://goodtv.autos/play/Yousef06/57544875/704078.ts
-#EXTINF:-1 tvg-id="movistarseries2.es" tvg-name="Movistar SERIES 2" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7882_414_1_C00000_0_0_0.png" group-title="ES SPAIN+",M+ SERIES 2 SD
+#EXTINF:-1 tvg-id="movistarseries2.es" tvg-name="Movistar SERIES 2" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7882_414_1_C00000_0_0_0.png" group-title="ES SPAIN+",M+ Hits 2 SD
 http://goodtv.autos/play/Yousef06/57544875/704079.ts
 #EXTINF:-1 tvg-id="" tvg-name="A PUNT" tvg-logo="" group-title="ES SPAIN+",A PUNT FHD
 http://goodtv.autos/play/Yousef06/57544875/706104.ts
@@ -4757,7 +4757,7 @@ http://goodtv.autos/play/Yousef06/57544875/706115.ts
 http://goodtv.autos/play/Yousef06/57544875/706116.ts
 #EXTINF:-1 tvg-id="MyPadel TV" tvg-name="MYPADEL TV" tvg-logo="http://vpsapache.hopto.org/images/mypadeltv.png" group-title="ES SPAIN+",MYPADEL TV FHD
 http://goodtv.autos/play/Yousef06/57544875/706117.ts
-#EXTINF:-1 tvg-id="movistarseries2.es" tvg-name="Movistar SERIES 2" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7882_414_1_C00000_0_0_0.png" group-title="ES SPAIN+",M+ SERIES 2 HD
+#EXTINF:-1 tvg-id="movistarseries2.es" tvg-name="Movistar SERIES 2" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7882_414_1_C00000_0_0_0.png" group-title="ES SPAIN+",M+ Hits 2 HD
 http://goodtv.autos/play/Yousef06/57544875/706532.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELE MADRID 6" tvg-logo="" group-title="ES SPAIN+",TELE MADRID 6 HD
 http://goodtv.autos/play/Yousef06/57544875/706533.ts
