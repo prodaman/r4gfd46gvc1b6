@@ -1,8 +1,8 @@
 <?php
 
 $repoPath = __DIR__; // Directorio del repositorio local
-$search = "M. Cine";
-$replace = "M+ ESTRENOS";
+$search = '"M+ CINE"';
+$replace = "'M+ ESTRENOS"';
 
 // Buscar archivos .m3u en el repositorio
 $m3uFiles = glob("$repoPath/*.m3u");
