@@ -235,9 +235,9 @@ http://almire.testmyiptv.com/live/TV-23097273/849762712758/438256.ts
 http://almire.testmyiptv.com/live/TV-23097273/849762712758/48398.ts
 #EXTINF:-1 tvg-id="M+ Originales" tvg-name="M+ ORIGINALES" tvg-logo="https://noos.vip/logo/ES/moriginales.png" group-title="ES - CINE",M+ ORIGINALES
 http://almire.testmyiptv.com/live/TV-23097273/849762712758/48397.ts
-#EXTINF:-1 tvg-id="M+ Cine" tvg-name="M+ CINE" tvg-logo="http://logo.solanaflix.com/images/logos/1455d278e2d60d507074e65cee44e58e.png" group-title="ES - CINE",M+ CINE FHD
+#EXTINF:-1 tvg-id="M+ ESTRENOS" tvg-name="M+ CINE" tvg-logo="http://logo.solanaflix.com/images/logos/1455d278e2d60d507074e65cee44e58e.png" group-title="ES - CINE",M+ CINE FHD
 http://almire.testmyiptv.com/live/TV-23097273/849762712758/48400.ts
-#EXTINF:-1 tvg-id="M+ Cine" tvg-name="M+ CINE" tvg-logo="http://logo.solanaflix.com/images/logos/1455d278e2d60d507074e65cee44e58e.png" group-title="ES - CINE",M+ CINE
+#EXTINF:-1 tvg-id="M+ ESTRENOS" tvg-name="M+ CINE" tvg-logo="http://logo.solanaflix.com/images/logos/1455d278e2d60d507074e65cee44e58e.png" group-title="ES - CINE",M+ CINE
 http://almire.testmyiptv.com/live/TV-23097273/849762712758/48399.ts
 #EXTINF:-1 tvg-id="MEST" tvg-name="M+" tvg-logo="http://jumeke.teamcdn.in:80/images/7e19f2b597d26d825548beaf2a7d31d1.png" group-title="ES - CINE",M+ FHD
 http://almire.testmyiptv.com/live/TV-23097273/849762712758/102334.ts
@@ -255,9 +255,9 @@ http://almire.testmyiptv.com/live/TV-23097273/849762712758/48403.ts
 http://almire.testmyiptv.com/live/TV-23097273/849762712758/48406.ts
 #EXTINF:-1 tvg-id="M+ Drama" tvg-name="M+ DRAMA" tvg-logo="http://logo.solanaflix.com/images/logos/12311ddb62355dff2654656fc1815614.png" group-title="ES - CINE",M+ DRAMA
 http://almire.testmyiptv.com/live/TV-23097273/849762712758/48405.ts
-#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name=" M+ CINE ESPANOL" tvg-logo="http://logo.solanaflix.com/images/logos/5xOfsnUlYg7PSXV53gcjPnX4XgbWVCT-Ek_NbAHR3PE.png" group-title="ES - CINE", M+ CINE ESPANOL FHD
+#EXTINF:-1 tvg-id="M+ ESTRENOS Español" tvg-name=" M+ CINE ESPANOL" tvg-logo="http://logo.solanaflix.com/images/logos/5xOfsnUlYg7PSXV53gcjPnX4XgbWVCT-Ek_NbAHR3PE.png" group-title="ES - CINE", M+ CINE ESPANOL FHD
 http://almire.testmyiptv.com/live/TV-23097273/849762712758/109482.ts
-#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ CINE ESPANOL" tvg-logo="http://logo.solanaflix.com/images/logos/a107aa2c3a55817e0ac524f4077f7806.png" group-title="ES - CINE",M+ CINE ESPANOL
+#EXTINF:-1 tvg-id="M+ ESTRENOS Español" tvg-name="M+ CINE ESPANOL" tvg-logo="http://logo.solanaflix.com/images/logos/a107aa2c3a55817e0ac524f4077f7806.png" group-title="ES - CINE",M+ CINE ESPANOL
 http://almire.testmyiptv.com/live/TV-23097273/849762712758/48407.ts
 #EXTINF:-1 tvg-id="M+ Clásicos" tvg-name="M+ CLASICO" tvg-logo="http://logo.solanaflix.com/images/logos/5xOfsnUlYg7PSXV53gcjPnX4XgbWVCT-Ek_NbAHR3PE.png" group-title="ES - CINE",M+ CLASICO FHD
 http://almire.testmyiptv.com/live/TV-23097273/849762712758/109248.ts
