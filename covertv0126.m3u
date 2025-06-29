@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="•●| ★ MOVISTAR+ ★ |●•" tvg-logo="https://assets.stickpng.com/images/62de9f02ff3c6e4b8b5de8b2.png" group-title="ESPAGNE ☆ MOVISTAR",•●| ★ MOVISTAR+ ★ |●•
+http://covertv.lol:8080/Huguet/Herve/308812
 #EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="ESPAGNE ☆ MOVISTAR",LA 1
 http://covertv.lol:8080/Huguet/Herve/308813
 #EXTINF:-1 tvg-id="" tvg-name="M+ SUPER COPA ESPANA VODAFON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Movistar_Plus%2B_Supercopa_de_España_logo_2023.png" group-title="ESPAGNE ☆ SPORT",M+ SUPER COPA ESPANA VODAFON
@@ -811,66 +813,68 @@ http://covertv.lol:8080/Huguet/Herve/437715
 http://covertv.lol:8080/Huguet/Herve/437716
 #EXTINF:-1 tvg-id="" tvg-name="XTRM" tvg-logo="https://canalxtrm.es/wp-content/uploads/2017/12/xtrm-logo-1.png" group-title="ESPAGNE ☆ SAT",XTRM FHD
 http://covertv.lol:8080/Huguet/Herve/437717
-#EXTINF:-1 tvg-id="" tvg-name="•●| ★ MOVISTAR+ ★ |●•" tvg-logo="https://assets.stickpng.com/images/62de9f02ff3c6e4b8b5de8b2.png" group-title="ESPAGNE ☆ MOVISTAR",•●| ★ MOVISTAR+ ★ |●•
-http://covertv.lol:8080/Huguet/Herve/308812
 #EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png" group-title="ESPAGNE ☆ MOVISTAR",LA 2
 http://covertv.lol:8080/Huguet/Herve/308814
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",ANTENA 3
+http://covertv.lol:8080/Huguet/Herve/308818
 #EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/CuatroHD.svg/1200px-CuatroHD.svg.png" group-title="ESPAGNE ☆ MOVISTAR",CUATRO
 http://covertv.lol:8080/Huguet/Herve/308815
 #EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Telecinco_HD2012.png/640px-Telecinco_HD2012.png" group-title="ESPAGNE ☆ MOVISTAR",TELECINCO
 http://covertv.lol:8080/Huguet/Herve/308816
 #EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LaSexta_HD_Logo_2016.png/2557px-LaSexta_HD_Logo_2016.png" group-title="ESPAGNE ☆ MOVISTAR",LA SEXTA
 http://covertv.lol:8080/Huguet/Herve/308817
-#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",ANTENA 3
-http://covertv.lol:8080/Huguet/Herve/308818
-#EXTINF:-1 tvg-id="" tvg-name="ORIGINALES" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",ORIGINALES
-http://covertv.lol:8080/Huguet/Herve/308819
-#EXTINF:-1 tvg-id="" tvg-name="VAMOS" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",VAMOS
-http://covertv.lol:8080/Huguet/Herve/308820
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",FOX
-http://covertv.lol:8080/Huguet/Herve/308821
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",AXN
-http://covertv.lol:8080/Huguet/Herve/308822
-#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",AXN MOVIES
-http://covertv.lol:8080/Huguet/Herve/308823
-#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",WARNER TV
-http://covertv.lol:8080/Huguet/Herve/308824
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",COMEDY CENTRAL
-http://covertv.lol:8080/Huguet/Herve/308825
-#EXTINF:-1 tvg-id="" tvg-name="CALLE 13" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",CALLE 13
-http://covertv.lol:8080/Huguet/Herve/308826
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",AMC
-http://covertv.lol:8080/Huguet/Herve/308827
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",SYFY
-http://covertv.lol:8080/Huguet/Herve/308828
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",TCM
-http://covertv.lol:8080/Huguet/Herve/308829
-#EXTINF:-1 tvg-id="" tvg-name="canal Hollywood" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",HOLLYWOOD
-http://covertv.lol:8080/Huguet/Herve/308830
-#EXTINF:-1 tvg-id="" tvg-name="CLAN" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",CLAN
-http://covertv.lol:8080/Huguet/Herve/308831
-#EXTINF:-1 tvg-id="" tvg-name="COSMO" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",COSMO
-http://covertv.lol:8080/Huguet/Herve/308832
-#EXTINF:-1 tvg-id="" tvg-name="M+ Hits" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",M+ Hits
-http://covertv.lol:8080/Huguet/Herve/308833
-#EXTINF:-1 tvg-id="" tvg-name="M+ CINE Español" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",M+ CINE Español
-http://covertv.lol:8080/Huguet/Herve/308834
-#EXTINF:-1 tvg-id="" tvg-name="M+ CINE" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",M+ CINE
-http://covertv.lol:8080/Huguet/Herve/308835
-#EXTINF:-1 tvg-id="" tvg-name="M+ SUSPENSE" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",M+ SUSPENSE
-http://covertv.lol:8080/Huguet/Herve/308836
 #EXTINF:-1 tvg-id="" tvg-name="M+ PLUS" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",M+ PLUS
 http://covertv.lol:8080/Huguet/Herve/308837
 #EXTINF:-1 tvg-id="" tvg-name="M+ PLUS 2" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",M+ PLUS 2
 http://covertv.lol:8080/Huguet/Herve/308838
+#EXTINF:-1 tvg-id="" tvg-name="ORIGINALES" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",ORIGINALES
+http://covertv.lol:8080/Huguet/Herve/308819
+#EXTINF:-1 tvg-id="" tvg-name="VAMOS" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",VAMOS
+http://covertv.lol:8080/Huguet/Herve/308820
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",AMC
+http://covertv.lol:8080/Huguet/Herve/308827
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",WARNER TV
+http://covertv.lol:8080/Huguet/Herve/308824
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",AXN MOVIES
+http://covertv.lol:8080/Huguet/Herve/308823
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",AXN
+http://covertv.lol:8080/Huguet/Herve/308822
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",TCM
+http://covertv.lol:8080/Huguet/Herve/308829
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",CALLE 13
+http://covertv.lol:8080/Huguet/Herve/308826
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",FOX
+http://covertv.lol:8080/Huguet/Herve/308821
+#EXTINF:-1 tvg-id="" tvg-name="M+ Hits" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",M+ Hits
+http://covertv.lol:8080/Huguet/Herve/308833
+#EXTINF:-1 tvg-id="" tvg-name="M+ Thriller" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",M+ Thriller
+http://covertv.lol:8080/Huguet/Herve/308847
+#EXTINF:-1 tvg-id="" tvg-name="M+ Thriller" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",M+ Thriller HD
+http://covertv.lol:8080/Huguet/Herve/308836
+#EXTINF:-1 tvg-id="" tvg-name="canal Hollywood" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",HOLLYWOOD
+http://covertv.lol:8080/Huguet/Herve/308830
 #EXTINF:-1 tvg-id="" tvg-name="M+ Acción" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",M+ ACCION
 http://covertv.lol:8080/Huguet/Herve/308839
-#EXTINF:-1 tvg-id="" tvg-name="M+ CL.SICOS" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",M+ CL.SICOS
-http://covertv.lol:8080/Huguet/Herve/308840
+#EXTINF:-1 tvg-id="" tvg-name="M+ ESTRENOS" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",M+ ESTRENOS
+http://covertv.lol:8080/Huguet/Herve/308835
 #EXTINF:-1 tvg-id="" tvg-name="M+ DRAMA" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",M+ DRAMA
 http://covertv.lol:8080/Huguet/Herve/308841
 #EXTINF:-1 tvg-id="" tvg-name="M+ COMEDIA" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",M+ COMEDIA
 http://covertv.lol:8080/Huguet/Herve/308842
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN COMEDIAS" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",RAKUTEN COMEDIAS VPID-HD
+http://covertv.lol:8080/Huguet/Herve/308956
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN ACCION" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",RAKUTEN ACCION VPID-HD
+http://covertv.lol:8080/Huguet/Herve/308957
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN DRAMAS" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",RAKUTEN DRAMAS VPID-HD
+http://covertv.lol:8080/Huguet/Herve/308958
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN FAMILIARES" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",RAKUTEN FAMILIARES VPID-HD
+http://covertv.lol:8080/Huguet/Herve/308959
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN STORIES" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",RAKUTEN STORIES VPID-HD
+http://covertv.lol:8080/Huguet/Herve/308960
+#EXTINF:-1 tvg-id="" tvg-name="M+ CL.SICOS" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",M+ CL.SICOS
+http://covertv.lol:8080/Huguet/Herve/308840
+#EXTINF:-1 tvg-id="" tvg-name="M+ ESTRENOS Español" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",M+ ESTRENOS Español
+http://covertv.lol:8080/Huguet/Herve/308834
 #EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS VOMOS" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",M+ ELLAS VOMOS
 http://covertv.lol:8080/Huguet/Herve/308843
 #EXTINF:-1 tvg-id="" tvg-name="M+ MUSICA" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",M+ MUSICA
@@ -879,12 +883,18 @@ http://covertv.lol:8080/Huguet/Herve/308844
 http://covertv.lol:8080/Huguet/Herve/308845
 #EXTINF:-1 tvg-id="" tvg-name="M+ LA RESISTENCIA" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",M+ LA RESISTENCIA
 http://covertv.lol:8080/Huguet/Herve/308846
-#EXTINF:-1 tvg-id="" tvg-name="M+ CRACKS" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",M+ CRACKS
-http://covertv.lol:8080/Huguet/Herve/308847
 #EXTINF:-1 tvg-id="" tvg-name="M+ INDIE" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",M+ INDIE
 http://covertv.lol:8080/Huguet/Herve/308848
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",COMEDY CENTRAL
+http://covertv.lol:8080/Huguet/Herve/308825
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",SYFY
+http://covertv.lol:8080/Huguet/Herve/308828
 #EXTINF:-1 tvg-id="" tvg-name="M+ DOCUMENTALES" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",M+ DOCUMENTALES
 http://covertv.lol:8080/Huguet/Herve/308849
+#EXTINF:-1 tvg-id="" tvg-name="CLAN" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",CLAN
+http://covertv.lol:8080/Huguet/Herve/308831
+#EXTINF:-1 tvg-id="" tvg-name="COSMO" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",COSMO
+http://covertv.lol:8080/Huguet/Herve/308832
 #EXTINF:-1 tvg-id="" tvg-name="•●| ★ VODAFONE ESPANA S.A.U. ★ |●•" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",•●| ★ VODAFONE ESPANA S.A.U. ★ |●•
 http://covertv.lol:8080/Huguet/Herve/308895
 #EXTINF:-1 tvg-id="" tvg-name="LA 1 tve UHD [ ONLY LIVE EVENTS UHD ]" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",LA 1 tve UHD [ ONLY LIVE EVENTS UHD ]
@@ -941,9 +951,9 @@ http://covertv.lol:8080/Huguet/Herve/308920
 http://covertv.lol:8080/Huguet/Herve/308921
 #EXTINF:-1 tvg-id="" tvg-name="BOM CINE" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",BOM CINE
 http://covertv.lol:8080/Huguet/Herve/308922
-#EXTINF:-1 tvg-id="" tvg-name="CINE FEEL GOOD VPID-HD" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",CINE FEEL GOOD VPID-HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE FEEL GOOD" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",CINE FEEL GOOD VPID-HD
 http://covertv.lol:8080/Huguet/Herve/308923
-#EXTINF:-1 tvg-id="" tvg-name="CINES VERDI TV VPID-HD" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",CINES VERDI TV VPID-HD
+#EXTINF:-1 tvg-id="" tvg-name="CINES VERDI TV" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",CINES VERDI TV VPID-HD
 http://covertv.lol:8080/Huguet/Herve/308924
 #EXTINF:-1 tvg-id="" tvg-name="INFAST" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",INFAST
 http://covertv.lol:8080/Huguet/Herve/308925
@@ -1007,17 +1017,7 @@ http://covertv.lol:8080/Huguet/Herve/308953
 http://covertv.lol:8080/Huguet/Herve/308954
 #EXTINF:-1 tvg-id="" tvg-name="DW ESP HDR" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",DW ESP HDR
 http://covertv.lol:8080/Huguet/Herve/308955
-#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN COMEDIAS VPID-HD" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",RAKUTEN COMEDIAS VPID-HD
-http://covertv.lol:8080/Huguet/Herve/308956
-#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN ACCION VPID-HD" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",RAKUTEN ACCION VPID-HD
-http://covertv.lol:8080/Huguet/Herve/308957
-#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN DRAMAS VPID-HD" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",RAKUTEN DRAMAS VPID-HD
-http://covertv.lol:8080/Huguet/Herve/308958
-#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN FAMILIARES VPID-HD" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",RAKUTEN FAMILIARES VPID-HD
-http://covertv.lol:8080/Huguet/Herve/308959
-#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN STORIES VPID-HD" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",RAKUTEN STORIES VPID-HD
-http://covertv.lol:8080/Huguet/Herve/308960
-#EXTINF:-1 tvg-id="" tvg-name="7ANDALUCIA VPID-HD" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",7ANDALUCIA VPID-HD
+#EXTINF:-1 tvg-id="" tvg-name="7ANDALUCIA" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",7ANDALUCIA VPID-HD
 http://covertv.lol:8080/Huguet/Herve/308961
 #EXTINF:-1 tvg-id="" tvg-name="CANAL SUR ANDALUC" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",CANAL SUR ANDALUC
 http://covertv.lol:8080/Huguet/Herve/308962
@@ -16013,11 +16013,11 @@ http://covertv.lol:8080/Huguet/Herve/364913
 http://covertv.lol:8080/Huguet/Herve/364914
 #EXTINF:-1 tvg-id="" tvg-name="PTV SEVILLA" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",PTV SEVILLA
 http://covertv.lol:8080/Huguet/Herve/364915
-#EXTINF:-1 tvg-id="" tvg-name="RUNTIME ACTION VPID-HD" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",RUNTIME ACTION VPID-HD
+#EXTINF:-1 tvg-id="" tvg-name="RUNTIME ACTION" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",RUNTIME ACTION VPID-HD
 http://covertv.lol:8080/Huguet/Herve/364916
-#EXTINF:-1 tvg-id="" tvg-name="RUNTIME COMEDIA VPID-HD" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",RUNTIME COMEDIA VPID-HD
+#EXTINF:-1 tvg-id="" tvg-name="RUNTIME COMEDIA" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",RUNTIME COMEDIA VPID-HD
 http://covertv.lol:8080/Huguet/Herve/364917
-#EXTINF:-1 tvg-id="" tvg-name="RUNTIME VPID-HD" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",RUNTIME VPID-HD
+#EXTINF:-1 tvg-id="" tvg-name="RUNTIME" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",RUNTIME VPID-HD
 http://covertv.lol:8080/Huguet/Herve/364918
 #EXTINF:-1 tvg-id="" tvg-name="SABADELL VALLES" tvg-logo="" group-title="ESPAGNE ☆ MOVISTAR",SABADELL VALLES
 http://covertv.lol:8080/Huguet/Herve/364919
