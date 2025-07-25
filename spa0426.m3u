@@ -1,0 +1,289 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 HD" tvg-logo="" group-title="CANALES",LA 1 HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5799.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA 2 HD" tvg-logo="" group-title="CANALES",LA 2 HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5800.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 HD" tvg-logo="" group-title="CANALES",ANTENA 3 HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5801.ts
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO HD" tvg-logo="" group-title="CANALES",CUATRO HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5802.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO HD" tvg-logo="" group-title="CANALES",TELECINCO HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5803.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA HD" tvg-logo="" group-title="CANALES",LA SEXTA HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5804.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS +" tvg-logo="" group-title="CANALES",MOVISTAR PLUS +
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/7575.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS" tvg-logo="" group-title="CANALES",M+ VAMOS
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5806.ts
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC HD" tvg-logo="" group-title="CANALES",AMC HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5817.ts
+#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="" group-title="CANALES",WARNER HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5813.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES" tvg-logo="" group-title="CANALES",AXN MOVIES
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/18237.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="CANALES",AXN HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5812.ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="CANALES",TCM HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5832.ts
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD" tvg-logo="" group-title="CANALES",CALLE 13 HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5815.ts
+#EXTINF:-1 tvg-id="" tvg-name="THRILLER-TERROR" tvg-logo="" group-title="CANALES",THRILLER-TERROR
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/14758.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ ESTRENOS" tvg-logo="" group-title="CANALES",M+ ESTRENOS
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5825.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ HITS" tvg-logo="" group-title="CANALES",M+ HITS
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5809.ts
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="CANALES",HOLLYWOOD HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5833.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ ACCION" tvg-logo="" group-title="CANALES",M+ ACCION
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5828.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ COMEDIA" tvg-logo="" group-title="CANALES",M+ COMEDIA
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5829.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ DRAMA " tvg-logo="" group-title="CANALES",M+ DRAMA 
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5830.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ INDIE HD" tvg-logo="" group-title="CANALES",M+ INDIE HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/11684.ts
+#EXTINF:-1 tvg-id="" tvg-name="START CHANNEL HD " tvg-logo="" group-title="CANALES",START CHANNEL HD 
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5811.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="" group-title="CANALES",COMEDY CENTRAL HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5814.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOM CINE" tvg-logo="" group-title="CANALES",BOM CINE
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/11685.ts
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" group-title="CANALES",SYFY HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5820.ts
+#EXTINF:-1 tvg-id="" tvg-name="XTRM" tvg-logo="" group-title="CANALES",XTRM
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/9009.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE" tvg-logo="" group-title="CANALES",SUNDANCE
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5885.ts
+#EXTINF:-1 tvg-id="" tvg-name="DARK HD" tvg-logo="" group-title="CANALES",DARK HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/8317.ts
+#EXTINF:-1 tvg-id="" tvg-name="SOMOS" tvg-logo="" group-title="CANALES",SOMOS
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/12026.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ ORIGINALES" tvg-logo="" group-title="CANALES",M+ ORIGINALES
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5805.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ CLASICOS" tvg-logo="" group-title="CANALES",M+ CLASICOS
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/7576.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="" group-title="CANALES",PARAMOUNT
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5834.ts
+#EXTINF:-1 tvg-id="" tvg-name="SQUIRREL" tvg-logo="" group-title="CANALES",SQUIRREL
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/18236.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRECE" tvg-logo="" group-title="CANALES",TRECE
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/18235.ts
+#EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="" group-title="CANALES",ENERGY
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5824.ts
+#EXTINF:-1 tvg-id="" tvg-name="FDF" tvg-logo="" group-title="CANALES",FDF
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5822.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEOX" tvg-logo="" group-title="CANALES",NEOX
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5823.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATRESERIES HD" tvg-logo="" group-title="CANALES",ATRESERIES HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/9010.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 1" tvg-logo="" group-title="CANALES",TAQUILLA VIP 1
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/934.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 2" tvg-logo="" group-title="CANALES",TAQUILLA VIP 2
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/932.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 3" tvg-logo="" group-title="CANALES",TAQUILLA VIP 3
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/962.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 4" tvg-logo="" group-title="CANALES",TAQUILLA VIP 4
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/974.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 5" tvg-logo="" group-title="CANALES",TAQUILLA VIP 5
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/1137.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 6" tvg-logo="" group-title="CANALES",TAQUILLA VIP 6
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/1136.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 7" tvg-logo="" group-title="CANALES",TAQUILLA VIP 7
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/1140.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 8" tvg-logo="" group-title="CANALES",TAQUILLA VIP 8
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/1142.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 9" tvg-logo="" group-title="CANALES",TAQUILLA VIP 9
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/3114.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 10" tvg-logo="" group-title="CANALES",TAQUILLA VIP 10
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/3115.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LA LIGA HD" tvg-logo="" group-title="CANALES",M LA LIGA HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5872.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+Copa del Rey HD" tvg-logo="" group-title="CANALES",M+Copa del Rey HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/7588.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA TV 2 HD" tvg-logo="" group-title="CANALES",M+ LALIGA TV 2 HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5870.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA TV 3 HD" tvg-logo="" group-title="CANALES",M+ LALIGA TV 3 HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/11691.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA TV 4" tvg-logo="" group-title="CANALES",M+ LALIGA TV 4
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/11695.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD" tvg-logo="" group-title="CANALES",DAZN LA LIGA HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5869.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2 HD" tvg-logo="" group-title="CANALES",DAZN LA LIGA 2 HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/12031.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA 3" tvg-logo="" group-title="CANALES",DAZN LIGA 3
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/7580.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA 4" tvg-logo="" group-title="CANALES",DAZN LIGA 4
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/7581.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA 5" tvg-logo="" group-title="CANALES",DAZN LIGA 5
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/18161.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD" tvg-logo="" group-title="CANALES",DAZN F1 HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5853.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="" group-title="CANALES",DAZN 1 HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5849.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="" group-title="CANALES",DAZN 2 HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5850.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="" group-title="CANALES",DAZN 3
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/12923.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="" group-title="CANALES",DAZN 4
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/12924.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES HD" tvg-logo="" group-title="CANALES",M LIGA CAMPEONES HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5862.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES 2" tvg-logo="" group-title="CANALES",M LIGA CAMPEONES 2
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5874.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES 3" tvg-logo="" group-title="CANALES",M LIGA CAMPEONES 3
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/7583.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES 4" tvg-logo="" group-title="CANALES",M LIGA CAMPEONES 4
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/7584.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES 8" tvg-logo="" group-title="CANALES",M LIGA CAMPEONES 8
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/7582.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES 9" tvg-logo="" group-title="CANALES",M LIGA CAMPEONES 9
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/17942.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES 10" tvg-logo="" group-title="CANALES",M LIGA CAMPEONES 10
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/17943.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES 11" tvg-logo="" group-title="CANALES",M LIGA CAMPEONES 11
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/17944.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES 12" tvg-logo="" group-title="CANALES",M LIGA CAMPEONES 12
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/17945.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES 13" tvg-logo="" group-title="CANALES",M LIGA CAMPEONES 13
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/17946.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES 14" tvg-logo="" group-title="CANALES",M LIGA CAMPEONES 14
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/17947.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES 15" tvg-logo="" group-title="CANALES",M LIGA CAMPEONES 15
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/17948.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES 16" tvg-logo="" group-title="CANALES",M LIGA CAMPEONES 16
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/17949.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES 17" tvg-logo="" group-title="CANALES",M LIGA CAMPEONES 17
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/17950.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES 18" tvg-logo="" group-title="CANALES",M LIGA CAMPEONES 18
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/17951.ts
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES 19" tvg-logo="" group-title="CANALES",M LIGA CAMPEONES 19
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/17952.ts
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION" tvg-logo="" group-title="CANALES",LALIGA TV HYPERMOTION
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5851.ts
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 2" tvg-logo="" group-title="CANALES",LALIGA TV HYPERMOTION 2
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5852.ts
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 3 " tvg-logo="" group-title="CANALES",LALIGA TV HYPERMOTION 3 
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/12030.ts
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 4" tvg-logo="" group-title="CANALES",LALIGA TV HYPERMOTION 4
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/7589.ts
+#EXTINF:-1 tvg-id="" tvg-name="HYPERMOTION 5" tvg-logo="" group-title="CANALES",HYPERMOTION 5
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/7585.ts
+#EXTINF:-1 tvg-id="" tvg-name="HYPERMOTION 6" tvg-logo="" group-title="CANALES",HYPERMOTION 6
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/7586.ts
+#EXTINF:-1 tvg-id="" tvg-name="HYPERMOTION 7" tvg-logo="" group-title="CANALES",HYPERMOTION 7
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/7587.ts
+#EXTINF:-1 tvg-id="" tvg-name="M DEPORTES HD" tvg-logo="" group-title="CANALES",M DEPORTES HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5866.ts
+#EXTINF:-1 tvg-id="" tvg-name="M DEPORTES 2 " tvg-logo="" group-title="CANALES",M DEPORTES 2 
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5864.ts
+#EXTINF:-1 tvg-id="" tvg-name="M DEPORTES 3" tvg-logo="" group-title="CANALES",M DEPORTES 3
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5865.ts
+#EXTINF:-1 tvg-id="" tvg-name="M DEPORTES 4" tvg-logo="" group-title="CANALES",M DEPORTES 4
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/13053.ts
+#EXTINF:-1 tvg-id="" tvg-name="M DEPORTES 5" tvg-logo="" group-title="CANALES",M DEPORTES 5
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/1738.ts
+#EXTINF:-1 tvg-id="" tvg-name="M DEPORTES 6" tvg-logo="" group-title="CANALES",M DEPORTES 6
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/12028.ts
+#EXTINF:-1 tvg-id="" tvg-name="M DEPORTES 7" tvg-logo="" group-title="CANALES",M DEPORTES 7
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/12027.ts
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="CANALES",EUROSPORT 1 HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5858.ts
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 " tvg-logo="" group-title="CANALES",EUROSPORT 2 
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5857.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. GOLF HD" tvg-logo="" group-title="CANALES",M. GOLF HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5867.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOL" tvg-logo="" group-title="CANALES",GOL
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5859.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE" tvg-logo="" group-title="CANALES",TELEDEPORTE
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5882.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEQUIVIR" tvg-logo="" group-title="CANALES",TELEQUIVIR
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5883.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEMADRID" tvg-logo="" group-title="CANALES",TELEMADRID
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/18221.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOROLE" tvg-logo="" group-title="CANALES",TOROLE
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/16737.ts
+#EXTINF:-1 tvg-id="" tvg-name="ONE TORO" tvg-logo="" group-title="CANALES",ONE TORO
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/18271.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA HD" tvg-logo="" group-title="CANALES",CAZAyPESCA HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5845.ts
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV" tvg-logo="" group-title="CANALES",IBERALIA TV
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5861.ts
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIACAZA" tvg-logo="" group-title="CANALES",IBERALIACAZA
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/16732.ts
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIAPESCA " tvg-logo="" group-title="CANALES",IBERALIAPESCA 
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/16733.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="" group-title="CANALES",NAT GEO HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5876.ts
+#EXTINF:-1 tvg-id="" tvg-name="NG WILD HD" tvg-logo="" group-title="CANALES",NG WILD HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5877.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="" group-title="CANALES",HISTORIA
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5860.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="" group-title="CANALES",DISCOVERY
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5886.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ODISEA" tvg-logo="" group-title="CANALES",CANAL ODISEA
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5843.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC BREAK" tvg-logo="" group-title="CANALES",AMC BREAK
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/12139.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC CRIME" tvg-logo="" group-title="CANALES",AMC CRIME
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/12140.ts
+#EXTINF:-1 tvg-id="" tvg-name="BUEN VIAJE" tvg-logo="" group-title="CANALES",BUEN VIAJE
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/11698.ts
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="CANALES",DMAX
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/9012.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA" tvg-logo="" group-title="CANALES",CANAL COCINA
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5841.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA" tvg-logo="" group-title="CANALES",CANAL DECASA
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5842.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIVINITY" tvg-logo="" group-title="CANALES",DIVINITY
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5856.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOVA" tvg-logo="" group-title="CANALES",NOVA
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5879.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEGA" tvg-logo="" group-title="CANALES",MEGA
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/81.ts
+#EXTINF:-1 tvg-id="" tvg-name="BE MAD HD" tvg-logo="" group-title="CANALES",BE MAD HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5837.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEN" tvg-logo="" group-title="CANALES",TEN
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/10198.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN FAMILIA" tvg-logo="" group-title="CANALES",EN FAMILIA
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5844.ts
+#EXTINF:-1 tvg-id="" tvg-name="BabyTV" tvg-logo="" group-title="CANALES",BabyTV
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5840.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="" group-title="CANALES",DISNEY JR
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5855.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="" group-title="CANALES",NICK JR
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5887.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEONHD" tvg-logo="" group-title="CANALES",NICKELODEONHD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5878.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="" group-title="CANALES",BOING
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5839.ts
+#EXTINF:-1 tvg-id="" tvg-name="CLAN  HD" tvg-logo="" group-title="CANALES",CLAN  HD
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5846.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cadena Elite España" tvg-logo="" group-title="CANALES",Cadena Elite España
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/6279.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARAGON TV " tvg-logo="" group-title="CANALES",ARAGON TV 
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5807.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR A." tvg-logo="" group-title="CANALES",CANAL SUR A.
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/5808.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR 2" tvg-logo="" group-title="CANALES",CANAL SUR 2
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/18234.ts
+#EXTINF:-1 tvg-id="" tvg-name="ONDA CADIZ" tvg-logo="" group-title="CANALES",ONDA CADIZ
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/1671.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEVISION GALICIA" tvg-logo="" group-title="CANALES",TELEVISION GALICIA
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/6670.ts
+#EXTINF:-1 tvg-id="" tvg-name="EL TORO TV" tvg-logo="" group-title="CANALES",EL TORO TV
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/6275.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL EXTREMADURA" tvg-logo="" group-title="CANALES",CANAL EXTREMADURA
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/1739.ts
+#EXTINF:-1 tvg-id="" tvg-name="CASTILLA LA MANCHA" tvg-logo="" group-title="CANALES",CASTILLA LA MANCHA
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/6330.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTV CORDOBA" tvg-logo="" group-title="CANALES",PTV CORDOBA
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/8487.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTV GRANADA" tvg-logo="" group-title="CANALES",PTV GRANADA
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/18238.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTV ALMERIA" tvg-logo="" group-title="CANALES",PTV ALMERIA
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/18239.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTV SEVILLA" tvg-logo="" group-title="CANALES",PTV SEVILLA
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/16738.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTV MALAGA" tvg-logo="" group-title="CANALES",PTV MALAGA
+http://zxcvb.ateneamed.xyz:8080/live/fgranadal/777qTbDwRdK8/16740.ts
