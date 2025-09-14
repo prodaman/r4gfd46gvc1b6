@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="LA 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="ES | TOP CANALES VIP",LA 1
+http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/648
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC.png" group-title="ES | CINE & SERIES VIP",AMC
+http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/732
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",(HD) DAZN LALIGA
 http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/243
 #EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",(HD REPUESTO) DAZN LALIGA
@@ -153,18 +157,16 @@ http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/643
 http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/644
 #EXTINF:-1 tvg-id="es.Nickelodeon" tvg-name="NICKELODEON" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png" group-title="ES | INFANTILES VIP",NICKELODEON
 http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/645
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="TELECINCO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="ES | TOP CANALES VIP",TELECINCO
-http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/647
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="LA 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="ES | TOP CANALES VIP",LA 1
-http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/648
 #EXTINF:-1 tvg-id="LA2.es" tvg-name="LA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_2.png" group-title="ES | TOP CANALES VIP",LA 2
 http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/649
 #EXTINF:-1 tvg-id="0" tvg-name="ANTENA 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="ES | TOP CANALES VIP",ANTENA 3
 http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/646
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="ES | TOP CANALES VIP",LA SEXTA
-http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/650
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-name="CUATRO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="ES | TOP CANALES VIP",CUATRO
 http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/651
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="TELECINCO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="ES | TOP CANALES VIP",TELECINCO
+http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/647
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="ES | TOP CANALES VIP",LA SEXTA
+http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/650
 #EXTINF:-1 tvg-id="Factoria de Ficcion" tvg-name="FACTORÍA DE FICCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" group-title="ES | TOP CANALES VIP",FACTORÍA DE FICCIÓN
 http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/652
 #EXTINF:-1 tvg-id="Nova.es" tvg-name="NOVA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nova.png" group-title="ES | TOP CANALES VIP",NOVA
@@ -173,34 +175,6 @@ http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/653
 http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/654
 #EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TRECE.png" group-title="ES | TOP CANALES VIP",TRECE
 http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/655
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="M+ ACCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="ES | CINE & SERIES VIP",M+ ACCIÓN
-http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/656
-#EXTINF:-1 tvg-id="CanalPlusComedia.es" tvg-name="M+ COMEDIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" group-title="ES | CINE & SERIES VIP",M+ COMEDIA
-http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/657
-#EXTINF:-1 tvg-id="M+ Cine Espanol" tvg-name="M+ CINE ESPAÑOL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png" group-title="ES | CINE & SERIES VIP",M+ CINE ESPAÑOL
-http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/658
-#EXTINF:-1 tvg-id="M+ Clasicos" tvg-name="M+ CLÁSICOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png" group-title="ES | CINE & SERIES VIP",M+ CLÁSICOS
-http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/659
-#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="M+ CINE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine.png" group-title="ES | CINE & SERIES VIP",M+ CINE
-http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/87110
-#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="M+ DRAMA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="ES | CINE & SERIES VIP",M+ DRAMA
-http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/660
-#EXTINF:-1 tvg-id="CanalPlusSeries.sp" tvg-name="M+ SERIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Series.png" group-title="ES | CINE & SERIES VIP",M+ SERIES
-http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/663
-#EXTINF:-1 tvg-id="es.#0" tvg-name="M+ ORIGINALES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Originales.png" group-title="ES | CINE & SERIES VIP",M+ ORIGINALES
-http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/87107
-#EXTINF:-1 tvg-id="" tvg-name="M+ INDIE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="ES | CINE & SERIES VIP",M+ INDIE
-http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/87106
-#EXTINF:-1 tvg-id="Xtrm.es" tvg-name="XTRM" tvg-logo="https://docdog.top/logo/countries/spain/movistar/XTRM.png" group-title="ES | CINE & SERIES VIP",XTRM
-http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/767
-#EXTINF:-1 tvg-id="BE MAD" tvg-name="BE MAD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BE_MAD.png" group-title="ES | CINE & SERIES VIP",BE MAD
-http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/737
-#EXTINF:-1 tvg-id="Hollywood" tvg-name="HOLLYWOOD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Hollywood.png" group-title="ES | CINE & SERIES VIP",HOLLYWOOD
-http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/665
-#EXTINF:-1 tvg-id="Paramount.es" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Paramount_Network.png" group-title="ES | CINE & SERIES VIP",PARAMOUNT CHANNEL
-http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/666
-#EXTINF:-1 tvg-id="Somos.es" tvg-name="SOMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Somos.png" group-title="ES | CINE & SERIES VIP",SOMOS
-http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/667
 #EXTINF:-1 tvg-id="TNT.sp" tvg-name="WARNER TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Warner_TV.png" group-title="ES | CINE & SERIES VIP",WARNER TV
 http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/668
 #EXTINF:-1 tvg-id="es.TCM" tvg-name="TCM" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TCM.png" group-title="ES | CINE & SERIES VIP",TCM
@@ -213,6 +187,36 @@ http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/736
 http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/740
 #EXTINF:-1 tvg-id="Dark.es" tvg-name="DARK" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DARK.png" group-title="ES | CINE & SERIES VIP",DARK
 http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/782
+#EXTINF:-1 tvg-id="CanalPlusSeries.sp" tvg-name="M+ HITS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Series.png" group-title="ES | CINE & SERIES VIP",M+ HITS
+http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/663
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="CANAL HOLLYWOOD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Hollywood.png" group-title="ES | CINE & SERIES VIP",HOLLYWOOD
+http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/665
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="M+ ACCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="ES | CINE & SERIES VIP",M+ ACCIÓN
+http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/656
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="M+ ESTRENOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine.png" group-title="ES | CINE & SERIES VIP",M+ CINE
+http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/87110
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="M+ DRAMA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="ES | CINE & SERIES VIP",M+ DRAMA
+http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/660
+#EXTINF:-1 tvg-id="CanalPlusComedia.es" tvg-name="M+ COMEDIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" group-title="ES | CINE & SERIES VIP",M+ COMEDIA
+http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/657
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="BE MAD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BE_MAD.png" group-title="ES | CINE & SERIES VIP",BE MAD
+http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/737
+#EXTINF:-1 tvg-id="M+ Cine Espanol" tvg-name="M+ CINE ESPAÑOL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png" group-title="ES | CINE & SERIES VIP",M+ CINE ESPAÑOL
+http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/658
+#EXTINF:-1 tvg-id="M+ Clasicos" tvg-name="M+ CLÁSICOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png" group-title="ES | CINE & SERIES VIP",M+ CLÁSICOS
+http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/659
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="Movistar Plus+" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ES | CINE & SERIES VIP",MOVISTAR PLUS+
+http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/87109
+#EXTINF:-1 tvg-id="es.#0" tvg-name="M+ ORIGINALES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Originales.png" group-title="ES | CINE & SERIES VIP",M+ ORIGINALES
+http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/87107
+#EXTINF:-1 tvg-id="" tvg-name="M+ INDIE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="ES | CINE & SERIES VIP",M+ INDIE
+http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/87106
+#EXTINF:-1 tvg-id="Xtrm.es" tvg-name="XTRM" tvg-logo="https://docdog.top/logo/countries/spain/movistar/XTRM.png" group-title="ES | CINE & SERIES VIP",XTRM
+http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/767
+#EXTINF:-1 tvg-id="Paramount.es" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Paramount_Network.png" group-title="ES | CINE & SERIES VIP",PARAMOUNT CHANNEL
+http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/666
+#EXTINF:-1 tvg-id="Somos.es" tvg-name="SOMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Somos.png" group-title="ES | CINE & SERIES VIP",SOMOS
+http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/667
 #EXTINF:-1 tvg-id="MXC| ATRES SERIES FHD" tvg-name="ATRESERIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Atreseries.png" group-title="ES | CINE & SERIES VIP",ATRESERIES
 http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/800
 #EXTINF:-1 tvg-id="" tvg-name="M+ DOCUMENTALES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Documentales.png" group-title="ES | CULTURA VIP",M+ DOCUMENTALES
@@ -247,8 +251,6 @@ http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/718
 http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/719
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 HORAS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/24_Horas.png" group-title="ES | NEWS VIP",24 HORAS
 http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/730
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC.png" group-title="ES | ESTILO DE VIDA VIP",AMC
-http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/732
 #EXTINF:-1 tvg-id="0" tvg-name="ARAGÓN TV INT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Aragon_TV_Int.png" group-title="ES | REGIONAL VIP",ARAGÓN TV INT
 http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/734
 #EXTINF:-1 tvg-id="0" tvg-name="CANAL COCINA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Cocina.png" group-title="ES | ESTILO DE VIDA VIP",CANAL COCINA
