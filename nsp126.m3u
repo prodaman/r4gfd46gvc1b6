@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="LA 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="ES | TOP CANALES VIP",LA 1
 http://vipiwzm.top:8080/VIP017491736449466296/74834f2853ea/648
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC.png" group-title="ES | CINE & SERIES VIP",AMC
