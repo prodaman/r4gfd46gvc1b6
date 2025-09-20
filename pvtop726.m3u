@@ -1,186 +1,302 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1 tvg-id="24horas.es" tvg-name="24 HORAS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxcjYWNCysfZ2ukdtggBDRk.png" group-title="GENERALISTAS",24 HORAS HD
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="24 HORAS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxcjYWNCysfZ2ukdtggBDRk.png" group-title="ESP+",24 HORAS HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1443
-#EXTINF:-1 tvg-id="24horas.es" tvg-name="24 HORAS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxcjYWNCysfZ2ukdtggBDRk.png" group-title="GENERALISTAS",24 HORAS FHD
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="24 HORAS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxcjYWNCysfZ2ukdtggBDRk.png" group-title="ESP+",24 HORAS FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99441
-#EXTINF:-1 tvg-id="24horas.es" tvg-name="24 HORAS SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_KNF8U0HgbYnCCI9UbeTJVw.png" group-title="GENERALISTAS",24 HORAS SD
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="24 HORAS SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_KNF8U0HgbYnCCI9UbeTJVw.png" group-title="ESP+",24 HORAS SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/96390
-#EXTINF:-1 tvg-id="canalsur.es" tvg-name="CANAL SUR" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9Z6uhKGmbKF_QY-_oGKRCM.png" group-title="GENERALISTAS",CANAL SUR HD
+#EXTINF:-1 tvg-id="canalsur.es" tvg-name="CANAL SUR" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9Z6uhKGmbKF_QY-_oGKRCM.png" group-title="ESP+",CANAL SUR HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129179
-#EXTINF:-1 tvg-id="canalsur.es" tvg-name="CANAL SUR SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9Z6uhKGmbKF_QY-_oGKRCM.png" group-title="GENERALISTAS",CANAL SUR SD
+#EXTINF:-1 tvg-id="canalsur.es" tvg-name="CANAL SUR SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9Z6uhKGmbKF_QY-_oGKRCM.png" group-title="ESP+",CANAL SUR SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129205
-#EXTINF:-1 tvg-id="canalsurandalucía.es" tvg-name="CANAL SUR ANDALUCIA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9Z6uhKGmbKF_QY-_oGKRCM.png" group-title="GENERALISTAS",CANAL SUR ANDALUCIA HD
+#EXTINF:-1 tvg-id="canalsurandalucía.es" tvg-name="CANAL SUR ANDALUCIA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9Z6uhKGmbKF_QY-_oGKRCM.png" group-title="ESP+",CANAL SUR ANDALUCIA HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1445
-#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9ro7frZpyroZ15yRbQrBuI.png" group-title="GENERALISTAS",LA 1 HD
+#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9ro7frZpyroZ15yRbQrBuI.png" group-title="ESP+",LA 1 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1447
-#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9ro7frZpyroZ15yRbQrBuI.png" group-title="GENERALISTAS",LA 1 FHD
+#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9ro7frZpyroZ15yRbQrBuI.png" group-title="ESP+",LA 1 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1448
-#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1 4K" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9ro7frZpyroZ15yRbQrBuI.png" group-title="GENERALISTAS",LA 1 4K
+#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1 4K" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9ro7frZpyroZ15yRbQrBuI.png" group-title="ESP+",LA 1 4K
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/141085
-#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1 SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9ro7frZpyroZ15yRbQrBuI.png" group-title="GENERALISTAS",LA 1 SD
+#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1 SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9ro7frZpyroZ15yRbQrBuI.png" group-title="ESP+",LA 1 SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1446
-#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwJ-cDA_hX989yWCjjh_HiU.png" group-title="GENERALISTAS",LA 2 HD
+#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwJ-cDA_hX989yWCjjh_HiU.png" group-title="ESP+",LA 2 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1450
-#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwJ-cDA_hX989yWCjjh_HiU.png" group-title="GENERALISTAS",LA 2 FHD
+#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwJ-cDA_hX989yWCjjh_HiU.png" group-title="ESP+",LA 2 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129206
-#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2 SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwJ-cDA_hX989yWCjjh_HiU.png" group-title="GENERALISTAS",LA 2 SD
+#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2 SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwJ-cDA_hX989yWCjjh_HiU.png" group-title="ESP+",LA 2 SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/96391
-#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4qars_pmPIMoSeu0n3hE4U.png" group-title="GENERALISTAS",ANTENA 3 HD
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4qars_pmPIMoSeu0n3hE4U.png" group-title="ESP+",ANTENA 3 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1452
-#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4qars_pmPIMoSeu0n3hE4U.png" group-title="GENERALISTAS",ANTENA 3 FHD
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4qars_pmPIMoSeu0n3hE4U.png" group-title="ESP+",ANTENA 3 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1453
-#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ6XMt553EWwBzh26kBVncEA.png" group-title="GENERALISTAS",ANTENA 3
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ6XMt553EWwBzh26kBVncEA.png" group-title="ESP+",ANTENA 3
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1451
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9ticFmzHLklOcju-nCphSQ.png" group-title="GENERALISTAS",CUATRO HD
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9ticFmzHLklOcju-nCphSQ.png" group-title="ESP+",CUATRO HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1455
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9ticFmzHLklOcju-nCphSQ.png" group-title="GENERALISTAS",CUATRO FHD
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9ticFmzHLklOcju-nCphSQ.png" group-title="ESP+",CUATRO FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1456
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_P2ViGLKU8r-mcjXunDZ-0E.png" group-title="GENERALISTAS",CUATRO
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_P2ViGLKU8r-mcjXunDZ-0E.png" group-title="ESP+",CUATRO
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1454
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9x2Wapf_x3_lQNi8ogF44I.png" group-title="GENERALISTAS",TELECINCO HD
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9x2Wapf_x3_lQNi8ogF44I.png" group-title="ESP+",TELECINCO HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1459
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9x2Wapf_x3_lQNi8ogF44I.png" group-title="GENERALISTAS",TELECINCO FHD
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9x2Wapf_x3_lQNi8ogF44I.png" group-title="ESP+",TELECINCO FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1460
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_PiRbWmpryrZ9C4CeMHXxBE.png" group-title="GENERALISTAS",TELECINCO
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_PiRbWmpryrZ9C4CeMHXxBE.png" group-title="ESP+",TELECINCO
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1457
-#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ7JN_u2VSGSRDm77u-SxZOo.png" group-title="GENERALISTAS",LA SEXTA HD
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ7JN_u2VSGSRDm77u-SxZOo.png" group-title="ESP+",LA SEXTA HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1462
-#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ7JN_u2VSGSRDm77u-SxZOo.png" group-title="GENERALISTAS",LA SEXTA FHD
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ7JN_u2VSGSRDm77u-SxZOo.png" group-title="ESP+",LA SEXTA FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1463
-#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_38Hhh3ae6kQytIthSvR4w.png" group-title="GENERALISTAS",LA SEXTA
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_38Hhh3ae6kQytIthSvR4w.png" group-title="ESP+",LA SEXTA
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1461
-#EXTINF:-1 tvg-id="nova.es" tvg-name="NOVA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxxeMg4M2LWQDVjumfzUwXU.png" group-title="GENERALISTAS",NOVA HD
+#EXTINF:-1 tvg-id="nova.es" tvg-name="NOVA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxxeMg4M2LWQDVjumfzUwXU.png" group-title="ESP+",NOVA HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1465
-#EXTINF:-1 tvg-id="neox.es" tvg-name="NEOX" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJyyx4iDrM0ABc4IdmSF6r1c.png" group-title="GENERALISTAS",NEOX HD
+#EXTINF:-1 tvg-id="neox.es" tvg-name="NEOX" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJyyx4iDrM0ABc4IdmSF6r1c.png" group-title="ESP+",NEOX HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1466
-#EXTINF:-1 tvg-id="neox.es" tvg-name="NEOX SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_GEKSbE_uRnHgJTECz37n-I.png" group-title="GENERALISTAS",NEOX SD
+#EXTINF:-1 tvg-id="neox.es" tvg-name="NEOX SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_GEKSbE_uRnHgJTECz37n-I.png" group-title="ESP+",NEOX SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129207
-#EXTINF:-1 tvg-id="mega.es" tvg-name="MEGA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxGCL-F4r36kz6CCcO6a4R0.png" group-title="GENERALISTAS",MEGA HD
+#EXTINF:-1 tvg-id="mega.es" tvg-name="MEGA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxGCL-F4r36kz6CCcO6a4R0.png" group-title="ESP+",MEGA HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/16337
-#EXTINF:-1 tvg-id="mega.es" tvg-name="MEGA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxGCL-F4r36kz6CCcO6a4R0.png" group-title="GENERALISTAS",MEGA FHD
+#EXTINF:-1 tvg-id="mega.es" tvg-name="MEGA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxGCL-F4r36kz6CCcO6a4R0.png" group-title="ESP+",MEGA FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/96392
-#EXTINF:-1 tvg-id="AMC Crime" tvg-name="GRAN HERMANO" tvg-logo="https://i.imgur.com/7H9fxPV.png" group-title="GENERALISTAS",GRAN HERMANO
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="GRAN HERMANO" tvg-logo="https://i.imgur.com/7H9fxPV.png" group-title="ESP+",GRAN HERMANO
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117971
-#EXTINF:-1 tvg-id="ten.es" tvg-name="TEN" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ6cXWjaXLmedwfIdtnPStqY.png" group-title="GENERALISTAS",TEN HD
+#EXTINF:-1 tvg-id="ten.es" tvg-name="TEN" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ6cXWjaXLmedwfIdtnPStqY.png" group-title="ESP+",TEN HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/16342
-#EXTINF:-1 tvg-id="dark.es" tvg-name="DARK" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9NCyA18JfjyJzqq0iYfjSA.png" group-title="GENERALISTAS",DARK HD
+#EXTINF:-1 tvg-id="dark.es" tvg-name="DARK" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9NCyA18JfjyJzqq0iYfjSA.png" group-title="ESP+",DARK HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117968
-#EXTINF:-1 tvg-id="dkiss.es" tvg-name="DKISS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ7eAAQLCk1uoxahi743o3ZE.png" group-title="GENERALISTAS",DKISS
+#EXTINF:-1 tvg-id="dkiss.es" tvg-name="DKISS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ7eAAQLCk1uoxahi743o3ZE.png" group-title="ESP+",DKISS
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/16343
-#EXTINF:-1 tvg-id="dmax.de" tvg-name="DMAX" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0nEh1xOMwL-mstbTvMYq08.png" group-title="CULTURA",DMAX HD
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="DMAX" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0nEh1xOMwL-mstbTvMYq08.png" group-title="ESP+",DMAX HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1478
-#EXTINF:-1 tvg-id="energy.es" tvg-name="ENERGY" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxLAVYlZt1VXMIW9LvevCu0.png" group-title="GENERALISTAS",ENERGY HD
+#EXTINF:-1 tvg-id="energy.es" tvg-name="ENERGY" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxLAVYlZt1VXMIW9LvevCu0.png" group-title="ESP+",ENERGY HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1472
-#EXTINF:-1 tvg-id="energy.es" tvg-name="ENERGY SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxLAVYlZt1VXMIW9LvevCu0.png" group-title="GENERALISTAS",ENERGY SD
+#EXTINF:-1 tvg-id="energy.es" tvg-name="ENERGY SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxLAVYlZt1VXMIW9LvevCu0.png" group-title="ESP+",ENERGY SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1471
-#EXTINF:-1 tvg-id="clantve.es" tvg-name="CLAN" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0iJoRzsbm8pDDVaCJwdLWo.png" group-title="GENERALISTAS",CLAN HD
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="CLAN" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0iJoRzsbm8pDDVaCJwdLWo.png" group-title="ESP+",CLAN HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/16332
-#EXTINF:-1 tvg-id="clantve.es" tvg-name="CLAN" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0iJoRzsbm8pDDVaCJwdLWo.png" group-title="GENERALISTAS",CLAN FHD
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="CLAN" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0iJoRzsbm8pDDVaCJwdLWo.png" group-title="ESP+",CLAN FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129209
-#EXTINF:-1 tvg-id="clantve.es" tvg-name="CLAN SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_Nr9N7jf-CbfaQD-9So47Dg.png" group-title="GENERALISTAS",CLAN SD
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="CLAN SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_Nr9N7jf-CbfaQD-9So47Dg.png" group-title="ESP+",CLAN SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/16333
-#EXTINF:-1 tvg-id="aragóntv.es" tvg-name="ARAGON  TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxvIX2_1riamV3h0VsBeyKY.png" group-title="GENERALISTAS",ARAGON  TV  HD
+#EXTINF:-1 tvg-id="aragóntv.es" tvg-name="ARAGON  TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxvIX2_1riamV3h0VsBeyKY.png" group-title="ESP+",ARAGON  TV  HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1468
-#EXTINF:-1 tvg-id="aragóntv.es" tvg-name="ARAGON TV SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxvIX2_1riamV3h0VsBeyKY.png" group-title="GENERALISTAS",ARAGON TV SD
+#EXTINF:-1 tvg-id="aragóntv.es" tvg-name="ARAGON TV SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxvIX2_1riamV3h0VsBeyKY.png" group-title="ESP+",ARAGON TV SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129180
-#EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMO" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4cViOjsUkPqD79N1BInw1g.png" group-title="GENERALISTAS",COSMO HD
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMO" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4cViOjsUkPqD79N1BInw1g.png" group-title="ESP+",COSMO HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1470
-#EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMO" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJzx1h6zZTramAW_ZNCc1wB4.png" group-title="GENERALISTAS",COSMO FHD
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMO" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJzx1h6zZTramAW_ZNCc1wB4.png" group-title="ESP+",COSMO FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1469
-#EXTINF:-1 tvg-id="divinity.es" tvg-name="DIVINITY" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxMvTM_jWj9MUveWFoIIV3A.png" group-title="GENERALISTAS",DIVINITY HD
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="DIVINITY" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxMvTM_jWj9MUveWFoIIV3A.png" group-title="ESP+",DIVINITY HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1474
-#EXTINF:-1 tvg-id="divinity.es" tvg-name="DIVINITY SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxMvTM_jWj9MUveWFoIIV3A.png" group-title="GENERALISTAS",DIVINITY SD
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="DIVINITY SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxMvTM_jWj9MUveWFoIIV3A.png" group-title="ESP+",DIVINITY SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1473
-#EXTINF:-1 tvg-id="sundance.es" tvg-name="SUNDANCE" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_7RcbP1jD32l1RLsiumgb4.png" group-title="GENERALISTAS",SUNDANCE HD
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="SUNDANCE" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_7RcbP1jD32l1RLsiumgb4.png" group-title="ESP+",SUNDANCE HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1477
-#EXTINF:-1 tvg-id="sundance.es" tvg-name="SUNDANCE" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_7RcbP1jD32l1RLsiumgb4.png" group-title="GENERALISTAS",SUNDANCE FHD
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="SUNDANCE" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_7RcbP1jD32l1RLsiumgb4.png" group-title="ESP+",SUNDANCE FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129211
-#EXTINF:-1 tvg-id="sundance.es" tvg-name="SUNDANCE SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_Mip1_pjc8bYQmSsijoDz7Q.png" group-title="GENERALISTAS",SUNDANCE SD
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="SUNDANCE SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_Mip1_pjc8bYQmSsijoDz7Q.png" group-title="ESP+",SUNDANCE SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129210
-#EXTINF:-1 tvg-id="19.movistar" tvg-name="LA RESISTENCIA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0rWzGIQ1KRXzsvy0n7kaO4.png" group-title="GENERALISTAS",LA RESISTENCIA HD
+#EXTINF:-1 tvg-id="19.movistar" tvg-name="LA RESISTENCIA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0rWzGIQ1KRXzsvy0n7kaO4.png" group-title="ESP+",LA RESISTENCIA HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/100900
-#EXTINF:-1 tvg-id="19.movistar" tvg-name="LA RESISTENCIA SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_Hb5oh43YS4knG330-fvtPo.png" group-title="GENERALISTAS",LA RESISTENCIA SD
+#EXTINF:-1 tvg-id="19.movistar" tvg-name="LA RESISTENCIA SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_Hb5oh43YS4knG330-fvtPo.png" group-title="ESP+",LA RESISTENCIA SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117977
-#EXTINF:-1 tvg-id="154.movistar" tvg-name="TV3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-kPL5xBX-y4fSfUp75d5us.png" group-title="GENERALISTAS",TV3 HD
+#EXTINF:-1 tvg-id="154.movistar" tvg-name="TV3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-kPL5xBX-y4fSfUp75d5us.png" group-title="ESP+",TV3 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/23143
-#EXTINF:-1 tvg-id="154.movistar" tvg-name="TV3 SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-kPL5xBX-y4fSfUp75d5us.png" group-title="GENERALISTAS",TV3 SD
+#EXTINF:-1 tvg-id="154.movistar" tvg-name="TV3 SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-kPL5xBX-y4fSfUp75d5us.png" group-title="ESP+",TV3 SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129212
-#EXTINF:-1 tvg-id="324.es" tvg-name="3/24" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJyJFJ3Qy5y3NSedPNbUs6IQ.png" group-title="GENERALISTAS",3/24
+#EXTINF:-1 tvg-id="324.es" tvg-name="3/24" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJyJFJ3Qy5y3NSedPNbUs6IQ.png" group-title="ESP+",3/24
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/23163
-#EXTINF:-1 tvg-id="etb1.es" tvg-name="ETB 1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJzrhm4cKlkB_CdAMOCK8dxo.png" group-title="GENERALISTAS",ETB 1 HD
+#EXTINF:-1 tvg-id="etb1.es" tvg-name="ETB 1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJzrhm4cKlkB_CdAMOCK8dxo.png" group-title="ESP+",ETB 1 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/100893
-#EXTINF:-1 tvg-id="etb2.es" tvg-name="ETB 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ6bM7tMmcchRIgWXy0-A9uA.png" group-title="GENERALISTAS",ETB 2 HD
+#EXTINF:-1 tvg-id="etb2.es" tvg-name="ETB 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ6bM7tMmcchRIgWXy0-A9uA.png" group-title="ESP+",ETB 2 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/100894
-#EXTINF:-1 tvg-id="etb1.es" tvg-name="ETB BASQUE" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5qtqRc9XZOGDu1cRMnNYf0.png" group-title="GENERALISTAS",ETB BASQUE
+#EXTINF:-1 tvg-id="etb1.es" tvg-name="ETB BASQUE" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5qtqRc9XZOGDu1cRMnNYf0.png" group-title="ESP+",ETB BASQUE
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/100901
-#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="EURONEWS EN ESPAÑYOL" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ21YQfseMDsUfancjZ8g5V4.png" group-title="GENERALISTAS",EURONEWS EN ESPAÑYOL
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="EURONEWS EN ESPAÑYOL" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ21YQfseMDsUfancjZ8g5V4.png" group-title="ESP+",EURONEWS EN ESPAÑYOL
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/59809
-#EXTINF:-1 tvg-id="tvgalicia.es" tvg-name="TV GALICIA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJx6l9spH_MX1ZRbAFwYk1CU.png" group-title="GENERALISTAS",TV GALICIA HD
+#EXTINF:-1 tvg-id="tvgalicia.es" tvg-name="TV GALICIA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJx6l9spH_MX1ZRbAFwYk1CU.png" group-title="ESP+",TV GALICIA HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/16336
-#EXTINF:-1 tvg-id="castillalamanchamedia.es" tvg-name="CASTILLA LA MANCHA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ8PYmiLGLbKzkYhVtLr6fuo.png" group-title="GENERALISTAS",CASTILLA LA MANCHA HD
+#EXTINF:-1 tvg-id="castillalamanchamedia.es" tvg-name="CASTILLA LA MANCHA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ8PYmiLGLbKzkYhVtLr6fuo.png" group-title="ESP+",CASTILLA LA MANCHA HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/100898
-#EXTINF:-1 tvg-id="telemadrid.es" tvg-name="TELE MADRID" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxOGqhFu2VcEM1aUV-_y_mE.png" group-title="GENERALISTAS",TELE MADRID
+#EXTINF:-1 tvg-id="telemadrid.es" tvg-name="TELE MADRID" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxOGqhFu2VcEM1aUV-_y_mE.png" group-title="ESP+",TELE MADRID
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/59836
-#EXTINF:-1 tvg-id="tvgalicia.es" tvg-name="TV GIRONA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_AnoI1Aex6C5eRabrJFwfLk.png" group-title="GENERALISTAS",TV GIRONA
+#EXTINF:-1 tvg-id="tvgalicia.es" tvg-name="TV GIRONA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_AnoI1Aex6C5eRabrJFwfLk.png" group-title="ESP+",TV GIRONA
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/59807
-#EXTINF:-1 tvg-id="tvcanaria.es" tvg-name="TV CANARIA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3pnzJJtQZpo3xXj04hL-bM.png" group-title="GENERALISTAS",TV CANARIA HD
+#EXTINF:-1 tvg-id="tvcanaria.es" tvg-name="TV CANARIA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3pnzJJtQZpo3xXj04hL-bM.png" group-title="ESP+",TV CANARIA HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/66047
-#EXTINF:-1 tvg-id="tvcanaria.es" tvg-name="TV CANARIA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3pnzJJtQZpo3xXj04hL-bM.png" group-title="GENERALISTAS",TV CANARIA FHD
+#EXTINF:-1 tvg-id="tvcanaria.es" tvg-name="TV CANARIA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3pnzJJtQZpo3xXj04hL-bM.png" group-title="ESP+",TV CANARIA FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129214
-#EXTINF:-1 tvg-id="" tvg-name="POPULAR TV" tvg-logo="https://i.imgur.com/IEtuJN7.png" group-title="GENERALISTAS",POPULAR TV
+#EXTINF:-1 tvg-id="" tvg-name="POPULAR TV" tvg-logo="https://i.imgur.com/IEtuJN7.png" group-title="ESP+",POPULAR TV
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/16341
-#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="TV 7 MURCIA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_GljpHt7I3KxHhhMWe6YycQ.png" group-title="GENERALISTAS",TV 7 MURCIA
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="TV 7 MURCIA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_GljpHt7I3KxHhhMWe6YycQ.png" group-title="ESP+",TV 7 MURCIA
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/23169
-#EXTINF:-1 tvg-id="canalextremadura.es" tvg-name="EXTRAMADURA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ8WIsxxHiAI9HMyvcHH-NG8.png" group-title="GENERALISTAS",EXTRAMADURA
+#EXTINF:-1 tvg-id="canalextremadura.es" tvg-name="EXTRAMADURA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ8WIsxxHiAI9HMyvcHH-NG8.png" group-title="ESP+",EXTRAMADURA
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/23170
-#EXTINF:-1 tvg-id="" tvg-name="MELLILA TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JatTU6u8RyNjt9eSw1Qkik.png" group-title="GENERALISTAS",MELLILA TV
+#EXTINF:-1 tvg-id="" tvg-name="MELLILA TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JatTU6u8RyNjt9eSw1Qkik.png" group-title="ESP+",MELLILA TV
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/23179
-#EXTINF:-1 tvg-id="" tvg-name="MIJAS" tvg-logo="https://i.imgur.com/nlYrnw0.png" group-title="GENERALISTAS",MIJAS
+#EXTINF:-1 tvg-id="" tvg-name="MIJAS" tvg-logo="https://i.imgur.com/nlYrnw0.png" group-title="ESP+",MIJAS
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/23180
-#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DISTRITO TV" tvg-logo="https://i.imgur.com/C3omUMQ.png" group-title="GENERALISTAS",DISTRITO TV
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DISTRITO TV" tvg-logo="https://i.imgur.com/C3omUMQ.png" group-title="ESP+",DISTRITO TV
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/23189
-#EXTINF:-1 tvg-id="" tvg-name="ALCARRIATV" tvg-logo="https://i.imgur.com/2pJ4wAt.png" group-title="GENERALISTAS",ALCARRIATV
+#EXTINF:-1 tvg-id="" tvg-name="ALCARRIATV" tvg-logo="https://i.imgur.com/2pJ4wAt.png" group-title="ESP+",ALCARRIATV
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/23197
-#EXTINF:-1 tvg-id="Canal33Madrid.es" tvg-name="CANAL  33" tvg-logo="https://i.imgur.com/2zTdo6a.png" group-title="GENERALISTAS",CANAL  33
+#EXTINF:-1 tvg-id="Canal33Madrid.es" tvg-name="CANAL  33" tvg-logo="https://i.imgur.com/2zTdo6a.png" group-title="ESP+",CANAL  33
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/23198
-#EXTINF:-1 tvg-id="" tvg-name="LOGOS  TV" tvg-logo="https://i.imgur.com/C4Tp0Ug.png" group-title="GENERALISTAS",LOGOS  TV
+#EXTINF:-1 tvg-id="" tvg-name="LOGOS  TV" tvg-logo="https://i.imgur.com/C4Tp0Ug.png" group-title="ESP+",LOGOS  TV
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/23206
-#EXTINF:-1 tvg-id="152.movistar" tvg-name="TVG EUROPA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_LcA3jI6h0xVG4Hp3ifvCUQ.png" group-title="GENERALISTAS",TVG EUROPA
+#EXTINF:-1 tvg-id="152.movistar" tvg-name="TVG EUROPA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_LcA3jI6h0xVG4Hp3ifvCUQ.png" group-title="ESP+",TVG EUROPA
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/59804
-#EXTINF:-1 tvg-id="" tvg-name="BON DIA TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ1xH16cVNYtHc95Kon4Ifnw.png" group-title="GENERALISTAS",BON DIA TV
+#EXTINF:-1 tvg-id="" tvg-name="BON DIA TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ1xH16cVNYtHc95Kon4Ifnw.png" group-title="ESP+",BON DIA TV
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/59817
-#EXTINF:-1 tvg-id="TVCastillaLaMancha.es" tvg-name="CANAL 4 MANCHA CENTRO" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0UmS8oPQJ2AQEFYrLVuVMw.png" group-title="GENERALISTAS",CANAL 4 MANCHA CENTRO
+#EXTINF:-1 tvg-id="TVCastillaLaMancha.es" tvg-name="CANAL 4 MANCHA CENTRO" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0UmS8oPQJ2AQEFYrLVuVMw.png" group-title="ESP+",CANAL 4 MANCHA CENTRO
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/59818
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 25 TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwzQMqa5a69MRZtqv3JRZXc.png" group-title="GENERALISTAS",CANAL 25 TV
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 25 TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwzQMqa5a69MRZtqv3JRZXc.png" group-title="ESP+",CANAL 25 TV
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/59819
-#EXTINF:-1 tvg-id="La 7" tvg-name="LA7" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JwT8Vpfm7bXiQK9HffEsLc.png" group-title="GENERALISTAS",LA7
+#EXTINF:-1 tvg-id="La 7" tvg-name="LA7" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JwT8Vpfm7bXiQK9HffEsLc.png" group-title="ESP+",LA7
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/59826
-#EXTINF:-1 tvg-id="" tvg-name="COSTA DELSOL TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_F3TLFo3RBF8UfLE4Rz4Vvo.png" group-title="GENERALISTAS",COSTA DELSOL TV
+#EXTINF:-1 tvg-id="" tvg-name="COSTA DELSOL TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_F3TLFo3RBF8UfLE4Rz4Vvo.png" group-title="ESP+",COSTA DELSOL TV
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/59827
-#EXTINF:-1 tvg-id="" tvg-name="CANAL COSTA TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-0cr-46Fccpd1RwMgGn-R4.png" group-title="GENERALISTAS",CANAL COSTA TV
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COSTA TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-0cr-46Fccpd1RwMgGn-R4.png" group-title="ESP+",CANAL COSTA TV
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/59828
-#EXTINF:-1 tvg-id="" tvg-name="ONDA ALGESIRAS TELEVISION" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_H5edlQvfAVhcXWtpar0H7Y.png" group-title="GENERALISTAS",ONDA ALGESIRAS TELEVISION
+#EXTINF:-1 tvg-id="" tvg-name="ONDA ALGESIRAS TELEVISION" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_H5edlQvfAVhcXWtpar0H7Y.png" group-title="ESP+",ONDA ALGESIRAS TELEVISION
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/59831
-#EXTINF:-1 tvg-id="Atreseries" tvg-name="ONDA CADIZ" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_HrY-DBYnV4Lp51MH_ocfdE.png" group-title="GENERALISTAS",ONDA CADIZ FHD
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="ONDA CADIZ" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_HrY-DBYnV4Lp51MH_ocfdE.png" group-title="ESP+",ONDA CADIZ FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129215
-#EXTINF:-1 tvg-id="24horas.es" tvg-name="CADENA ELITE" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_K5pm4pPyv_UDXxjqXKLTE8.png" group-title="GENERALISTAS",CADENA ELITE
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="CADENA ELITE" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_K5pm4pPyv_UDXxjqXKLTE8.png" group-title="ESP+",CADENA ELITE
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/59834
-#EXTINF:-1 tvg-id="" tvg-name="PEQUERADIO" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_K6fC2bo3YmvhI4QYpfieGg.png" group-title="NIÑOS",PEQUERADIO
+#EXTINF:-1 tvg-id="" tvg-name="PEQUERADIO" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_K6fC2bo3YmvhI4QYpfieGg.png" group-title="ESP+",PEQUERADIO
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/59832
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="M+ LALIGA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-rjnX_tiydEI-B_XGqJSsA.png" group-title="DEPORTES",M+ LA LIGA  HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1495
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="M+ LALIGA 1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-rjnX_tiydEI-B_XGqJSsA.png" group-title="DEPORTES",M+ LA LIGA FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1496
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="M+ LALIGA 4k" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-rjnX_tiydEI-B_XGqJSsA.png" group-title="DEPORTES",M+ LALIGA 4k
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/174218
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="M+ LALIGA SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-rjnX_tiydEI-B_XGqJSsA.png" group-title="DEPORTES",M+ LA LIGA SD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/98731
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="M+ LALIGA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-rjnX_tiydEI-B_XGqJSsA.png" group-title="DEPORTES",LALIGA  (ORANGE)
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/132581
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="M+ LALIGA 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2Q33nA13e7qrwdMXJ7D2hs.png" group-title="DEPORTES",M+ LALIGA 2 HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/34749
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="M+ LALIGA 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2Q33nA13e7qrwdMXJ7D2hs.png" group-title="DEPORTES",M+ LALIGA 2 FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1525
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="LALIGA 2 HD (ORANGE)" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2Q33nA13e7qrwdMXJ7D2hs.png" group-title="DEPORTES",LALIGA 2 HD (ORANGE)
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/132580
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="LALIGA 3 HD (ORANGE)" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2Q33nA13e7qrwdMXJ7D2hs.png" group-title="DEPORTES",LALIGA 3 HD (ORANGE)
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/130770
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA 6 SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxQL6wA52zIBUT71i9pwbXs.png" group-title="DEPORTES",LA LIGA 6 SD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/141087
+#EXTINF:-1 tvg-id="DAZNLI" tvg-name="DAZN LALIGA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ50lRY3Hw5pfjJ8EFETNa64.png" group-title="DEPORTES",DAZN LA LIGA 1 HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/97349
+#EXTINF:-1 tvg-id="TVE" tvg-name="DAZN LALIGA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ50lRY3Hw5pfjJ8EFETNa64.png" group-title="DEPORTES",DAZN LA LIGA 1 FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/97350
+#EXTINF:-1 tvg-id="TVE" tvg-name="DAZN LALIGA TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ50lRY3Hw5pfjJ8EFETNa64.png" group-title="DEPORTES",DAZN LA LIGA 1 SD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/104906
+#EXTINF:-1 tvg-id="NOVA" tvg-name="DAZN LALIGA 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5mcnLBbApFFFjhcN0m9Lgw.png" group-title="DEPORTES",DAZN LA LIGA 2 HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/97351
+#EXTINF:-1 tvg-id="NOVA" tvg-name="DAZN LALIGA 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5mcnLBbApFFFjhcN0m9Lgw.png" group-title="DEPORTES",DAZN LA LIGA 2 FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/97352
+#EXTINF:-1 tvg-id="dazn3.fr" tvg-name="Dazn LALIGA 3 (ES)" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_RbvrNJx7sw0CldneRV1GI.png" group-title="DEPORTES",Dazn LALIGA 3 (ES)
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129256
+#EXTINF:-1 tvg-id="dazn4.fr" tvg-name="Dazn LALIGA 4 SD (ES)" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_CAJPdRUGo-NwlGeCXk-ZYo.png" group-title="DEPORTES",Dazn LALIGA 4 SD (ES)
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129257
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="M Dazn F1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ13cq0jXkYo_EuZQcaR5SHA.png" group-title="DEPORTES",M Dazn F1 HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1514
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="M Dazn F1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ13cq0jXkYo_EuZQcaR5SHA.png" group-title="DEPORTES",M Dazn F1 FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1515
+#EXTINF:-1 tvg-id="" tvg-name="PSC PORCHE CARRERA ES F1TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_IrTV-utDpCHyjOThfFMnjw.png" group-title="FORMULA 1 TV",PSC PORCHE CARRERA ES F1TV
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/5389
+#EXTINF:-1 tvg-id="" tvg-name="DATA (F1TV)" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBvqcPwSOM30GtC_nwGa1A.png" group-title="FORMULA 1 TV",DATA (F1TV)
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/5395
+#EXTINF:-1 tvg-id="" tvg-name="TRACKER (F1TV)" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_KomFLrvl2z6Crmy0oKCY98.png" group-title="FORMULA 1 TV",TRACKER (F1TV)
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/5390
+#EXTINF:-1 tvg-id="dazn1.fr" tvg-name="DAZN 1 HD ES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ90HeOdhyxi-iRwUdE4Ll6A.png" group-title="DEPORTES",DAZN 1 HD ES
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/36990
+#EXTINF:-1 tvg-id="TVE" tvg-name="DAZN 1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ90HeOdhyxi-iRwUdE4Ll6A.png" group-title="DEPORTES",DAZN 1 FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/36989
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2 HD ES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9QR-mwFDmRKXZnBXZ9eodM.png" group-title="DEPORTES",DAZN 2 HD ES
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/36992
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2 FHD ES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9QR-mwFDmRKXZnBXZ9eodM.png" group-title="DEPORTES",DAZN 2 FHD ES
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/36991
+#EXTINF:-1 tvg-id="dazn3.fr" tvg-name="DAZN 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_RbvrNJx7sw0CldneRV1GI.png" group-title="DEPORTES",DAZN 3 HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99555
+#EXTINF:-1 tvg-id="dazn3.fr" tvg-name="DAZN 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_RbvrNJx7sw0CldneRV1GI.png" group-title="DEPORTES",DAZN 3 FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99556
+#EXTINF:-1 tvg-id="dazn4.fr" tvg-name="DAZN 4" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJw0nVVKly3LAZjg3LZQcuYk.png" group-title="DEPORTES",DAZN 4 HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99557
+#EXTINF:-1 tvg-id="dazn4.fr" tvg-name="DAZN 4" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJw0nVVKly3LAZjg3LZQcuYk.png" group-title="DEPORTES",DAZN 4 FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99558
+#EXTINF:-1 tvg-id="MLIGS" tvg-name="LALIGA HYPERMOTION" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0y27s0A1MGTmbzokRPDW8E.png" group-title="DEPORTES",LALIGA HYPERMOTION HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/97469
+#EXTINF:-1 tvg-id="MLIGS" tvg-name="LALIGA HYPERMOTION" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0y27s0A1MGTmbzokRPDW8E.png" group-title="DEPORTES",LALIGA HYPERMOTION FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/97470
+#EXTINF:-1 tvg-id="TVE" tvg-name="LALIGA HYPERMOTION 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0y27s0A1MGTmbzokRPDW8E.png" group-title="DEPORTES",LALIGA HYPERMOTION 2 HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/97471
+#EXTINF:-1 tvg-id="TVE" tvg-name="LALIGA HYPERMOTION 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0y27s0A1MGTmbzokRPDW8E.png" group-title="DEPORTES",LALIGA HYPERMOTION 2 FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/97472
+#EXTINF:-1 tvg-id="TVE" tvg-name="LALIGA HYPERMOTION 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0y27s0A1MGTmbzokRPDW8E.png" group-title="DEPORTES",LALIGA HYPERMOTION 3 HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99541
+#EXTINF:-1 tvg-id="TVE" tvg-name="LALIGA HYPERMOTION 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0y27s0A1MGTmbzokRPDW8E.png" group-title="DEPORTES",LALIGA HYPERMOTION 3 FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99542
+#EXTINF:-1 tvg-id="TVE" tvg-name="M+ LIGA DE CAMPEONES HD (ORANGE)" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJx_ee4Rjy-7VswZOtq-Nem4.png" group-title="DEPORTES",M+ LIGA DE CAMPEONES HD (ORANGE)
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/143720
+#EXTINF:-1 tvg-id="TVE" tvg-name="M LIGA DE CAMPEONES 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJx_ee4Rjy-7VswZOtq-Nem4.png" group-title="DEPORTES",M LIGA DE CAMPEONES 2 HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1546
+#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJx_ee4Rjy-7VswZOtq-Nem4.png" group-title="DEPORTES",M LIGA DE CAMPEONES 2  FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/34739
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 2 4K" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M+ LIGA DE CAMPEONES 2 4K
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/174220
+#EXTINF:-1 tvg-id="TVE" tvg-name="M LIGA DE CAMPEONES 2 SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJx_ee4Rjy-7VswZOtq-Nem4.png" group-title="DEPORTES",M LIGA DE CAMPEONES 2 SD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129221
+#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ8-Nfw-cK1grrV2E_yd6qcM.png" group-title="DEPORTES",M LIGA DE CAMPEONES 3 HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1547
+#EXTINF:-1 tvg-id="CHAP2" tvg-name="M+ LIGA DE CAMPEONES 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ8-Nfw-cK1grrV2E_yd6qcM.png" group-title="DEPORTES",M+ LIGA DE CAMPEONES 3 FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/68359
+#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 4" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ91aqLb7bc3fvCytsxtc6CA.png" group-title="DEPORTES",M LIGA DE CAMPEONES 4 HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1548
+#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 4" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ91aqLb7bc3fvCytsxtc6CA.png" group-title="DEPORTES",M LIGA DE CAMPEONES 4 FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99457
+#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 5" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5mraxBBxQIwUJbIWzPTjXU.png" group-title="DEPORTES",M LIGA DE CAMPEONES 5 HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1549
+#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 5" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5mraxBBxQIwUJbIWzPTjXU.png" group-title="DEPORTES",M LIGA DE CAMPEONES 5 FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99453
+#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 6" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ1FkAgwYZcociTr0__0d1_4.png" group-title="DEPORTES",M LIGA DE CAMPEONES 6 HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1550
+#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="M LIGA DE CAMPEONES 6" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ1FkAgwYZcociTr0__0d1_4.png" group-title="DEPORTES",M LIGA DE CAMPEONES 6 FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99454
+#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 7" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4sS2P3h1ftOU-ZxOp8GTTo.png" group-title="DEPORTES",M LIGA DE CAMPEONES 7 HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1551
+#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="M LIGA DE CAMPEONES 7" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4sS2P3h1ftOU-ZxOp8GTTo.png" group-title="DEPORTES",M LIGA DE CAMPEONES 7 FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99455
+#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 8" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxHD_7S7J70ewYR1p1bsqsk.png" group-title="DEPORTES",M LIGA DE CAMPEONES 8 HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1552
+#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="M LIGA DE CAMPEONES 8" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxHD_7S7J70ewYR1p1bsqsk.png" group-title="DEPORTES",M LIGA DE CAMPEONES 8 FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99456
+#EXTINF:-1 tvg-id="multi6" tvg-name="LIGA DE CAMPEONES 9" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ341XE0GaQpAMnB3cpe3KYY.png" group-title="DEPORTES",LIGA DE CAMPEONES 9 HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99545
+#EXTINF:-1 tvg-id="CHAP9" tvg-name="LIGA DE CAMPEONES 10" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxs8IaPa8CzfbMcB8fMUkwQ.png" group-title="DEPORTES",LIGA DE CAMPEONES 10 HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99547
+#EXTINF:-1 tvg-id="CHAP10" tvg-name="LIGA DE CAMPEONES 11" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJz3Uwqm4RA-mlmSsvtIGuu0.png" group-title="DEPORTES",LIGA DE CAMPEONES 11 HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99549
+#EXTINF:-1 tvg-id="CHAP11" tvg-name="LIGA DE CAMPEONES 12" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ7ygukOG6JtPoAUpfG0I5_4.png" group-title="DEPORTES",LIGA DE CAMPEONES 12 HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99551
+#EXTINF:-1 tvg-id="CHAP12" tvg-name="LIGA DE CAMPEONES 13" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",LIGA DE CAMPEONES 13 HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99553
 #EXTINF:-1 tvg-id="" tvg-name="PPV UFC USKY VS DUBOIS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-C2magmNoby6IyQbu0TzLk.png" group-title="DEPORTES",PPV UFC USKY VS DUBOIS
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/143877
 #EXTINF:-1 tvg-id="" tvg-name="BBC TOP GEAR" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJyCcKmVgcyYjBb5NVJJ_7Ok.png" group-title="DEPORTES",BBC TOP GEAR FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/200988
 #EXTINF:-1 tvg-id="" tvg-name="BBC TOP GEAR" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJyCcKmVgcyYjBb5NVJJ_7Ok.png" group-title="DEPORTES",BBC TOP GEAR HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/200989
-#EXTINF:-1 tvg-id="TVE" tvg-name="M+ LIGA DE CAMPEONES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="CAMPEONES",M LIGA DE CAMPEONES HD
+#EXTINF:-1 tvg-id="TVE" tvg-name="M+ LIGA DE CAMPEONES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1545
-#EXTINF:-1 tvg-id="CHAPIO" tvg-name="M LIGA DE CAMPEONES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="CAMPEONES",M LIGA DE CAMPEONES FHD
+#EXTINF:-1 tvg-id="CHAPIO" tvg-name="M LIGA DE CAMPEONES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1500
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 4K" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="CAMPEONES",M+ LIGA DE CAMPEONES 4K
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 4K" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M+ LIGA DE CAMPEONES 4K
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/174219
-#EXTINF:-1 tvg-id="TVE" tvg-name="M LIGA DE CAMPEONES SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="CAMPEONES",M LIGA DE CAMPEONES SD
+#EXTINF:-1 tvg-id="TVE" tvg-name="M LIGA DE CAMPEONES SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/100546
 #EXTINF:-1 tvg-id="" tvg-name="ONETORO TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJyMUxMHyZ9nIZFz1u2kKrN4.png" group-title="DEPORTES",ONETORO TV HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/121897
@@ -200,122 +316,6 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1490
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/100899
 #EXTINF:-1 tvg-id="Sevilla FC Televisión" tvg-name="SEVILLA FC TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ6cY_pmI6h5V133ruQ5794Q.png" group-title="DEPORTES",SEVILLA FC TV
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/115412
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="M+ LALIGA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-rjnX_tiydEI-B_XGqJSsA.png" group-title="LALIGA",M+ LA LIGA  HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1495
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="M+ LALIGA 1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-rjnX_tiydEI-B_XGqJSsA.png" group-title="LALIGA",M+ LA LIGA FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1496
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="M+ LALIGA 4k" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-rjnX_tiydEI-B_XGqJSsA.png" group-title="LALIGA",M+ LALIGA 4k
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/174218
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="M+ LALIGA SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-rjnX_tiydEI-B_XGqJSsA.png" group-title="LALIGA",M+ LA LIGA SD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/98731
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="M+ LALIGA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-rjnX_tiydEI-B_XGqJSsA.png" group-title="LALIGA",LALIGA  (ORANGE)
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/132581
-#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="M+ LALIGA 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2Q33nA13e7qrwdMXJ7D2hs.png" group-title="LALIGA",M+ LALIGA 2 HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/34749
-#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="M+ LALIGA 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2Q33nA13e7qrwdMXJ7D2hs.png" group-title="LALIGA",M+ LALIGA 2 FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1525
-#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="LALIGA 2 HD (ORANGE)" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2Q33nA13e7qrwdMXJ7D2hs.png" group-title="LALIGA",LALIGA 2 HD (ORANGE)
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/132580
-#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="LALIGA 3 HD (ORANGE)" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2Q33nA13e7qrwdMXJ7D2hs.png" group-title="LALIGA",LALIGA 3 HD (ORANGE)
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/130770
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA 6 SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxQL6wA52zIBUT71i9pwbXs.png" group-title="LALIGA",LA LIGA 6 SD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/141087
-#EXTINF:-1 tvg-id="DAZNLI" tvg-name="DAZN LALIGA 1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ50lRY3Hw5pfjJ8EFETNa64.png" group-title="DAZN",DAZN LA LIGA 1 HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/97349
-#EXTINF:-1 tvg-id="TVE" tvg-name="DAZN LALIGA 1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ50lRY3Hw5pfjJ8EFETNa64.png" group-title="DAZN",DAZN LA LIGA 1 FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/97350
-#EXTINF:-1 tvg-id="TVE" tvg-name="DAZN LALIGA 1 SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ50lRY3Hw5pfjJ8EFETNa64.png" group-title="DAZN",DAZN LA LIGA 1 SD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/104906
-#EXTINF:-1 tvg-id="NOVA" tvg-name="DAZN LALIGA 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5mcnLBbApFFFjhcN0m9Lgw.png" group-title="DAZN",DAZN LA LIGA 2 HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/97351
-#EXTINF:-1 tvg-id="NOVA" tvg-name="DAZN LALIGA 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5mcnLBbApFFFjhcN0m9Lgw.png" group-title="DAZN",DAZN LA LIGA 2 FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/97352
-#EXTINF:-1 tvg-id="dazn3.fr" tvg-name="Dazn LALIGA 3 (ES)" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_RbvrNJx7sw0CldneRV1GI.png" group-title="DAZN",Dazn LALIGA 3 (ES)
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129256
-#EXTINF:-1 tvg-id="dazn4.fr" tvg-name="Dazn LALIGA 4 SD (ES)" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_CAJPdRUGo-NwlGeCXk-ZYo.png" group-title="DAZN",Dazn LALIGA 4 SD (ES)
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129257
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="M Dazn F1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ13cq0jXkYo_EuZQcaR5SHA.png" group-title="DAZN",M Dazn F1 HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1514
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="M Dazn F1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ13cq0jXkYo_EuZQcaR5SHA.png" group-title="DAZN",M Dazn F1 FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1515
-#EXTINF:-1 tvg-id="" tvg-name="PSC PORCHE CARRERA ES F1TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_IrTV-utDpCHyjOThfFMnjw.png" group-title="FORMULA 1 TV",PSC PORCHE CARRERA ES F1TV
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/5389
-#EXTINF:-1 tvg-id="" tvg-name="DATA (F1TV)" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBvqcPwSOM30GtC_nwGa1A.png" group-title="FORMULA 1 TV",DATA (F1TV)
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/5395
-#EXTINF:-1 tvg-id="" tvg-name="TRACKER (F1TV)" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_KomFLrvl2z6Crmy0oKCY98.png" group-title="FORMULA 1 TV",TRACKER (F1TV)
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/5390
-#EXTINF:-1 tvg-id="dazn1.fr" tvg-name="DAZN 1 HD ES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ90HeOdhyxi-iRwUdE4Ll6A.png" group-title="DAZN",DAZN 1 HD ES
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/36990
-#EXTINF:-1 tvg-id="TVE" tvg-name="DAZN 1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ90HeOdhyxi-iRwUdE4Ll6A.png" group-title="DAZN",DAZN 1 FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/36989
-#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2 HD ES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9QR-mwFDmRKXZnBXZ9eodM.png" group-title="DAZN",DAZN 2 HD ES
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/36992
-#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2 FHD ES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9QR-mwFDmRKXZnBXZ9eodM.png" group-title="DAZN",DAZN 2 FHD ES
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/36991
-#EXTINF:-1 tvg-id="dazn3.fr" tvg-name="DAZN 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_RbvrNJx7sw0CldneRV1GI.png" group-title="DAZN",DAZN 3 HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99555
-#EXTINF:-1 tvg-id="dazn3.fr" tvg-name="DAZN 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_RbvrNJx7sw0CldneRV1GI.png" group-title="DAZN",DAZN 3 FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99556
-#EXTINF:-1 tvg-id="dazn4.fr" tvg-name="DAZN 4" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJw0nVVKly3LAZjg3LZQcuYk.png" group-title="DAZN",DAZN 4 HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99557
-#EXTINF:-1 tvg-id="dazn4.fr" tvg-name="DAZN 4" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJw0nVVKly3LAZjg3LZQcuYk.png" group-title="DAZN",DAZN 4 FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99558
-#EXTINF:-1 tvg-id="MLIGS" tvg-name="LALIGA HYPERMOTION" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0y27s0A1MGTmbzokRPDW8E.png" group-title="LALIGA",LALIGA HYPERMOTION HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/97469
-#EXTINF:-1 tvg-id="MLIGS" tvg-name="LALIGA HYPERMOTION" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0y27s0A1MGTmbzokRPDW8E.png" group-title="LALIGA",LALIGA HYPERMOTION FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/97470
-#EXTINF:-1 tvg-id="TVE" tvg-name="LALIGA HYPERMOTION 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0y27s0A1MGTmbzokRPDW8E.png" group-title="LALIGA",LALIGA HYPERMOTION 2 HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/97471
-#EXTINF:-1 tvg-id="TVE" tvg-name="LALIGA HYPERMOTION 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0y27s0A1MGTmbzokRPDW8E.png" group-title="LALIGA",LALIGA HYPERMOTION 2 FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/97472
-#EXTINF:-1 tvg-id="TVE" tvg-name="LALIGA HYPERMOTION 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0y27s0A1MGTmbzokRPDW8E.png" group-title="LALIGA",LALIGA HYPERMOTION 3 HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99541
-#EXTINF:-1 tvg-id="TVE" tvg-name="LALIGA HYPERMOTION 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0y27s0A1MGTmbzokRPDW8E.png" group-title="LALIGA",LALIGA HYPERMOTION 3 FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99542
-#EXTINF:-1 tvg-id="TVE" tvg-name="M+ LIGA DE CAMPEONES HD (ORANGE)" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJx_ee4Rjy-7VswZOtq-Nem4.png" group-title="CAMPEONES",M+ LIGA DE CAMPEONES HD (ORANGE)
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/143720
-#EXTINF:-1 tvg-id="TVE" tvg-name="M LIGA DE CAMPEONES 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJx_ee4Rjy-7VswZOtq-Nem4.png" group-title="CAMPEONES",M LIGA DE CAMPEONES 2 HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1546
-#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJx_ee4Rjy-7VswZOtq-Nem4.png" group-title="CAMPEONES",M LIGA DE CAMPEONES 2  FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/34739
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 2 4K" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="CAMPEONES",M+ LIGA DE CAMPEONES 2 4K
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/174220
-#EXTINF:-1 tvg-id="TVE" tvg-name="M LIGA DE CAMPEONES 2 SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJx_ee4Rjy-7VswZOtq-Nem4.png" group-title="CAMPEONES",M LIGA DE CAMPEONES 2 SD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129221
-#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ8-Nfw-cK1grrV2E_yd6qcM.png" group-title="CAMPEONES",M LIGA DE CAMPEONES 3 HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1547
-#EXTINF:-1 tvg-id="CHAP2" tvg-name="M+ LIGA DE CAMPEONES 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ8-Nfw-cK1grrV2E_yd6qcM.png" group-title="CAMPEONES",M+ LIGA DE CAMPEONES 3 FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/68359
-#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 4" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ91aqLb7bc3fvCytsxtc6CA.png" group-title="CAMPEONES",M LIGA DE CAMPEONES 4 HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1548
-#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 4" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ91aqLb7bc3fvCytsxtc6CA.png" group-title="CAMPEONES",M LIGA DE CAMPEONES 4 FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99457
-#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 5" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5mraxBBxQIwUJbIWzPTjXU.png" group-title="CAMPEONES",M LIGA DE CAMPEONES 5 HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1549
-#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 5" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5mraxBBxQIwUJbIWzPTjXU.png" group-title="CAMPEONES",M LIGA DE CAMPEONES 5 FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99453
-#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 6" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ1FkAgwYZcociTr0__0d1_4.png" group-title="CAMPEONES",M LIGA DE CAMPEONES 6 HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1550
-#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="M LIGA DE CAMPEONES 6" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ1FkAgwYZcociTr0__0d1_4.png" group-title="CAMPEONES",M LIGA DE CAMPEONES 6 FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99454
-#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 7" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4sS2P3h1ftOU-ZxOp8GTTo.png" group-title="CAMPEONES",M LIGA DE CAMPEONES 7 HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1551
-#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="M LIGA DE CAMPEONES 7" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4sS2P3h1ftOU-ZxOp8GTTo.png" group-title="CAMPEONES",M LIGA DE CAMPEONES 7 FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99455
-#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 8" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxHD_7S7J70ewYR1p1bsqsk.png" group-title="CAMPEONES",M LIGA DE CAMPEONES 8 HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1552
-#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="M LIGA DE CAMPEONES 8" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxHD_7S7J70ewYR1p1bsqsk.png" group-title="CAMPEONES",M LIGA DE CAMPEONES 8 FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99456
-#EXTINF:-1 tvg-id="multi6" tvg-name="LIGA DE CAMPEONES 9" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ341XE0GaQpAMnB3cpe3KYY.png" group-title="CAMPEONES",LIGA DE CAMPEONES 9 HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99545
-#EXTINF:-1 tvg-id="CHAP9" tvg-name="LIGA DE CAMPEONES 10" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxs8IaPa8CzfbMcB8fMUkwQ.png" group-title="CAMPEONES",LIGA DE CAMPEONES 10 HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99547
-#EXTINF:-1 tvg-id="CHAP10" tvg-name="LIGA DE CAMPEONES 11" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJz3Uwqm4RA-mlmSsvtIGuu0.png" group-title="CAMPEONES",LIGA DE CAMPEONES 11 HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99549
-#EXTINF:-1 tvg-id="CHAP11" tvg-name="LIGA DE CAMPEONES 12" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ7ygukOG6JtPoAUpfG0I5_4.png" group-title="CAMPEONES",LIGA DE CAMPEONES 12 HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99551
-#EXTINF:-1 tvg-id="CHAP12" tvg-name="LIGA DE CAMPEONES 13" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="CAMPEONES",LIGA DE CAMPEONES 13 HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99553
 #EXTINF:-1 tvg-id="eurosport1.de" tvg-name="EUROSPORT 1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-onCONylcemv_hx09TIz_U.png" group-title="DEPORTES",EUROSPORT 1 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1507
 #EXTINF:-1 tvg-id="eurosport1.de" tvg-name="EUROSPORT 1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3YwgVvZSm7i7ohR10474TE.png" group-title="DEPORTES",EUROSPORT 1 FHD
@@ -384,25 +384,25 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/130772
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/130771
 #EXTINF:-1 tvg-id="Red Bull TV GER" tvg-name="RED BULL TV" tvg-logo="https://i.imgur.com/kYNxBt0.png" group-title="DEPORTES",RED BULL TV HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99543
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA FINETWORK 1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ90HeOdhyxi-iRwUdE4Ll6A.png" group-title="DAZN",DAZN LIGA FINETWORK 1
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA FINETWORK 1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ90HeOdhyxi-iRwUdE4Ll6A.png" group-title="DEPORTES",DAZN LIGA FINETWORK 1
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129259
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA FINETWORK 2" tvg-logo="https://i.imgur.com/RwJ8Fa1.png" group-title="DAZN",DAZN LIGA FINETWORK 2
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA FINETWORK 2" tvg-logo="https://i.imgur.com/RwJ8Fa1.png" group-title="DEPORTES",DAZN LIGA FINETWORK 2
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129260
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA FINETWORK 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_RbvrNJx7sw0CldneRV1GI.png" group-title="DAZN",DAZN LIGA FINETWORK 3
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA FINETWORK 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_RbvrNJx7sw0CldneRV1GI.png" group-title="DEPORTES",DAZN LIGA FINETWORK 3
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129261
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA FINETWORK 4" tvg-logo="https://i.imgur.com/5YL1Dih.png" group-title="DAZN",DAZN LIGA FINETWORK 4
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA FINETWORK 4" tvg-logo="https://i.imgur.com/5YL1Dih.png" group-title="DEPORTES",DAZN LIGA FINETWORK 4
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129262
-#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="M+ LALIGA 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2Q33nA13e7qrwdMXJ7D2hs.png" group-title="LALIGA",M+ LALIGA 3 HD
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="M+ LALIGA 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2Q33nA13e7qrwdMXJ7D2hs.png" group-title="DEPORTES",M+ LALIGA 3 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/34740
-#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="M+ LALIGA 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2Q33nA13e7qrwdMXJ7D2hs.png" group-title="LALIGA",M+ LALIGA 3 FHD
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="M+ LALIGA 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2Q33nA13e7qrwdMXJ7D2hs.png" group-title="DEPORTES",M+ LALIGA 3 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1527
-#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="M+ LALIGA 4" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2Q33nA13e7qrwdMXJ7D2hs.png" group-title="LALIGA",M+ LALIGA 4 FHD
+#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="M+ LALIGA 4" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2Q33nA13e7qrwdMXJ7D2hs.png" group-title="DEPORTES",M+ LALIGA 4 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1529
-#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="M+ LALIGA 5" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2Q33nA13e7qrwdMXJ7D2hs.png" group-title="LALIGA",M+ LALIGA 5 FHD
+#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="M+ LALIGA 5" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2Q33nA13e7qrwdMXJ7D2hs.png" group-title="DEPORTES",M+ LALIGA 5 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1530
-#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="M+ LALIGA 6" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2Q33nA13e7qrwdMXJ7D2hs.png" group-title="LALIGA",M+ LALIGA 6 FHD
+#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="M+ LALIGA 6" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2Q33nA13e7qrwdMXJ7D2hs.png" group-title="DEPORTES",M+ LALIGA 6 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1531
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 7" tvg-logo="https://i.imgur.com/KHwBT9B.png" group-title="LALIGA",M+ LaLiga 7
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 7" tvg-logo="https://i.imgur.com/KHwBT9B.png" group-title="DEPORTES",M+ LaLiga 7
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/66303
 #EXTINF:-1 tvg-id="TVE" tvg-name="Movistar PLUS+" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxTo5g6FA9QdzIMIe9Wxt0k.png" group-title="ENTRETENIMIENTO",M+ PLUS+ HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/66310
@@ -490,7 +490,7 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/105561
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1589
 #EXTINF:-1 tvg-id="warnertvespaña.es" tvg-name="WARNER TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwHoytns3b0mQc2XrOOe6bQ.png" group-title="ENTRETENIMIENTO",WARNER TV FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1590
-#EXTINF:-1 tvg-id="140.movistar" tvg-name="NEGOCIOS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ7bdwjlYN1vqlygbtDwuuEs.png" group-title="GENERALISTAS",NEGOCIOS HD
+#EXTINF:-1 tvg-id="140.movistar" tvg-name="NEGOCIOS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ7bdwjlYN1vqlygbtDwuuEs.png" group-title="ESP+",NEGOCIOS HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117996
 #EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwoqOTd6HruUvig24oZYH7s.png" group-title="ENTRETENIMIENTO",CALLE 13 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1569
@@ -520,9 +520,9 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1584
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129232
 #EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="PARAMOUNT" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ7gICQVWmU5yoh2_RNSfEqA.png" group-title="ENTRETENIMIENTO",PARAMOUNT HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1588
-#EXTINF:-1 tvg-id="FDF ES" tvg-name="FDF" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3wE1hqWYN3aub_8C1FBDXU.png" group-title="GENERALISTAS",FDF FHD
+#EXTINF:-1 tvg-id="FDF ES" tvg-name="FDF" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3wE1hqWYN3aub_8C1FBDXU.png" group-title="ESP+",FDF FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1482
-#EXTINF:-1 tvg-id="FDF ES" tvg-name="FDF" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3wE1hqWYN3aub_8C1FBDXU.png" group-title="GENERALISTAS",FDF HD
+#EXTINF:-1 tvg-id="FDF ES" tvg-name="FDF" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3wE1hqWYN3aub_8C1FBDXU.png" group-title="ESP+",FDF HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1587
 #EXTINF:-1 tvg-id="tcmespaña.es" tvg-name="TCM" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwbiWJH8q8szrhlZC18SFbQ.png" group-title="ENTRETENIMIENTO",TCM HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1591
@@ -548,11 +548,11 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117965
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117966
 #EXTINF:-1 tvg-id="a3series.es" tvg-name="A3 SERIES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2gLDzJeL6WPo8kkQ6sj9Cw.png" group-title="ENTRETENIMIENTO",A3 SERIES HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117967
-#EXTINF:-1 tvg-id="xtrm.es" tvg-name="XTRM" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0T3zdmBKAaLPld5K-Nl_Is.png" group-title="GENERALISTAS",XTRM HD
+#EXTINF:-1 tvg-id="xtrm.es" tvg-name="XTRM" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0T3zdmBKAaLPld5K-Nl_Is.png" group-title="ESP+",XTRM HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117975
-#EXTINF:-1 tvg-id="xtrm.es" tvg-name="XTRM" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_LEr7MTCoM56nc_Sn-SWF4A.png" group-title="GENERALISTAS",XTRM
+#EXTINF:-1 tvg-id="xtrm.es" tvg-name="XTRM" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_LEr7MTCoM56nc_Sn-SWF4A.png" group-title="ESP+",XTRM
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129217
-#EXTINF:-1 tvg-id="xtrm.es" tvg-name="XTRM" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0T3zdmBKAaLPld5K-Nl_Is.png" group-title="GENERALISTAS",XTRM FHD
+#EXTINF:-1 tvg-id="xtrm.es" tvg-name="XTRM" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0T3zdmBKAaLPld5K-Nl_Is.png" group-title="ESP+",XTRM FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117976
 #EXTINF:-1 tvg-id="classica.es" tvg-name="CLASSICA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ6Vrc4xqBeQ_9adbNVizrco.png" group-title="ENTRETENIMIENTO",CLASSICA HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1593
@@ -604,153 +604,153 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/22017
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/22018
 #EXTINF:-1 tvg-id="" tvg-name="ALQUILER 23" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="ENTRETENIMIENTO",ALQUILER 23 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/22019
-#EXTINF:-1 tvg-id="" tvg-name="BBC FOOD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5-ODgq33_-REiDX7eASVZA.png" group-title="CULTURA",BBC FOOD HD
+#EXTINF:-1 tvg-id="" tvg-name="BBC FOOD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5-ODgq33_-REiDX7eASVZA.png" group-title="ESP+",BBC FOOD HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/200985
-#EXTINF:-1 tvg-id="" tvg-name="BBC FOOD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5-ODgq33_-REiDX7eASVZA.png" group-title="CULTURA",BBC FOOD FHD
+#EXTINF:-1 tvg-id="" tvg-name="BBC FOOD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5-ODgq33_-REiDX7eASVZA.png" group-title="ESP+",BBC FOOD FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/200984
-#EXTINF:-1 tvg-id="CL13" tvg-name="BBC HISTORY" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ1dhamR0y4zwTiutUzI4Vf8.png" group-title="CULTURA",BBC HISTORY HD
+#EXTINF:-1 tvg-id="CL13" tvg-name="BBC HISTORY" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ1dhamR0y4zwTiutUzI4Vf8.png" group-title="ESP+",BBC HISTORY HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/200987
-#EXTINF:-1 tvg-id="" tvg-name="BBC HISTORY" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ1dhamR0y4zwTiutUzI4Vf8.png" group-title="CULTURA",BBC HISTORY FHD
+#EXTINF:-1 tvg-id="" tvg-name="BBC HISTORY" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ1dhamR0y4zwTiutUzI4Vf8.png" group-title="ESP+",BBC HISTORY FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/200986
-#EXTINF:-1 tvg-id="cazaypesca.es" tvg-name="CAZA Y PESCA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJw-3caJrKXF86igaomHwztc.png" group-title="CULTURA",CAZA Y PESCA HD
+#EXTINF:-1 tvg-id="cazaypesca.es" tvg-name="CAZA Y PESCA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJw-3caJrKXF86igaomHwztc.png" group-title="ESP+",CAZA Y PESCA HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1610
-#EXTINF:-1 tvg-id="cazaypesca.es" tvg-name="CAZA Y PESCA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJw-3caJrKXF86igaomHwztc.png" group-title="CULTURA",CAZA Y PESCA FHD
+#EXTINF:-1 tvg-id="cazaypesca.es" tvg-name="CAZA Y PESCA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJw-3caJrKXF86igaomHwztc.png" group-title="ESP+",CAZA Y PESCA FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1611
-#EXTINF:-1 tvg-id="cazaypesca.es" tvg-name="CAZA Y PESCA SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_PjG8M0XW3Op0_2wLCARpeA.png" group-title="CULTURA",CAZA Y PESCA SD
+#EXTINF:-1 tvg-id="cazaypesca.es" tvg-name="CAZA Y PESCA SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_PjG8M0XW3Op0_2wLCARpeA.png" group-title="ESP+",CAZA Y PESCA SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129243
-#EXTINF:-1 tvg-id="TVE" tvg-name="M+ DOCUMENTALES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_P55t73RGfDpclBg7LrVEA.png" group-title="CULTURA",M+ DOCUMENTALES HD
+#EXTINF:-1 tvg-id="TVE" tvg-name="M+ DOCUMENTALES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_P55t73RGfDpclBg7LrVEA.png" group-title="ESP+",M+ DOCUMENTALES HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/66302
-#EXTINF:-1 tvg-id="TVE" tvg-name="M+ DOCUMENTALES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_P55t73RGfDpclBg7LrVEA.png" group-title="CULTURA",M+ DOCUMENTALES FHD
+#EXTINF:-1 tvg-id="TVE" tvg-name="M+ DOCUMENTALES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_P55t73RGfDpclBg7LrVEA.png" group-title="ESP+",M+ DOCUMENTALES FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/66308
-#EXTINF:-1 tvg-id="TVE" tvg-name="M+ DOCUMENTALES SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_P55t73RGfDpclBg7LrVEA.png" group-title="CULTURA",M+ DOCUMENTALES SD
+#EXTINF:-1 tvg-id="TVE" tvg-name="M+ DOCUMENTALES SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_P55t73RGfDpclBg7LrVEA.png" group-title="ESP+",M+ DOCUMENTALES SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/66309
-#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="IBERALIA TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4GROzQZE23k_kyyXnvGTow.png" group-title="CULTURA",IBERALIA TV
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="IBERALIA TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4GROzQZE23k_kyyXnvGTow.png" group-title="ESP+",IBERALIA TV
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1467
-#EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="IBÉRALIA 100% PESCA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4GROzQZE23k_kyyXnvGTow.png" group-title="CULTURA",IBÉRALIA 100% PESCA
+#EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="IBÉRALIA 100% PESCA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4GROzQZE23k_kyyXnvGTow.png" group-title="ESP+",IBÉRALIA 100% PESCA
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/100897
-#EXTINF:-1 tvg-id="Iberalia caza" tvg-name="IBÉRALIA 100% CAZA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4GROzQZE23k_kyyXnvGTow.png" group-title="CULTURA",IBÉRALIA 100% CAZA
+#EXTINF:-1 tvg-id="Iberalia caza" tvg-name="IBÉRALIA 100% CAZA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4GROzQZE23k_kyyXnvGTow.png" group-title="ESP+",IBÉRALIA 100% CAZA
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/100896
-#EXTINF:-1 tvg-id="nationalgeographicespaña.es" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ31miFOgL8sgAdPLCH0kstM.png" group-title="CULTURA",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="nationalgeographicespaña.es" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ31miFOgL8sgAdPLCH0kstM.png" group-title="ESP+",NATIONAL GEOGRAPHIC HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/16344
-#EXTINF:-1 tvg-id="nationalgeographicespaña.es" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ67MgU3LwZzMf6BwGnB7Zng.png" group-title="CULTURA",NATIONAL GEOGRAPHIC FHD
+#EXTINF:-1 tvg-id="nationalgeographicespaña.es" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ67MgU3LwZzMf6BwGnB7Zng.png" group-title="ESP+",NATIONAL GEOGRAPHIC FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1612
-#EXTINF:-1 tvg-id="nationalgeographicespaña.es" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_ICg-vimRMZH4PIO0xQ4LA4.png" group-title="CULTURA",NATIONAL GEOGRAPHIC SD
+#EXTINF:-1 tvg-id="nationalgeographicespaña.es" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_ICg-vimRMZH4PIO0xQ4LA4.png" group-title="ESP+",NATIONAL GEOGRAPHIC SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129244
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="NAT GEO WILD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJyPt6e1sVrRtigYygbOMMr0.png" group-title="CULTURA",NAT GEO WILD HD
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="NAT GEO WILD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJyPt6e1sVrRtigYygbOMMr0.png" group-title="ESP+",NAT GEO WILD HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/16345
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ31miFOgL8sgAdPLCH0kstM.png" group-title="CULTURA",NAT GEO WILD SD
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ31miFOgL8sgAdPLCH0kstM.png" group-title="ESP+",NAT GEO WILD SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129245
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="NAT GEO WILD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ31miFOgL8sgAdPLCH0kstM.png" group-title="CULTURA",NAT GEO WILD FHD
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="NAT GEO WILD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ31miFOgL8sgAdPLCH0kstM.png" group-title="ESP+",NAT GEO WILD FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1613
-#EXTINF:-1 tvg-id="amccrime.es" tvg-name="AMC CRIME" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5JXGnD1vsRKcyjAnRoiOS4.png" group-title="CULTURA",AMC CRIME HD
+#EXTINF:-1 tvg-id="amccrime.es" tvg-name="AMC CRIME" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5JXGnD1vsRKcyjAnRoiOS4.png" group-title="ESP+",AMC CRIME HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117972
-#EXTINF:-1 tvg-id="discoverychannelespaña.es" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5LkwNd7XK4spGFxxbeuQx0.png" group-title="CULTURA",DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="discoverychannelespaña.es" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5LkwNd7XK4spGFxxbeuQx0.png" group-title="ESP+",DISCOVERY CHANNEL HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1614
-#EXTINF:-1 tvg-id="discoverychannelespaña.es" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5LkwNd7XK4spGFxxbeuQx0.png" group-title="CULTURA",DISCOVERY CHANNEL FHD
+#EXTINF:-1 tvg-id="discoverychannelespaña.es" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5LkwNd7XK4spGFxxbeuQx0.png" group-title="ESP+",DISCOVERY CHANNEL FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/65402
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ35_E3y2WjP404AWmeSOytU.png" group-title="CULTURA",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ35_E3y2WjP404AWmeSOytU.png" group-title="ESP+",DISCOVERY TURBO
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/78203
-#EXTINF:-1 tvg-id="amccrime.es" tvg-name="AMC CRIME" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5JXGnD1vsRKcyjAnRoiOS4.png" group-title="CULTURA",AMC CRIME FHD
+#EXTINF:-1 tvg-id="amccrime.es" tvg-name="AMC CRIME" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5JXGnD1vsRKcyjAnRoiOS4.png" group-title="ESP+",AMC CRIME FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1615
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="CANAL COCINA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJw6TMwRQk9g3HIXD3x-M9JI.png" group-title="CULTURA",CANAL COCINA HD
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="CANAL COCINA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJw6TMwRQk9g3HIXD3x-M9JI.png" group-title="ESP+",CANAL COCINA HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1618
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="CANAL COCINA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJw6TMwRQk9g3HIXD3x-M9JI.png" group-title="CULTURA",CANAL COCINA FHD
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="CANAL COCINA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJw6TMwRQk9g3HIXD3x-M9JI.png" group-title="ESP+",CANAL COCINA FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129249
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="CANAL COCINA SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJw6TMwRQk9g3HIXD3x-M9JI.png" group-title="CULTURA",CANAL COCINA SD
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="CANAL COCINA SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJw6TMwRQk9g3HIXD3x-M9JI.png" group-title="ESP+",CANAL COCINA SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129248
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJz2-IMDk3lTz_KdTDbG_O10.png" group-title="CULTURA",CANAL DECASA HD
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJz2-IMDk3lTz_KdTDbG_O10.png" group-title="ESP+",CANAL DECASA HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129246
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJz2-IMDk3lTz_KdTDbG_O10.png" group-title="CULTURA",CANAL DECASA FHD
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJz2-IMDk3lTz_KdTDbG_O10.png" group-title="ESP+",CANAL DECASA FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129247
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJz2-IMDk3lTz_KdTDbG_O10.png" group-title="CULTURA",CANAL DECASA SD
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJz2-IMDk3lTz_KdTDbG_O10.png" group-title="ESP+",CANAL DECASA SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1617
-#EXTINF:-1 tvg-id="TVE" tvg-name="CANAL ODISEA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2ynXjpRY3x25gG-3nl88yc.png" group-title="CULTURA",CANAL ODISEA
+#EXTINF:-1 tvg-id="TVE" tvg-name="CANAL ODISEA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2ynXjpRY3x25gG-3nl88yc.png" group-title="ESP+",CANAL ODISEA
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1616
-#EXTINF:-1 tvg-id="eltorotv.es" tvg-name="EL TORO SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJyImPLy-hSc4Yl3zLP0x89M.png" group-title="GENERALISTAS",EL TORO SD
+#EXTINF:-1 tvg-id="eltorotv.es" tvg-name="EL TORO SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJyImPLy-hSc4Yl3zLP0x89M.png" group-title="ESP+",EL TORO SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117982
-#EXTINF:-1 tvg-id="eltorotv.es" tvg-name="EL TORO TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJyImPLy-hSc4Yl3zLP0x89M.png" group-title="GENERALISTAS",EL TORO TV HD
+#EXTINF:-1 tvg-id="eltorotv.es" tvg-name="EL TORO TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJyImPLy-hSc4Yl3zLP0x89M.png" group-title="ESP+",EL TORO TV HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117983
-#EXTINF:-1 tvg-id="BEMAD" tvg-name="BE MAD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_I1QOPUGVgLkgU5U5HsCwrc.png" group-title="GENERALISTAS",BE MAD HD
+#EXTINF:-1 tvg-id="BEMAD" tvg-name="BE MAD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_I1QOPUGVgLkgU5U5HsCwrc.png" group-title="ESP+",BE MAD HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117984
-#EXTINF:-1 tvg-id="BEMAD" tvg-name="BE MAD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ7o-xm_O_u1LBU5HKPS7mUA.png" group-title="GENERALISTAS",BE MAD FHD
+#EXTINF:-1 tvg-id="BEMAD" tvg-name="BE MAD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ7o-xm_O_u1LBU5HKPS7mUA.png" group-title="ESP+",BE MAD FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117985
-#EXTINF:-1 tvg-id="historiaespaña.es" tvg-name="HISTORIA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2asaThtfEckHJa2O8D0J00.png" group-title="CULTURA",HISTORIA HD
+#EXTINF:-1 tvg-id="historiaespaña.es" tvg-name="HISTORIA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2asaThtfEckHJa2O8D0J00.png" group-title="ESP+",HISTORIA HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1619
-#EXTINF:-1 tvg-id="historiaespaña.es" tvg-name="HISTORIA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2asaThtfEckHJa2O8D0J00.png" group-title="CULTURA",HISTORIA FHD
+#EXTINF:-1 tvg-id="historiaespaña.es" tvg-name="HISTORIA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2asaThtfEckHJa2O8D0J00.png" group-title="ESP+",HISTORIA FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129250
-#EXTINF:-1 tvg-id="historiaespaña.es" tvg-name="HISTORIA SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2asaThtfEckHJa2O8D0J00.png" group-title="CULTURA",HISTORIA SD
+#EXTINF:-1 tvg-id="historiaespaña.es" tvg-name="HISTORIA SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2asaThtfEckHJa2O8D0J00.png" group-title="ESP+",HISTORIA SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129251
-#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="DISNEY CHANNEL" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0F-PWyMMWn048djUnoyX1I.png" group-title="NIÑOS",DISNEY CHANNEL HD
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="DISNEY CHANNEL" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0F-PWyMMWn048djUnoyX1I.png" group-title="ESP+",DISNEY CHANNEL HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1598
-#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="DISNEY CHANNEL" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-jCkOFMG1XXM9SOxVzbp5c.png" group-title="NIÑOS",DISNEY CHANNEL FHD
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="DISNEY CHANNEL" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-jCkOFMG1XXM9SOxVzbp5c.png" group-title="ESP+",DISNEY CHANNEL FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1599
-#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="DISNEY CHANNEL SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-jCkOFMG1XXM9SOxVzbp5c.png" group-title="NIÑOS",DISNEY CHANNEL SD
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="DISNEY CHANNEL SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-jCkOFMG1XXM9SOxVzbp5c.png" group-title="ESP+",DISNEY CHANNEL SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129236
-#EXTINF:-1 tvg-id="disneyjuniorespaña.es" tvg-name="DISNEY JUNIOR SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_MZj4L8uJFd3Xmk8ba0E1B4.png" group-title="NIÑOS",DISNEY JUNIOR SD
+#EXTINF:-1 tvg-id="disneyjuniorespaña.es" tvg-name="DISNEY JUNIOR SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_MZj4L8uJFd3Xmk8ba0E1B4.png" group-title="ESP+",DISNEY JUNIOR SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/16347
-#EXTINF:-1 tvg-id="disneyjuniorespaña.es" tvg-name="DISNEY JUNIOR" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5D-_ISTQSQs74qt9PrkPT0.png" group-title="NIÑOS",DISNEY JUNIOR FHD
+#EXTINF:-1 tvg-id="disneyjuniorespaña.es" tvg-name="DISNEY JUNIOR" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5D-_ISTQSQs74qt9PrkPT0.png" group-title="ESP+",DISNEY JUNIOR FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129238
-#EXTINF:-1 tvg-id="disneyjuniorespaña.es" tvg-name="DISNEY JUNIOR" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5D-_ISTQSQs74qt9PrkPT0.png" group-title="NIÑOS",DISNEY JUNIOR HD
+#EXTINF:-1 tvg-id="disneyjuniorespaña.es" tvg-name="DISNEY JUNIOR" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5D-_ISTQSQs74qt9PrkPT0.png" group-title="ESP+",DISNEY JUNIOR HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129237
-#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="NICKELODEON" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ21mpcbKobdFc0apJzPB2IM.png" group-title="NIÑOS",NICKELODEON HD
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="NICKELODEON" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ21mpcbKobdFc0apJzPB2IM.png" group-title="ESP+",NICKELODEON HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1603
-#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="NICKELODEON" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwutrIgy0My-tfmJi-xFFlM.png" group-title="NIÑOS",NICKELODEON FHD
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="NICKELODEON" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwutrIgy0My-tfmJi-xFFlM.png" group-title="ESP+",NICKELODEON FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1604
-#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="NICKELODEON SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwutrIgy0My-tfmJi-xFFlM.png" group-title="NIÑOS",NICKELODEON SD
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="NICKELODEON SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwutrIgy0My-tfmJi-xFFlM.png" group-title="ESP+",NICKELODEON SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129241
-#EXTINF:-1 tvg-id="nickjr.de" tvg-name="NICK JR" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9IvZMbXyuKMPFjl4IIU3fQ.png" group-title="NIÑOS",NICK JR HD
+#EXTINF:-1 tvg-id="nickjr.de" tvg-name="NICK JR" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9IvZMbXyuKMPFjl4IIU3fQ.png" group-title="ESP+",NICK JR HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1601
-#EXTINF:-1 tvg-id="nickjr.de" tvg-name="NICK JR" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9IvZMbXyuKMPFjl4IIU3fQ.png" group-title="NIÑOS",NICK JR FHD
+#EXTINF:-1 tvg-id="nickjr.de" tvg-name="NICK JR" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9IvZMbXyuKMPFjl4IIU3fQ.png" group-title="ESP+",NICK JR FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129239
-#EXTINF:-1 tvg-id="nickjr.de" tvg-name="NICK JR SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9IvZMbXyuKMPFjl4IIU3fQ.png" group-title="NIÑOS",NICK JR SD
+#EXTINF:-1 tvg-id="nickjr.de" tvg-name="NICK JR SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9IvZMbXyuKMPFjl4IIU3fQ.png" group-title="ESP+",NICK JR SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129240
-#EXTINF:-1 tvg-id="dreamworks.es" tvg-name="DREAMWORKS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwH_hv6sf8hwQye822iJZjE.png" group-title="NIÑOS",DREAMWORKS HD
+#EXTINF:-1 tvg-id="dreamworks.es" tvg-name="DREAMWORKS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwH_hv6sf8hwQye822iJZjE.png" group-title="ESP+",DREAMWORKS HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117998
-#EXTINF:-1 tvg-id="dreamworks.es" tvg-name="DREAMWORKS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJyEEPall_ZTLrqJKPchycBQ.png" group-title="NIÑOS",DREAMWORKS FHD
+#EXTINF:-1 tvg-id="dreamworks.es" tvg-name="DREAMWORKS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJyEEPall_ZTLrqJKPchycBQ.png" group-title="ESP+",DREAMWORKS FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117999
-#EXTINF:-1 tvg-id="dreamworks.es" tvg-name="DREAMWORKS SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-om9a-sbS285X7H5ttS8bk.png" group-title="NIÑOS",DREAMWORKS SD
+#EXTINF:-1 tvg-id="dreamworks.es" tvg-name="DREAMWORKS SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-om9a-sbS285X7H5ttS8bk.png" group-title="ESP+",DREAMWORKS SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129242
-#EXTINF:-1 tvg-id="boing.es" tvg-name="BOING" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwQ3nvL3ZQ0TCo19voqNf1Q.png" group-title="NIÑOS",BOING
+#EXTINF:-1 tvg-id="boing.es" tvg-name="BOING" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwQ3nvL3ZQ0TCo19voqNf1Q.png" group-title="ESP+",BOING
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1606
-#EXTINF:-1 tvg-id="babytv.es" tvg-name="BABY" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3mo-GP-FopXCWf6Ih1aM-0.png" group-title="NIÑOS",BABY
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="BABY" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3mo-GP-FopXCWf6Ih1aM-0.png" group-title="ESP+",BABY
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1608
-#EXTINF:-1 tvg-id="" tvg-name="PLANETA KIDS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_NtImc6dGLIaCXXZuTW7UFk.png" group-title="NIÑOS",PLANETA KIDS
+#EXTINF:-1 tvg-id="" tvg-name="PLANETA KIDS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_NtImc6dGLIaCXXZuTW7UFk.png" group-title="ESP+",PLANETA KIDS
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/59824
-#EXTINF:-1 tvg-id="" tvg-name="LOGOS TV KIDS" tvg-logo="https://i.imgur.com/zyrJBXo.png" group-title="NIÑOS",LOGOS TV KIDS
+#EXTINF:-1 tvg-id="" tvg-name="LOGOS TV KIDS" tvg-logo="https://i.imgur.com/zyrJBXo.png" group-title="ESP+",LOGOS TV KIDS
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/23205
-#EXTINF:-1 tvg-id="TVE" tvg-name="ENFAMILIA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3E4V2zxgsx9n0byvdroP5c.png" group-title="NIÑOS",ENFAMILIA
+#EXTINF:-1 tvg-id="TVE" tvg-name="ENFAMILIA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3E4V2zxgsx9n0byvdroP5c.png" group-title="ESP+",ENFAMILIA
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1605
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX INFANTILES 1" tvg-logo="https://i.imgur.com/dM3mljH.png" group-title="NIÑOS",NETFLIX INFANTILES 1
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX INFANTILES 1" tvg-logo="https://i.imgur.com/dM3mljH.png" group-title="ESP+",NETFLIX INFANTILES 1
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/21995
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX INFANTILES 2" tvg-logo="https://i.imgur.com/dM3mljH.png" group-title="NIÑOS",NETFLIX INFANTILES 2
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX INFANTILES 2" tvg-logo="https://i.imgur.com/dM3mljH.png" group-title="ESP+",NETFLIX INFANTILES 2
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/21996
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX INFANTILES 3" tvg-logo="https://i.imgur.com/dM3mljH.png" group-title="NIÑOS",NETFLIX INFANTILES 3
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX INFANTILES 3" tvg-logo="https://i.imgur.com/dM3mljH.png" group-title="ESP+",NETFLIX INFANTILES 3
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/21997
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX INFANTILES 4" tvg-logo="https://i.imgur.com/dM3mljH.png" group-title="NIÑOS",NETFLIX INFANTILES 4
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX INFANTILES 4" tvg-logo="https://i.imgur.com/dM3mljH.png" group-title="ESP+",NETFLIX INFANTILES 4
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/21998
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX INFANTILES 5" tvg-logo="https://i.imgur.com/dM3mljH.png" group-title="NIÑOS",NETFLIX INFANTILES 5
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX INFANTILES 5" tvg-logo="https://i.imgur.com/dM3mljH.png" group-title="ESP+",NETFLIX INFANTILES 5
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/21999
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX INFANTILES 6" tvg-logo="https://i.imgur.com/dM3mljH.png" group-title="NIÑOS",NETFLIX INFANTILES 6
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX INFANTILES 6" tvg-logo="https://i.imgur.com/dM3mljH.png" group-title="ESP+",NETFLIX INFANTILES 6
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/22000
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX INFANTILES 7" tvg-logo="https://i.imgur.com/dM3mljH.png" group-title="NIÑOS",NETFLIX INFANTILES 7
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX INFANTILES 7" tvg-logo="https://i.imgur.com/dM3mljH.png" group-title="ESP+",NETFLIX INFANTILES 7
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/22001
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX INFANTILES 8" tvg-logo="https://i.imgur.com/dM3mljH.png" group-title="NIÑOS",NETFLIX INFANTILES 8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX INFANTILES 8" tvg-logo="https://i.imgur.com/dM3mljH.png" group-title="ESP+",NETFLIX INFANTILES 8
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/22002
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX INFANTILES 9" tvg-logo="https://i.imgur.com/dM3mljH.png" group-title="NIÑOS",NETFLIX INFANTILES 9
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX INFANTILES 9" tvg-logo="https://i.imgur.com/dM3mljH.png" group-title="ESP+",NETFLIX INFANTILES 9
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/22003
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX INFANTILES 10" tvg-logo="https://i.imgur.com/dM3mljH.png" group-title="NIÑOS",NETFLIX INFANTILES 10
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX INFANTILES 10" tvg-logo="https://i.imgur.com/dM3mljH.png" group-title="ESP+",NETFLIX INFANTILES 10
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/22004
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX INFANTILES 11" tvg-logo="https://i.imgur.com/dM3mljH.png" group-title="NIÑOS",NETFLIX INFANTILES 11
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX INFANTILES 11" tvg-logo="https://i.imgur.com/dM3mljH.png" group-title="ESP+",NETFLIX INFANTILES 11
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/22005
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX INFANTILES 12" tvg-logo="https://i.imgur.com/dM3mljH.png" group-title="NIÑOS",NETFLIX INFANTILES 12
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX INFANTILES 12" tvg-logo="https://i.imgur.com/dM3mljH.png" group-title="ESP+",NETFLIX INFANTILES 12
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/22006
-#EXTINF:-1 tvg-id="124.movistar" tvg-name="MEZZO LIVE" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwZJYfdSMhBCnzQkoZar8m8.png" group-title="GENERALISTAS",MEZZO LIVE HD
+#EXTINF:-1 tvg-id="124.movistar" tvg-name="MEZZO LIVE" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwZJYfdSMhBCnzQkoZar8m8.png" group-title="ESP+",MEZZO LIVE HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1484
-#EXTINF:-1 tvg-id="mezzo.es" tvg-name="MEZZO" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwZJYfdSMhBCnzQkoZar8m8.png" group-title="GENERALISTAS",MEZZO HD
+#EXTINF:-1 tvg-id="mezzo.es" tvg-name="MEZZO" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwZJYfdSMhBCnzQkoZar8m8.png" group-title="ESP+",MEZZO HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1485
-#EXTINF:-1 tvg-id="mtv0s.es" tvg-name="MTV 00 's" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJzMAEmpTti42z4nq-k6hHN4.png" group-title="GENERALISTAS",MTV 00 's
+#EXTINF:-1 tvg-id="mtv0s.es" tvg-name="MTV 00 's" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJzMAEmpTti42z4nq-k6hHN4.png" group-title="ESP+",MTV 00 's
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117991
-#EXTINF:-1 tvg-id="mtv.es" tvg-name="MTV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4zs1itrxBzojnOWyTWNxLg.png" group-title="GENERALISTAS",MTV HD
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="MTV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4zs1itrxBzojnOWyTWNxLg.png" group-title="ESP+",MTV HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117992
 #EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="PRIMERA FEDERACION" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ8ZVPPsz9TXuiU_2f_stb_Q.png" group-title="1A RFEF TV",PRIMERA FEDERACION
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/135564
@@ -830,9 +830,9 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/137435
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127646
 #EXTINF:-1 tvg-id="El Toro TV" tvg-name="ONE TORO" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9hAHbt3GsD1ZQLYkqzKQOU.png" group-title="DEPORTES",ONE TORO HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127597
-#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="CAZAVISION" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJx0s41qwuHHiJvTBmTxFRYw.png" group-title="CULTURA",CAZAVISION
+#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="CAZAVISION" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJx0s41qwuHHiJvTBmTxFRYw.png" group-title="ESP+",CAZAVISION
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/16348
-#EXTINF:-1 tvg-id="cazaypesca.es" tvg-name="CAZA Y PESCA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJzfvW4udhrRYCOqBwtlpwy4.png" group-title="CULTURA",CAZA Y PESCA
+#EXTINF:-1 tvg-id="cazaypesca.es" tvg-name="CAZA Y PESCA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJzfvW4udhrRYCOqBwtlpwy4.png" group-title="ESP+",CAZA Y PESCA
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129226
 #EXTINF:-1 tvg-id="" tvg-name="ONBOARD MAX VERSTAPPEN (F1TV)" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_K8Qn0XJLH-AIg2mZNtueuY.png" group-title="FORMULA 1 TV",ONBOARD MAX VERSTAPPEN (F1TV)
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/157983
@@ -876,23 +876,23 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/158001
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/158002
 #EXTINF:-1 tvg-id="" tvg-name="LIVE AUDIO AMBIENTE FX (F1TV)" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_MgeKolLLjVj8YbVtw6A7zU.png" group-title="FORMULA 1 TV",LIVE AUDIO AMBIENTE FX (F1TV)
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/158003
-#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="LALIGA HYPERMOTION 4" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_A5tryRIJ6rFC6eA6ycptNg.png" group-title="LALIGA",LALIGA HYPERMOTION 4 FHD
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="LALIGA HYPERMOTION 4" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_A5tryRIJ6rFC6eA6ycptNg.png" group-title="DEPORTES",LALIGA HYPERMOTION 4 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/5058
-#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="LALIGA HYPERMOTION 5" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_A5tryRIJ6rFC6eA6ycptNg.png" group-title="LALIGA",LALIGA HYPERMOTION 5 FHD
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="LALIGA HYPERMOTION 5" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_A5tryRIJ6rFC6eA6ycptNg.png" group-title="DEPORTES",LALIGA HYPERMOTION 5 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/5059
-#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="LALIGA HYPERMOTION 8" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_A5tryRIJ6rFC6eA6ycptNg.png" group-title="LALIGA",LALIGA HYPERMOTION 8 FHD
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="LALIGA HYPERMOTION 8" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_A5tryRIJ6rFC6eA6ycptNg.png" group-title="DEPORTES",LALIGA HYPERMOTION 8 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/7971
-#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="LALIGA HYPERMOTION 10" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_A5tryRIJ6rFC6eA6ycptNg.png" group-title="LALIGA",LALIGA HYPERMOTION 10 FHD
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="LALIGA HYPERMOTION 10" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_A5tryRIJ6rFC6eA6ycptNg.png" group-title="DEPORTES",LALIGA HYPERMOTION 10 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/7984
-#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="LALIGA HYPERMOTION 9" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_A5tryRIJ6rFC6eA6ycptNg.png" group-title="LALIGA",LALIGA HYPERMOTION 9 FHD
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="LALIGA HYPERMOTION 9" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_A5tryRIJ6rFC6eA6ycptNg.png" group-title="DEPORTES",LALIGA HYPERMOTION 9 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/7974
-#EXTINF:-1 tvg-id="aljazeeraenglish.qa" tvg-name="LALIGA HYPERMOTION 7" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_A5tryRIJ6rFC6eA6ycptNg.png" group-title="LALIGA",LALIGA HYPERMOTION 7 FHD
+#EXTINF:-1 tvg-id="aljazeeraenglish.qa" tvg-name="LALIGA HYPERMOTION 7" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_A5tryRIJ6rFC6eA6ycptNg.png" group-title="DEPORTES",LALIGA HYPERMOTION 7 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/6304
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA HYPERMOTION 6" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_A5tryRIJ6rFC6eA6ycptNg.png" group-title="LALIGA",LALIGA HYPERMOTION 6 FHD
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA HYPERMOTION 6" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_A5tryRIJ6rFC6eA6ycptNg.png" group-title="DEPORTES",LALIGA HYPERMOTION 6 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/5194
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA HYPERMOTION 11" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_A5tryRIJ6rFC6eA6ycptNg.png" group-title="LALIGA",LALIGA HYPERMOTION 11 FHD
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA HYPERMOTION 11" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_A5tryRIJ6rFC6eA6ycptNg.png" group-title="DEPORTES",LALIGA HYPERMOTION 11 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/174223
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA HYPERMOTION 12" tvg-logo="https://i.imgur.com/EHUgdyR.png" group-title="LALIGA",LALIGA HYPERMOTION 12 FHD
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA HYPERMOTION 12" tvg-logo="https://i.imgur.com/EHUgdyR.png" group-title="DEPORTES",LALIGA HYPERMOTION 12 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/174224
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT EVENTOS 1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_huuelJKyFyyAk-wBE5HFE.png" group-title="EUROSPORT EVENT",EUROSPORT EVENTOS 1
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/174445
@@ -956,27 +956,27 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/193991
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/193992
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA REPLAY #10" tvg-logo="" group-title="LA LIGA REPLAY",LA LIGA REPLAY #10
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/193993
-#EXTINF:-1 tvg-id="" tvg-name="M LIGA DE CAMPEONES 14" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="CAMPEONES",M LIGA DE CAMPEONES 14
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA DE CAMPEONES 14" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES 14
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/202043
-#EXTINF:-1 tvg-id="" tvg-name="M LIGA DE CAMPEONES 15" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="CAMPEONES",M LIGA DE CAMPEONES 15
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA DE CAMPEONES 15" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES 15
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/202044
-#EXTINF:-1 tvg-id="" tvg-name="M LIGA DE CAMPEONES 16" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="CAMPEONES",M LIGA DE CAMPEONES 16
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA DE CAMPEONES 16" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES 16
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/202045
-#EXTINF:-1 tvg-id="" tvg-name="M LIGA DE CAMPEONES 17" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="CAMPEONES",M LIGA DE CAMPEONES 17
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA DE CAMPEONES 17" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES 17
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/202046
-#EXTINF:-1 tvg-id="" tvg-name="M LIGA DE CAMPEONES 18" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="CAMPEONES",M LIGA DE CAMPEONES 18
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA DE CAMPEONES 18" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES 18
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/202047
-#EXTINF:-1 tvg-id="" tvg-name="M LIGA DE CAMPEONES 19" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="CAMPEONES",M LIGA DE CAMPEONES 19
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA DE CAMPEONES 19" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES 19
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/202048
 #EXTINF:-1 tvg-id="TVE" tvg-name="M+ CLASSICOS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_P8yuVQh7SPbWQ-9BqbmPdo.png" group-title="ENTRETENIMIENTO",M+ CLASSICOS HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1497
-#EXTINF:-1 tvg-id="tvei.es" tvg-name="TVE INTER" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_EK3BjOPzxZu7wcy1OS3D9c.png" group-title="GENERALISTAS",TVE INTER HD
+#EXTINF:-1 tvg-id="tvei.es" tvg-name="TVE INTER" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_EK3BjOPzxZu7wcy1OS3D9c.png" group-title="ESP+",TVE INTER HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117964
-#EXTINF:-1 tvg-id="trecetv.es" tvg-name="TRECE" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_HeCPNzet1AelJu2yRlRGo4.png" group-title="GENERALISTAS",TRECE FHD
+#EXTINF:-1 tvg-id="trecetv.es" tvg-name="TRECE" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_HeCPNzet1AelJu2yRlRGo4.png" group-title="ESP+",TRECE FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/218457
 #EXTINF:-1 tvg-id="" tvg-name="UFC 317: TOPURIA VS OLIVEIRA" tvg-logo="" group-title="DEPORTES",UFC 317: TOPURIA VS OLIVEIRA
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/97949
-#EXTINF:-1 tvg-id="TV3 CAT" tvg-name="TV3 CATALAN" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_MJa2pZLNLW4Hu3VVg9CxQ8.png" group-title="GENERALISTAS",TV3 CATALAN
+#EXTINF:-1 tvg-id="TV3 CAT" tvg-name="TV3 CATALAN" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_MJa2pZLNLW4Hu3VVg9CxQ8.png" group-title="ESP+",TV3 CATALAN
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127543
 #EXTINF:-1 tvg-id="" tvg-name="BASKETBALL EURO  LIVE EVENT 1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_Ke-KdqcWTOUCieNXc_i6a8.png" group-title="EURO BASKET 2025",BASKETBALL EURO  LIVE EVENT 1
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/222680
@@ -9554,7 +9554,7 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127617
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127618
 #EXTINF:-1 tvg-id="M+ #Vamos" tvg-name="VAMOS" tvg-logo="https://i.imgur.com/AVoE40R.png" group-title="PROVIS-DEPOR",VAMOS FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127619
-#EXTINF:-1 tvg-id="M+ LaLigaTV" tvg-name="LALIGA" tvg-logo="https://i.imgur.com/DIqLSPA.png" group-title="PROVIS-DEPOR",LALIGA  HD
+#EXTINF:-1 tvg-id="M+ LaLigaTV" tvg-name="DEPORTES" tvg-logo="https://i.imgur.com/DIqLSPA.png" group-title="PROVIS-DEPOR",LALIGA  HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127620
 #EXTINF:-1 tvg-id="M+ LaLigaTV" tvg-name="LA LIGA" tvg-logo="https://i.imgur.com/DIqLSPA.png" group-title="PROVIS-DEPOR",LA LIGA FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127621
