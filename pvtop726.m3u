@@ -64,8 +64,6 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/96392
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117971
 #EXTINF:-1 tvg-id="ten.es" tvg-name="TEN" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ6cXWjaXLmedwfIdtnPStqY.png" group-title="ESP+",TEN HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/16342
-#EXTINF:-1 tvg-id="dark.es" tvg-name="DARK" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9NCyA18JfjyJzqq0iYfjSA.png" group-title="ESP+",DARK HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117968
 #EXTINF:-1 tvg-id="dkiss.es" tvg-name="DKISS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ7eAAQLCk1uoxahi743o3ZE.png" group-title="ESP+",DKISS
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/16343
 #EXTINF:-1 tvg-id="dmax.de" tvg-name="DMAX" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0nEh1xOMwL-mstbTvMYq08.png" group-title="ESP+",DMAX HD
@@ -206,6 +204,8 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129257
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1514
 #EXTINF:-1 tvg-id="daznf1.es" tvg-name="M Dazn F1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ13cq0jXkYo_EuZQcaR5SHA.png" group-title="DEPORTES",M Dazn F1 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1515
+#EXTINF:-1 tvg-id="TVE" tvg-name="Movistar PLUS+" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxTo5g6FA9QdzIMIe9Wxt0k.png" group-title="CINE+",M+ PLUS+ HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/66310
 #EXTINF:-1 tvg-id="" tvg-name="PSC PORCHE CARRERA ES F1TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_IrTV-utDpCHyjOThfFMnjw.png" group-title="FORMULA 1 TV",PSC PORCHE CARRERA ES F1TV
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/5389
 #EXTINF:-1 tvg-id="" tvg-name="DATA (F1TV)" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBvqcPwSOM30GtC_nwGa1A.png" group-title="FORMULA 1 TV",DATA (F1TV)
@@ -404,205 +404,209 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1530
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1531
 #EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 7" tvg-logo="https://i.imgur.com/KHwBT9B.png" group-title="DEPORTES",M+ LaLiga 7
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/66303
-#EXTINF:-1 tvg-id="TVE" tvg-name="Movistar PLUS+" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxTo5g6FA9QdzIMIe9Wxt0k.png" group-title="ENTRETENIMIENTO",M+ PLUS+ HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/66310
-#EXTINF:-1 tvg-id="TVE" tvg-name="Movistar PLUS+" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxTo5g6FA9QdzIMIe9Wxt0k.png" group-title="ENTRETENIMIENTO",M+ PLUS+ FHD
+#EXTINF:-1 tvg-id="TVE" tvg-name="Movistar PLUS+" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxTo5g6FA9QdzIMIe9Wxt0k.png" group-title="CINE+",M+ PLUS+ FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/66311
-#EXTINF:-1 tvg-id="MPLUS" tvg-name="Movistar PLUS+ SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_NqfwF2NKyfd5IdgYeNjqpM.png" group-title="ENTRETENIMIENTO",M+ PLUS+ SD
+#EXTINF:-1 tvg-id="MPLUS" tvg-name="Movistar PLUS+ SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_NqfwF2NKyfd5IdgYeNjqpM.png" group-title="CINE+",M+ PLUS+ SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/66312
-#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="Movistar PLUS+ 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2Sd2NWjP3qNFrM1OA__Ie4.jpg" group-title="ENTRETENIMIENTO",M+ PLUS+ 2 HD
+#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="Movistar PLUS+ 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2Sd2NWjP3qNFrM1OA__Ie4.jpg" group-title="CINE+",M+ PLUS+ 2 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117987
-#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="Movistar PLUS+ 2 SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2Sd2NWjP3qNFrM1OA__Ie4.jpg" group-title="ENTRETENIMIENTO",M+ PLUS+ 2 SD
+#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="Movistar PLUS+ 2 SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2Sd2NWjP3qNFrM1OA__Ie4.jpg" group-title="CINE+",M+ PLUS+ 2 SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117986
-#EXTINF:-1 tvg-id="bbcdrama.es" tvg-name="BBC DRAMA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-n-B2FYpy4W1fl10YOn6H0.png" group-title="ENTRETENIMIENTO",BBC DRAMA HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/200983
-#EXTINF:-1 tvg-id="bbcdrama.es" tvg-name="BBC DRAMA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-n-B2FYpy4W1fl10YOn6H0.png" group-title="ENTRETENIMIENTO",BBC DRAMA FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/200982
-#EXTINF:-1 tvg-id="MORIG" tvg-name="M+ ORIGINALES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4vFTyzSXv9lMHTpEvlhU_s.png" group-title="ENTRETENIMIENTO",M+ ORIGINALES HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1556
-#EXTINF:-1 tvg-id="MORIG" tvg-name="M+ ORIGINALES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4vFTyzSXv9lMHTpEvlhU_s.png" group-title="ENTRETENIMIENTO",M+ ORIGINALES  FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1557
-#EXTINF:-1 tvg-id="MORIG" tvg-name="M+ ORIGINALES SD" tvg-logo="https://i.imgur.com/ESPUkkw.png" group-title="ENTRETENIMIENTO",M+ ORIGINALES SD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129208
-#EXTINF:-1 tvg-id="TVE" tvg-name="M+ INDIE" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJyen1_xfEBXfKTjI6Y4Eyho.png" group-title="ENTRETENIMIENTO",M+ INDIE HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/66305
-#EXTINF:-1 tvg-id="TVE" tvg-name="M+ INDIE" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJyen1_xfEBXfKTjI6Y4Eyho.png" group-title="ENTRETENIMIENTO",M+ INDIE FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/66306
-#EXTINF:-1 tvg-id="MINDI" tvg-name="M+ INDIE SD" tvg-logo="https://i.imgur.com/ha7VxcS.png" group-title="ENTRETENIMIENTO",M+ INDIE SD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/66307
-#EXTINF:-1 tvg-id="movistaracción.es" tvg-name="M+ ACCIÓN" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3mSa_JUfVohTWmMDIjv6L0.png" group-title="ENTRETENIMIENTO",M+ ACCION HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1558
-#EXTINF:-1 tvg-id="movistaracción.es" tvg-name="M+ ACCIÓN" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3mSa_JUfVohTWmMDIjv6L0.png" group-title="ENTRETENIMIENTO",M+ ACCION FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1559
-#EXTINF:-1 tvg-id="movistaracción.es" tvg-name="M+ ACCIÓN SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_EqBIwapdxgHn117ls68X4o.png" group-title="ENTRETENIMIENTO",M+ ACCION SD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129219
-#EXTINF:-1 tvg-id="" tvg-name="M+ HITCHCOCK" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ1iJXXd0Ap87R_uak06P6Kw.png" group-title="test",M+ HITCHCOCK HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/179092
-#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="M+ ESTRENOS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2KjO6pQHgYonR5yY74QdyY.png" group-title="ENTRETENIMIENTO",M+ ESTRENOS FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1561
-#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="M+ ESTRENOS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2KjO6pQHgYonR5yY74QdyY.png" group-title="ENTRETENIMIENTO",M+ ESTRENOS HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1560
-#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="M+ ESTRENOS SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2KjO6pQHgYonR5yY74QdyY.png" group-title="ENTRETENIMIENTO",M+ ESTRENOS SD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129220
-#EXTINF:-1 tvg-id="M+ Terror" tvg-name="M+ TERROR" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_dPhTmqzYVandU5b2iTewE.png" group-title="ENTRETENIMIENTO",M+ TERROR FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/144204
-#EXTINF:-1 tvg-id="M+ Terror" tvg-name="M+ TERROR" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_dPhTmqzYVandU5b2iTewE.png" group-title="ENTRETENIMIENTO",M+ TERROR HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/144205
-#EXTINF:-1 tvg-id="DAZNLI" tvg-name="HOLLYWOOD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2xQbVJHIkZdhiZKkwECIL8.png" group-title="ENTRETENIMIENTO",HOLLYWOOD HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1562
-#EXTINF:-1 tvg-id="MCOPA" tvg-name="HOLLYWOOD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ1_lmdbgZLh4_-xRjasFHu4.png" group-title="ENTRETENIMIENTO",HOLLYWOOD FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1563
-#EXTINF:-1 tvg-id="hollywoodespaña.es" tvg-name="HOLLYWOOD SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_MJxV_gxvwkm1du5cHoEqpU.png" group-title="ENTRETENIMIENTO",HOLLYWOOD SD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129222
-#EXTINF:-1 tvg-id="DCESP" tvg-name="CINE ESPANOL" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ8USjc0cxkC0OAfTRw5SaUA.png" group-title="ENTRETENIMIENTO",CINE ESPANOL  HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1566
-#EXTINF:-1 tvg-id="movistarcineespañol.es" tvg-name="CINE ESPANOL" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ8USjc0cxkC0OAfTRw5SaUA.png" group-title="ENTRETENIMIENTO",CINE ESPANOL FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129223
-#EXTINF:-1 tvg-id="movistarcineespañol.es" tvg-name="CINE ESPANOL SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JbuEQO1VRTQJsvTqJhrW58.png" group-title="ENTRETENIMIENTO",CINE ESPANOL SD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129224
-#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="M+ DRAMA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ6GB-1ypW2B0-kyC_ursSg0.png" group-title="ENTRETENIMIENTO",M+ DRAMA HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1571
-#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="M+ DRAMA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ6GB-1ypW2B0-kyC_ursSg0.png" group-title="ENTRETENIMIENTO",M+ DRAMA FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1572
-#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="M+ DRAMA SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ6GB-1ypW2B0-kyC_ursSg0.png" group-title="ENTRETENIMIENTO",M+ DRAMA SD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129228
-#EXTINF:-1 tvg-id="TVE" tvg-name="SERIES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_hEQIE3iRoAbW2-FEgAFx8.png" group-title="ENTRETENIMIENTO",SERIES HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1568
-#EXTINF:-1 tvg-id="DAZNL2" tvg-name="SERIES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_hEQIE3iRoAbW2-FEgAFx8.png" group-title="ENTRETENIMIENTO",SERIES FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1567
-#EXTINF:-1 tvg-id="ESP" tvg-name="M+ SERIES SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_BLK9EBltiUGK1h554K0yew.png" group-title="ENTRETENIMIENTO",M+ SERIES SD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129225
-#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M+ COMEDIA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ39m5SYitCUQZneb30TEZkQ.png" group-title="ENTRETENIMIENTO",M+ COMEDIA HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1573
-#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M+ COMEDIA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ39m5SYitCUQZneb30TEZkQ.png" group-title="ENTRETENIMIENTO",M+ COMEDIA FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1574
-#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M+ COMEDIA SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ39m5SYitCUQZneb30TEZkQ.png" group-title="ENTRETENIMIENTO",M+ COMEDIA SD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129229
-#EXTINF:-1 tvg-id="comedycentral.ch" tvg-name="COMEDY CENTRAL" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJz7sPxDenwM58Gq9KLs9v9A.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1575
-#EXTINF:-1 tvg-id="comedycentral.ch" tvg-name="COMEDY CENTRAL" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5S3GzVJ5sX0djpzY58XFAE.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1576
-#EXTINF:-1 tvg-id="comedycentral.ch" tvg-name="COMEDY CENTRAL SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_C5gAcRqsLkPT7QNb3uDSXU.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL SD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129230
-#EXTINF:-1 tvg-id="somos.es" tvg-name="SOMOS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxxdpgZos168TIgP5BylMtQ.png" group-title="ENTRETENIMIENTO",SOMOS
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/105561
-#EXTINF:-1 tvg-id="warnertvespaña.es" tvg-name="WARNER TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwHoytns3b0mQc2XrOOe6bQ.png" group-title="ENTRETENIMIENTO",WARNER TV HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1589
-#EXTINF:-1 tvg-id="warnertvespaña.es" tvg-name="WARNER TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwHoytns3b0mQc2XrOOe6bQ.png" group-title="ENTRETENIMIENTO",WARNER TV FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1590
-#EXTINF:-1 tvg-id="140.movistar" tvg-name="NEGOCIOS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ7bdwjlYN1vqlygbtDwuuEs.png" group-title="ESP+",NEGOCIOS HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117996
-#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwoqOTd6HruUvig24oZYH7s.png" group-title="ENTRETENIMIENTO",CALLE 13 HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1569
-#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9aXVBfiVFlmeMTBvPwyOn4.png" group-title="ENTRETENIMIENTO",CALLE 13 FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1570
-#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13 SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9aXVBfiVFlmeMTBvPwyOn4.png" group-title="ENTRETENIMIENTO",CALLE 13 SD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129227
-#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ7Z4eKyx5n8-LD-H51SwdwU.png" group-title="ENTRETENIMIENTO",AXN HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1577
-#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJycYLFP14EaWSPzt-B8SIf4.png" group-title="ENTRETENIMIENTO",AXN FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1578
-#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_KywPzef_wCgv_0UrxG2Xe8.png" group-title="ENTRETENIMIENTO",AXN SD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129231
-#EXTINF:-1 tvg-id="axnmovies.es" tvg-name="AXN MOVIES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJx4Qg0Xwt0aal8Q4iddjEf0.png" group-title="ENTRETENIMIENTO",AXN MOVIES HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1579
-#EXTINF:-1 tvg-id="axnmovies.es" tvg-name="AXN MOVIES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJx4Qg0Xwt0aal8Q4iddjEf0.png" group-title="ENTRETENIMIENTO",AXN MOVIES FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1580
-#EXTINF:-1 tvg-id="syfy.de" tvg-name="SYFY" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJz3SEA5p0Zbg9Xmqr8F9nEU.png" group-title="ENTRETENIMIENTO",SYFY HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1582
-#EXTINF:-1 tvg-id="syfy.de" tvg-name="SYFY SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJzfwHoyJbmCjj9bEUz5kNaw.png" group-title="ENTRETENIMIENTO",SYFY SD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1581
-#EXTINF:-1 tvg-id="starchannel.es" tvg-name="STAR CHANNEL" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_O37QEcWcy83hNxmjqsQfDA.png" group-title="ENTRETENIMIENTO",STAR CHANNEL HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1583
-#EXTINF:-1 tvg-id="starchannel.es" tvg-name="STAR CHANNEL" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9ItnbKYAdzTIaPJzeqT2OM.png" group-title="ENTRETENIMIENTO",STAR CHANNEL FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1584
-#EXTINF:-1 tvg-id="starchannel.es" tvg-name="STAR CHANNEL SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_G7v8FRCTMmkg_IwB9UdFVw.png" group-title="ENTRETENIMIENTO",STAR CHANNEL SD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129232
-#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="PARAMOUNT" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ7gICQVWmU5yoh2_RNSfEqA.png" group-title="ENTRETENIMIENTO",PARAMOUNT HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1588
-#EXTINF:-1 tvg-id="FDF ES" tvg-name="FDF" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3wE1hqWYN3aub_8C1FBDXU.png" group-title="ESP+",FDF FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1482
-#EXTINF:-1 tvg-id="FDF ES" tvg-name="FDF" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3wE1hqWYN3aub_8C1FBDXU.png" group-title="ESP+",FDF HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1587
-#EXTINF:-1 tvg-id="tcmespaña.es" tvg-name="TCM" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwbiWJH8q8szrhlZC18SFbQ.png" group-title="ENTRETENIMIENTO",TCM HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1591
-#EXTINF:-1 tvg-id="tcmespaña.es" tvg-name="TCM" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJzUzjcr2MG_UFOaz4sqpWaw.png" group-title="ENTRETENIMIENTO",TCM FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1592
-#EXTINF:-1 tvg-id="tcmespaña.es" tvg-name="TCM SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_K7-65IzPYGmUvLcZEc3404.png" group-title="ENTRETENIMIENTO",TCM SD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129233
-#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ8qrTY2-LL6yQEGyZdxxsJc.png" group-title="ENTRETENIMIENTO",AMC HD
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ8qrTY2-LL6yQEGyZdxxsJc.png" group-title="CINE+",AMC HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1595
-#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwqZ7xPx0tNaDBtnE5NrKBM.png" group-title="ENTRETENIMIENTO",AMC FHD
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwqZ7xPx0tNaDBtnE5NrKBM.png" group-title="CINE+",AMC FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1594
-#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_G-7KwI_H0LH7wDiqj7fC_8.png" group-title="ENTRETENIMIENTO",AMC SD
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_G-7KwI_H0LH7wDiqj7fC_8.png" group-title="CINE+",AMC SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129235
-#EXTINF:-1 tvg-id="amcbreak.es" tvg-name="AMC BREAK" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ7lhCxYFqoDqMW2bBq18TiM.png" group-title="ENTRETENIMIENTO",AMC BREAK HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117969
-#EXTINF:-1 tvg-id="amcbreak.es" tvg-name="AMC BREAK" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJy0IKEJENPluPH8SroFPuf0.png" group-title="ENTRETENIMIENTO",AMC BREAK FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117970
-#EXTINF:-1 tvg-id="amcbreak.es" tvg-name="AMC BREAK SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_GFvKYO_P4YermfwCwI_Ttc.png" group-title="ENTRETENIMIENTO",AMC BREAK SD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129216
-#EXTINF:-1 tvg-id="bomcine.es" tvg-name="BOM CINE" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ---Ha5BWHOIX3Awaq67bq0.png" group-title="ENTRETENIMIENTO",BOM CINE HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117965
-#EXTINF:-1 tvg-id="bomcine.es" tvg-name="BOM CINE" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ191-fm0XnfF_w6_nKoxLAQ.png" group-title="ENTRETENIMIENTO",BOM CINE FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117966
-#EXTINF:-1 tvg-id="a3series.es" tvg-name="A3 SERIES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2gLDzJeL6WPo8kkQ6sj9Cw.png" group-title="ENTRETENIMIENTO",A3 SERIES HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117967
+#EXTINF:-1 tvg-id="warnertvespaña.es" tvg-name="WARNER TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwHoytns3b0mQc2XrOOe6bQ.png" group-title="CINE+",WARNER TV HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1589
+#EXTINF:-1 tvg-id="warnertvespaña.es" tvg-name="WARNER TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwHoytns3b0mQc2XrOOe6bQ.png" group-title="CINE+",WARNER TV FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1590
+#EXTINF:-1 tvg-id="tcmespaña.es" tvg-name="TCM" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwbiWJH8q8szrhlZC18SFbQ.png" group-title="CINE+",TCM HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1591
+#EXTINF:-1 tvg-id="tcmespaña.es" tvg-name="TCM" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJzUzjcr2MG_UFOaz4sqpWaw.png" group-title="CINE+",TCM FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1592
+#EXTINF:-1 tvg-id="tcmespaña.es" tvg-name="TCM SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_K7-65IzPYGmUvLcZEc3404.png" group-title="CINE+",TCM SD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129233
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJwoqOTd6HruUvig24oZYH7s.png" group-title="CINE+",CALLE 13 HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1569
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9aXVBfiVFlmeMTBvPwyOn4.png" group-title="CINE+",CALLE 13 FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1570
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13 SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9aXVBfiVFlmeMTBvPwyOn4.png" group-title="CINE+",CALLE 13 SD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129227
+#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ7Z4eKyx5n8-LD-H51SwdwU.png" group-title="CINE+",AXN HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1577
+#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJycYLFP14EaWSPzt-B8SIf4.png" group-title="CINE+",AXN FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1578
+#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_KywPzef_wCgv_0UrxG2Xe8.png" group-title="CINE+",AXN SD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129231
+#EXTINF:-1 tvg-id="axnmovies.es" tvg-name="AXN MOVIES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJx4Qg0Xwt0aal8Q4iddjEf0.png" group-title="CINE+",AXN MOVIES HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1579
+#EXTINF:-1 tvg-id="axnmovies.es" tvg-name="AXN MOVIES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJx4Qg0Xwt0aal8Q4iddjEf0.png" group-title="CINE+",AXN MOVIES FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1580
 #EXTINF:-1 tvg-id="xtrm.es" tvg-name="XTRM" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0T3zdmBKAaLPld5K-Nl_Is.png" group-title="ESP+",XTRM HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117975
 #EXTINF:-1 tvg-id="xtrm.es" tvg-name="XTRM" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_LEr7MTCoM56nc_Sn-SWF4A.png" group-title="ESP+",XTRM
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129217
 #EXTINF:-1 tvg-id="xtrm.es" tvg-name="XTRM" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0T3zdmBKAaLPld5K-Nl_Is.png" group-title="ESP+",XTRM FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117976
-#EXTINF:-1 tvg-id="classica.es" tvg-name="CLASSICA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ6Vrc4xqBeQ_9adbNVizrco.png" group-title="ENTRETENIMIENTO",CLASSICA HD
+#EXTINF:-1 tvg-id="dark.es" tvg-name="DARK" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9NCyA18JfjyJzqq0iYfjSA.png" group-title="ESP+",DARK HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117968
+#EXTINF:-1 tvg-id="BEMAD" tvg-name="BE MAD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_I1QOPUGVgLkgU5U5HsCwrc.png" group-title="ESP+",BE MAD HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117984
+#EXTINF:-1 tvg-id="BEMAD" tvg-name="BE MAD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ7o-xm_O_u1LBU5HKPS7mUA.png" group-title="ESP+",BE MAD FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117985
+#EXTINF:-1 tvg-id="DAZNLI" tvg-name="HOLLYWOOD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2xQbVJHIkZdhiZKkwECIL8.png" group-title="CINE+",HOLLYWOOD HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1562
+#EXTINF:-1 tvg-id="MCOPA" tvg-name="HOLLYWOOD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ1_lmdbgZLh4_-xRjasFHu4.png" group-title="CINE+",HOLLYWOOD FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1563
+#EXTINF:-1 tvg-id="hollywoodespaña.es" tvg-name="HOLLYWOOD SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_MJxV_gxvwkm1du5cHoEqpU.png" group-title="CINE+",HOLLYWOOD SD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129222
+#EXTINF:-1 tvg-id="movistaracción.es" tvg-name="M+ ACCIÓN" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3mSa_JUfVohTWmMDIjv6L0.png" group-title="CINE+",M+ ACCION HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1558
+#EXTINF:-1 tvg-id="movistaracción.es" tvg-name="M+ ACCIÓN" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3mSa_JUfVohTWmMDIjv6L0.png" group-title="CINE+",M+ ACCION FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1559
+#EXTINF:-1 tvg-id="movistaracción.es" tvg-name="M+ ACCIÓN SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_EqBIwapdxgHn117ls68X4o.png" group-title="CINE+",M+ ACCION SD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129219
+#EXTINF:-1 tvg-id="" tvg-name="M+ HITCHCOCK" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ1iJXXd0Ap87R_uak06P6Kw.png" group-title="test",M+ HITCHCOCK HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/179092
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="M+ ESTRENOS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2KjO6pQHgYonR5yY74QdyY.png" group-title="CINE+",M+ ESTRENOS FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1561
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="M+ ESTRENOS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2KjO6pQHgYonR5yY74QdyY.png" group-title="CINE+",M+ ESTRENOS HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1560
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="M+ ESTRENOS SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2KjO6pQHgYonR5yY74QdyY.png" group-title="CINE+",M+ ESTRENOS SD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129220
+#EXTINF:-1 tvg-id="bbcdrama.es" tvg-name="BBC DRAMA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-n-B2FYpy4W1fl10YOn6H0.png" group-title="CINE+",BBC DRAMA HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/200983
+#EXTINF:-1 tvg-id="bbcdrama.es" tvg-name="BBC DRAMA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ-n-B2FYpy4W1fl10YOn6H0.png" group-title="CINE+",BBC DRAMA FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/200982
+#EXTINF:-1 tvg-id="M+ Terror" tvg-name="M+ TERROR" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_dPhTmqzYVandU5b2iTewE.png" group-title="CINE+",M+ TERROR FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/144204
+#EXTINF:-1 tvg-id="M+ Terror" tvg-name="M+ TERROR" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_dPhTmqzYVandU5b2iTewE.png" group-title="CINE+",M+ TERROR HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/144205
+#EXTINF:-1 tvg-id="starchannel.es" tvg-name="STAR CHANNEL" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_O37QEcWcy83hNxmjqsQfDA.png" group-title="CINE+",STAR CHANNEL HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1583
+#EXTINF:-1 tvg-id="starchannel.es" tvg-name="STAR CHANNEL" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ9ItnbKYAdzTIaPJzeqT2OM.png" group-title="CINE+",STAR CHANNEL FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1584
+#EXTINF:-1 tvg-id="starchannel.es" tvg-name="STAR CHANNEL SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_G7v8FRCTMmkg_IwB9UdFVw.png" group-title="CINE+",STAR CHANNEL SD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129232
+#EXTINF:-1 tvg-id="bomcine.es" tvg-name="BOM CINE" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ---Ha5BWHOIX3Awaq67bq0.png" group-title="CINE+",BOM CINE HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117965
+#EXTINF:-1 tvg-id="bomcine.es" tvg-name="BOM CINE" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ191-fm0XnfF_w6_nKoxLAQ.png" group-title="CINE+",BOM CINE FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117966
+#EXTINF:-1 tvg-id="DCESP" tvg-name="CINE ESPANOL" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ8USjc0cxkC0OAfTRw5SaUA.png" group-title="CINE+",CINE ESPANOL  HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1566
+#EXTINF:-1 tvg-id="movistarcineespañol.es" tvg-name="CINE ESPANOL" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ8USjc0cxkC0OAfTRw5SaUA.png" group-title="CINE+",CINE ESPANOL FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129223
+#EXTINF:-1 tvg-id="movistarcineespañol.es" tvg-name="CINE ESPANOL SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JbuEQO1VRTQJsvTqJhrW58.png" group-title="CINE+",CINE ESPANOL SD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129224
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="M+ DRAMA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ6GB-1ypW2B0-kyC_ursSg0.png" group-title="CINE+",M+ DRAMA HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1571
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="M+ DRAMA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ6GB-1ypW2B0-kyC_ursSg0.png" group-title="CINE+",M+ DRAMA FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1572
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="M+ DRAMA SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ6GB-1ypW2B0-kyC_ursSg0.png" group-title="CINE+",M+ DRAMA SD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129228
+#EXTINF:-1 tvg-id="TVE" tvg-name="SERIES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_hEQIE3iRoAbW2-FEgAFx8.png" group-title="CINE+",SERIES HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1568
+#EXTINF:-1 tvg-id="DAZNL2" tvg-name="SERIES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_hEQIE3iRoAbW2-FEgAFx8.png" group-title="CINE+",SERIES FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1567
+#EXTINF:-1 tvg-id="ESP" tvg-name="M+ SERIES SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_BLK9EBltiUGK1h554K0yew.png" group-title="CINE+",M+ SERIES SD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129225
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M+ COMEDIA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ39m5SYitCUQZneb30TEZkQ.png" group-title="CINE+",M+ COMEDIA HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1573
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M+ COMEDIA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ39m5SYitCUQZneb30TEZkQ.png" group-title="CINE+",M+ COMEDIA FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1574
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M+ COMEDIA SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ39m5SYitCUQZneb30TEZkQ.png" group-title="CINE+",M+ COMEDIA SD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129229
+#EXTINF:-1 tvg-id="MORIG" tvg-name="M+ ORIGINALES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4vFTyzSXv9lMHTpEvlhU_s.png" group-title="CINE+",M+ ORIGINALES HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1556
+#EXTINF:-1 tvg-id="MORIG" tvg-name="M+ ORIGINALES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4vFTyzSXv9lMHTpEvlhU_s.png" group-title="CINE+",M+ ORIGINALES  FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1557
+#EXTINF:-1 tvg-id="MORIG" tvg-name="M+ ORIGINALES SD" tvg-logo="https://i.imgur.com/ESPUkkw.png" group-title="CINE+",M+ ORIGINALES SD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129208
+#EXTINF:-1 tvg-id="TVE" tvg-name="M+ INDIE" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJyen1_xfEBXfKTjI6Y4Eyho.png" group-title="CINE+",M+ INDIE HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/66305
+#EXTINF:-1 tvg-id="TVE" tvg-name="M+ INDIE" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJyen1_xfEBXfKTjI6Y4Eyho.png" group-title="CINE+",M+ INDIE FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/66306
+#EXTINF:-1 tvg-id="MINDI" tvg-name="M+ INDIE SD" tvg-logo="https://i.imgur.com/ha7VxcS.png" group-title="CINE+",M+ INDIE SD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/66307
+#EXTINF:-1 tvg-id="comedycentral.ch" tvg-name="COMEDY CENTRAL" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJz7sPxDenwM58Gq9KLs9v9A.png" group-title="CINE+",COMEDY CENTRAL HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1575
+#EXTINF:-1 tvg-id="comedycentral.ch" tvg-name="COMEDY CENTRAL" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5S3GzVJ5sX0djpzY58XFAE.png" group-title="CINE+",COMEDY CENTRAL FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1576
+#EXTINF:-1 tvg-id="comedycentral.ch" tvg-name="COMEDY CENTRAL SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_C5gAcRqsLkPT7QNb3uDSXU.png" group-title="CINE+",COMEDY CENTRAL SD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129230
+#EXTINF:-1 tvg-id="somos.es" tvg-name="SOMOS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxxdpgZos168TIgP5BylMtQ.png" group-title="CINE+",SOMOS
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/105561
+#EXTINF:-1 tvg-id="140.movistar" tvg-name="NEGOCIOS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ7bdwjlYN1vqlygbtDwuuEs.png" group-title="ESP+",NEGOCIOS HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117996
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="SYFY" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJz3SEA5p0Zbg9Xmqr8F9nEU.png" group-title="CINE+",SYFY HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1582
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="SYFY SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJzfwHoyJbmCjj9bEUz5kNaw.png" group-title="CINE+",SYFY SD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1581
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="PARAMOUNT" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ7gICQVWmU5yoh2_RNSfEqA.png" group-title="CINE+",PARAMOUNT HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1588
+#EXTINF:-1 tvg-id="FDF ES" tvg-name="FDF" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3wE1hqWYN3aub_8C1FBDXU.png" group-title="ESP+",FDF FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1482
+#EXTINF:-1 tvg-id="FDF ES" tvg-name="FDF" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3wE1hqWYN3aub_8C1FBDXU.png" group-title="ESP+",FDF HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1587
+#EXTINF:-1 tvg-id="amcbreak.es" tvg-name="AMC BREAK" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ7lhCxYFqoDqMW2bBq18TiM.png" group-title="CINE+",AMC BREAK HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117969
+#EXTINF:-1 tvg-id="amcbreak.es" tvg-name="AMC BREAK" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJy0IKEJENPluPH8SroFPuf0.png" group-title="CINE+",AMC BREAK FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117970
+#EXTINF:-1 tvg-id="amcbreak.es" tvg-name="AMC BREAK SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_GFvKYO_P4YermfwCwI_Ttc.png" group-title="CINE+",AMC BREAK SD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129216
+#EXTINF:-1 tvg-id="a3series.es" tvg-name="A3 SERIES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2gLDzJeL6WPo8kkQ6sj9Cw.png" group-title="CINE+",A3 SERIES HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117967
+#EXTINF:-1 tvg-id="classica.es" tvg-name="CLASSICA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ6Vrc4xqBeQ_9adbNVizrco.png" group-title="CINE+",CLASSICA HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1593
-#EXTINF:-1 tvg-id="classica.es" tvg-name="CLASSICA SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_DxuL6pQyvo0tWihU9-Qg_E.png" group-title="ENTRETENIMIENTO",CLASSICA SD
+#EXTINF:-1 tvg-id="classica.es" tvg-name="CLASSICA SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_DxuL6pQyvo0tWihU9-Qg_E.png" group-title="CINE+",CLASSICA SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129234
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 1" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="ENTRETENIMIENTO",ALQUILER 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 1" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="CINE+",ALQUILER 1 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/20682
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 2" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="ENTRETENIMIENTO",ALQUILER 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 2" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="CINE+",ALQUILER 2 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/20683
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 3" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="ENTRETENIMIENTO",ALQUILER 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 3" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="CINE+",ALQUILER 3 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/20684
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 4" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="ENTRETENIMIENTO",ALQUILER 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 4" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="CINE+",ALQUILER 4 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/20685
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 5" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="ENTRETENIMIENTO",ALQUILER 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 5" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="CINE+",ALQUILER 5 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/20686
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 6" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="ENTRETENIMIENTO",ALQUILER 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 6" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="CINE+",ALQUILER 6 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/20687
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 7" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="ENTRETENIMIENTO",ALQUILER 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 7" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="CINE+",ALQUILER 7 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/20688
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 8" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="ENTRETENIMIENTO",ALQUILER 8 HD
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 8" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="CINE+",ALQUILER 8 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/20689
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 9" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="ENTRETENIMIENTO",ALQUILER 9 HD
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 9" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="CINE+",ALQUILER 9 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/22021
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 10" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="ENTRETENIMIENTO",ALQUILER 10 HD
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 10" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="CINE+",ALQUILER 10 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/22020
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 12" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="ENTRETENIMIENTO",ALQUILER 12 HD
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 12" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="CINE+",ALQUILER 12 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/22007
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 11" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="ENTRETENIMIENTO",ALQUILER 11 HD
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 11" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="CINE+",ALQUILER 11 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/22008
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 13" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="ENTRETENIMIENTO",ALQUILER 13 HD
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 13" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="CINE+",ALQUILER 13 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/22009
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 14" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="ENTRETENIMIENTO",ALQUILER 14 HD
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 14" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="CINE+",ALQUILER 14 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/22010
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 15" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="ENTRETENIMIENTO",ALQUILER 15 HD
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 15" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="CINE+",ALQUILER 15 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/22011
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 16" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="ENTRETENIMIENTO",ALQUILER 16 HD
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 16" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="CINE+",ALQUILER 16 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/22012
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 17" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="ENTRETENIMIENTO",ALQUILER 17 HD
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 17" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="CINE+",ALQUILER 17 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/22013
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 18" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="ENTRETENIMIENTO",ALQUILER 18 HD
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 18" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="CINE+",ALQUILER 18 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/22014
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 19" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="ENTRETENIMIENTO",ALQUILER 19 HD
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 19" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="CINE+",ALQUILER 19 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/22015
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 20" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="ENTRETENIMIENTO",ALQUILER 20 HD
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 20" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="CINE+",ALQUILER 20 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/22016
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 21" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="ENTRETENIMIENTO",ALQUILER 21 HD
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 21" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="CINE+",ALQUILER 21 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/22017
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 22" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="ENTRETENIMIENTO",ALQUILER 22 HD
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 22" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="CINE+",ALQUILER 22 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/22018
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 23" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="ENTRETENIMIENTO",ALQUILER 23 HD
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 23" tvg-logo="https://i.imgur.com/rXySQue.png" group-title="CINE+",ALQUILER 23 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/22019
 #EXTINF:-1 tvg-id="" tvg-name="BBC FOOD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5-ODgq33_-REiDX7eASVZA.png" group-title="ESP+",BBC FOOD HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/200985
@@ -670,10 +674,6 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1616
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117982
 #EXTINF:-1 tvg-id="eltorotv.es" tvg-name="EL TORO TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJyImPLy-hSc4Yl3zLP0x89M.png" group-title="ESP+",EL TORO TV HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117983
-#EXTINF:-1 tvg-id="BEMAD" tvg-name="BE MAD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_I1QOPUGVgLkgU5U5HsCwrc.png" group-title="ESP+",BE MAD HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117984
-#EXTINF:-1 tvg-id="BEMAD" tvg-name="BE MAD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ7o-xm_O_u1LBU5HKPS7mUA.png" group-title="ESP+",BE MAD FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117985
 #EXTINF:-1 tvg-id="historiaespaña.es" tvg-name="HISTORIA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2asaThtfEckHJa2O8D0J00.png" group-title="ESP+",HISTORIA HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1619
 #EXTINF:-1 tvg-id="historiaespaña.es" tvg-name="HISTORIA" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2asaThtfEckHJa2O8D0J00.png" group-title="ESP+",HISTORIA FHD
@@ -968,7 +968,7 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/202046
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/202047
 #EXTINF:-1 tvg-id="" tvg-name="M LIGA DE CAMPEONES 19" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES 19
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/202048
-#EXTINF:-1 tvg-id="TVE" tvg-name="M+ CLASSICOS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_P8yuVQh7SPbWQ-9BqbmPdo.png" group-title="ENTRETENIMIENTO",M+ CLASSICOS HD
+#EXTINF:-1 tvg-id="TVE" tvg-name="M+ CLASSICOS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_P8yuVQh7SPbWQ-9BqbmPdo.png" group-title="CINE+",M+ CLASSICOS HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1497
 #EXTINF:-1 tvg-id="tvei.es" tvg-name="TVE INTER" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_EK3BjOPzxZu7wcy1OS3D9c.png" group-title="ESP+",TVE INTER HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117964
