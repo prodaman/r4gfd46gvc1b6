@@ -200,9 +200,9 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/97352
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129256
 #EXTINF:-1 tvg-id="dazn4.fr" tvg-name="Dazn LALIGA 4 SD (ES)" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_CAJPdRUGo-NwlGeCXk-ZYo.png" group-title="DEPORTES",Dazn LALIGA 4 SD (ES)
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129257
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="M Dazn F1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ13cq0jXkYo_EuZQcaR5SHA.png" group-title="DEPORTES",M Dazn F1 HD
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="M+ Dazn F1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ13cq0jXkYo_EuZQcaR5SHA.png" group-title="DEPORTES",M Dazn F1 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1514
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="M Dazn F1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ13cq0jXkYo_EuZQcaR5SHA.png" group-title="DEPORTES",M Dazn F1 FHD
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="M+ Dazn F1" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ13cq0jXkYo_EuZQcaR5SHA.png" group-title="DEPORTES",M Dazn F1 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1515
 #EXTINF:-1 tvg-id="TVE" tvg-name="Movistar PLUS+" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxTo5g6FA9QdzIMIe9Wxt0k.png" group-title="CINE+",M+ PLUS+ HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/66310
@@ -240,39 +240,47 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/97472
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99541
 #EXTINF:-1 tvg-id="TVE" tvg-name="LALIGA HYPERMOTION 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ0y27s0A1MGTmbzokRPDW8E.png" group-title="DEPORTES",LALIGA HYPERMOTION 3 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99542
-#EXTINF:-1 tvg-id="TVE" tvg-name="M+ LIGA DE CAMPEONES HD (ORANGE)" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJx_ee4Rjy-7VswZOtq-Nem4.png" group-title="DEPORTES",M+ LIGA DE CAMPEONES HD (ORANGE)
+#EXTINF:-1 tvg-id="TVE" tvg-name="M+ LIGA DE CAMPEONES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES HD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1545
+#EXTINF:-1 tvg-id="CHAPIO" tvg-name="M+ LIGA DE CAMPEONES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1500
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 4K" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M+ LIGA DE CAMPEONES 4K
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/174219
+#EXTINF:-1 tvg-id="TVE" tvg-name="M+ LIGA DE CAMPEONES SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES SD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/100546
+#EXTINF:-1 tvg-id="TVE" tvg-name="M+ LIGA DE CAMPEONES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJx_ee4Rjy-7VswZOtq-Nem4.png" group-title="DEPORTES",M+ LIGA DE CAMPEONES HD (ORANGE)
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/143720
-#EXTINF:-1 tvg-id="TVE" tvg-name="M LIGA DE CAMPEONES 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJx_ee4Rjy-7VswZOtq-Nem4.png" group-title="DEPORTES",M LIGA DE CAMPEONES 2 HD
+#EXTINF:-1 tvg-id="TVE" tvg-name="M+ LIGA DE CAMPEONES 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJx_ee4Rjy-7VswZOtq-Nem4.png" group-title="DEPORTES",M LIGA DE CAMPEONES 2 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1546
-#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJx_ee4Rjy-7VswZOtq-Nem4.png" group-title="DEPORTES",M LIGA DE CAMPEONES 2  FHD
+#EXTINF:-1 tvg-id="ESP" tvg-name="M+ LIGA DE CAMPEONES 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJx_ee4Rjy-7VswZOtq-Nem4.png" group-title="DEPORTES",M LIGA DE CAMPEONES 2  FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/34739
 #EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 2 4K" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M+ LIGA DE CAMPEONES 2 4K
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/174220
-#EXTINF:-1 tvg-id="TVE" tvg-name="M LIGA DE CAMPEONES 2 SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJx_ee4Rjy-7VswZOtq-Nem4.png" group-title="DEPORTES",M LIGA DE CAMPEONES 2 SD
+#EXTINF:-1 tvg-id="TVE" tvg-name="M+ LIGA DE CAMPEONES 2 SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJx_ee4Rjy-7VswZOtq-Nem4.png" group-title="DEPORTES",M LIGA DE CAMPEONES 2 SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129221
-#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ8-Nfw-cK1grrV2E_yd6qcM.png" group-title="DEPORTES",M LIGA DE CAMPEONES 3 HD
+#EXTINF:-1 tvg-id="ESP" tvg-name="M+ LIGA DE CAMPEONES 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ8-Nfw-cK1grrV2E_yd6qcM.png" group-title="DEPORTES",M LIGA DE CAMPEONES 3 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1547
 #EXTINF:-1 tvg-id="CHAP2" tvg-name="M+ LIGA DE CAMPEONES 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ8-Nfw-cK1grrV2E_yd6qcM.png" group-title="DEPORTES",M+ LIGA DE CAMPEONES 3 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/68359
-#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 4" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ91aqLb7bc3fvCytsxtc6CA.png" group-title="DEPORTES",M LIGA DE CAMPEONES 4 HD
+#EXTINF:-1 tvg-id="ESP" tvg-name="M+ LIGA DE CAMPEONES 4" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ91aqLb7bc3fvCytsxtc6CA.png" group-title="DEPORTES",M LIGA DE CAMPEONES 4 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1548
-#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 4" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ91aqLb7bc3fvCytsxtc6CA.png" group-title="DEPORTES",M LIGA DE CAMPEONES 4 FHD
+#EXTINF:-1 tvg-id="ESP" tvg-name="M+ LIGA DE CAMPEONES 4" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ91aqLb7bc3fvCytsxtc6CA.png" group-title="DEPORTES",M LIGA DE CAMPEONES 4 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99457
-#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 5" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5mraxBBxQIwUJbIWzPTjXU.png" group-title="DEPORTES",M LIGA DE CAMPEONES 5 HD
+#EXTINF:-1 tvg-id="ESP" tvg-name="M+ LIGA DE CAMPEONES 5" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5mraxBBxQIwUJbIWzPTjXU.png" group-title="DEPORTES",M LIGA DE CAMPEONES 5 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1549
-#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 5" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5mraxBBxQIwUJbIWzPTjXU.png" group-title="DEPORTES",M LIGA DE CAMPEONES 5 FHD
+#EXTINF:-1 tvg-id="ESP" tvg-name="M+ LIGA DE CAMPEONES 5" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ5mraxBBxQIwUJbIWzPTjXU.png" group-title="DEPORTES",M LIGA DE CAMPEONES 5 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99453
-#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 6" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ1FkAgwYZcociTr0__0d1_4.png" group-title="DEPORTES",M LIGA DE CAMPEONES 6 HD
+#EXTINF:-1 tvg-id="ESP" tvg-name="M+ LIGA DE CAMPEONES 6" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ1FkAgwYZcociTr0__0d1_4.png" group-title="DEPORTES",M LIGA DE CAMPEONES 6 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1550
-#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="M LIGA DE CAMPEONES 6" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ1FkAgwYZcociTr0__0d1_4.png" group-title="DEPORTES",M LIGA DE CAMPEONES 6 FHD
+#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="M+ LIGA DE CAMPEONES 6" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ1FkAgwYZcociTr0__0d1_4.png" group-title="DEPORTES",M LIGA DE CAMPEONES 6 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99454
-#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 7" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4sS2P3h1ftOU-ZxOp8GTTo.png" group-title="DEPORTES",M LIGA DE CAMPEONES 7 HD
+#EXTINF:-1 tvg-id="ESP" tvg-name="M+ LIGA DE CAMPEONES 7" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4sS2P3h1ftOU-ZxOp8GTTo.png" group-title="DEPORTES",M LIGA DE CAMPEONES 7 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1551
-#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="M LIGA DE CAMPEONES 7" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4sS2P3h1ftOU-ZxOp8GTTo.png" group-title="DEPORTES",M LIGA DE CAMPEONES 7 FHD
+#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="M+ LIGA DE CAMPEONES 7" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4sS2P3h1ftOU-ZxOp8GTTo.png" group-title="DEPORTES",M LIGA DE CAMPEONES 7 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99455
-#EXTINF:-1 tvg-id="ESP" tvg-name="M LIGA DE CAMPEONES 8" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxHD_7S7J70ewYR1p1bsqsk.png" group-title="DEPORTES",M LIGA DE CAMPEONES 8 HD
+#EXTINF:-1 tvg-id="ESP" tvg-name="M+ LIGA DE CAMPEONES 8" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxHD_7S7J70ewYR1p1bsqsk.png" group-title="DEPORTES",M LIGA DE CAMPEONES 8 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1552
-#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="M LIGA DE CAMPEONES 8" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxHD_7S7J70ewYR1p1bsqsk.png" group-title="DEPORTES",M LIGA DE CAMPEONES 8 FHD
+#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="M+ LIGA DE CAMPEONES 8" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxHD_7S7J70ewYR1p1bsqsk.png" group-title="DEPORTES",M LIGA DE CAMPEONES 8 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99456
 #EXTINF:-1 tvg-id="multi6" tvg-name="LIGA DE CAMPEONES 9" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ341XE0GaQpAMnB3cpe3KYY.png" group-title="DEPORTES",LIGA DE CAMPEONES 9 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/99545
@@ -290,14 +298,6 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/143877
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/200988
 #EXTINF:-1 tvg-id="" tvg-name="BBC TOP GEAR" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJyCcKmVgcyYjBb5NVJJ_7Ok.png" group-title="DEPORTES",BBC TOP GEAR HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/200989
-#EXTINF:-1 tvg-id="TVE" tvg-name="M+ LIGA DE CAMPEONES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES HD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1545
-#EXTINF:-1 tvg-id="CHAPIO" tvg-name="M LIGA DE CAMPEONES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1500
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 4K" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M+ LIGA DE CAMPEONES 4K
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/174219
-#EXTINF:-1 tvg-id="TVE" tvg-name="M LIGA DE CAMPEONES SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES SD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/100546
 #EXTINF:-1 tvg-id="" tvg-name="ONETORO TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJyMUxMHyZ9nIZFz1u2kKrN4.png" group-title="DEPORTES",ONETORO TV HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/121897
 #EXTINF:-1 tvg-id="" tvg-name="ONETORO TV" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJyMUxMHyZ9nIZFz1u2kKrN4.png" group-title="DEPORTES",ONETORO TV FHD
@@ -458,13 +458,9 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117984
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/117985
 #EXTINF:-1 tvg-id="TVE" tvg-name="M+ HITS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_hEQIE3iRoAbW2-FEgAFx8.png" group-title="CINE+",M+ HITS HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1568
-#EXTINF:-1 tvg-id="DAZNL2" tvg-name="M+ HITS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_hEQIE3iRoAbW2-FEgAFx8.png" group-title="CINE+",M+ HITS FHD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1567
-#EXTINF:-1 tvg-id="ESP" tvg-name="M+ HITS SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_BLK9EBltiUGK1h554K0yew.png" group-title="CINE+",M+ HITS SD
-http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129225
-#EXTINF:-1 tvg-id="DAZNLI" tvg-name="HOLLYWOOD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2xQbVJHIkZdhiZKkwECIL8.png" group-title="CINE+",HOLLYWOOD HD
+#EXTINF:-1 tvg-id="DAZNLI" tvg-name="CANAL HOLLYWOOD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ2xQbVJHIkZdhiZKkwECIL8.png" group-title="CINE+",HOLLYWOOD HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1562
-#EXTINF:-1 tvg-id="MCOPA" tvg-name="HOLLYWOOD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ1_lmdbgZLh4_-xRjasFHu4.png" group-title="CINE+",HOLLYWOOD FHD
+#EXTINF:-1 tvg-id="MCOPA" tvg-name="CANAL HOLLYWOOD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ1_lmdbgZLh4_-xRjasFHu4.png" group-title="CINE+",HOLLYWOOD FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1563
 #EXTINF:-1 tvg-id="hollywoodespaña.es" tvg-name="HOLLYWOOD SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_MJxV_gxvwkm1du5cHoEqpU.png" group-title="CINE+",HOLLYWOOD SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129222
@@ -518,6 +514,10 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1566
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129223
 #EXTINF:-1 tvg-id="movistarcineespañol.es" tvg-name="CINE ESPANOL SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JbuEQO1VRTQJsvTqJhrW58.png" group-title="CINE+",CINE ESPANOL SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129224
+#EXTINF:-1 tvg-id="DAZNL2" tvg-name="M+ HITS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ_hEQIE3iRoAbW2-FEgAFx8.png" group-title="CINE+",M+ HITS FHD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1567
+#EXTINF:-1 tvg-id="ESP" tvg-name="M+ HITS SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_BLK9EBltiUGK1h554K0yew.png" group-title="CINE+",M+ HITS SD
+http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/129225
 #EXTINF:-1 tvg-id="MORIG" tvg-name="M+ ORIGINALES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4vFTyzSXv9lMHTpEvlhU_s.png" group-title="CINE+",M+ ORIGINALES HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1556
 #EXTINF:-1 tvg-id="MORIG" tvg-name="M+ ORIGINALES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ4vFTyzSXv9lMHTpEvlhU_s.png" group-title="CINE+",M+ ORIGINALES  FHD
@@ -956,17 +956,17 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/193991
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/193992
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA REPLAY #10" tvg-logo="" group-title="LA LIGA REPLAY",LA LIGA REPLAY #10
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/193993
-#EXTINF:-1 tvg-id="" tvg-name="M LIGA DE CAMPEONES 14" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES 14
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 14" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES 14
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/202043
-#EXTINF:-1 tvg-id="" tvg-name="M LIGA DE CAMPEONES 15" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES 15
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 15" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES 15
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/202044
-#EXTINF:-1 tvg-id="" tvg-name="M LIGA DE CAMPEONES 16" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES 16
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 16" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES 16
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/202045
-#EXTINF:-1 tvg-id="" tvg-name="M LIGA DE CAMPEONES 17" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES 17
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 17" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES 17
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/202046
-#EXTINF:-1 tvg-id="" tvg-name="M LIGA DE CAMPEONES 18" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES 18
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 18" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES 18
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/202047
-#EXTINF:-1 tvg-id="" tvg-name="M LIGA DE CAMPEONES 19" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES 19
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 19" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJ3xJTUcKP0ArV6fADnZu28Y.png" group-title="DEPORTES",M LIGA DE CAMPEONES 19
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/202048
 #EXTINF:-1 tvg-id="TVE" tvg-name="M+ CLASSICOS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_P8yuVQh7SPbWQ-9BqbmPdo.png" group-title="CINE+",M+ CLASSICOS HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/1497
@@ -9586,9 +9586,9 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127633
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127634
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV M3" tvg-name="LA LIGA SMARTBANK M3" tvg-logo="https://i.imgur.com/EHUgdyR.png" group-title="PROVIS-DEPOR",LA LIGA SMARTBANK M3 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127635
-#EXTINF:-1 tvg-id="DAZN F1" tvg-name="M Dazn F1" tvg-logo="https://i.imgur.com/xierglO.png" group-title="PROVIS-DEPOR",M Dazn F1 HD
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="M+ Dazn F1" tvg-logo="https://i.imgur.com/xierglO.png" group-title="PROVIS-DEPOR",M Dazn F1 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127636
-#EXTINF:-1 tvg-id="DAZN F1" tvg-name="M Dazn F1" tvg-logo="https://i.imgur.com/xierglO.png" group-title="PROVIS-DEPOR",M Dazn F1 FHD
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="M+ Dazn F1" tvg-logo="https://i.imgur.com/xierglO.png" group-title="PROVIS-DEPOR",M Dazn F1 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127637
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD ES" tvg-logo="https://i.imgur.com/7rNrHbo.png" group-title="PROVIS-DEPOR",DAZN 1 HD ES
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127638
@@ -9606,39 +9606,39 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127643
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127644
 #EXTINF:-1 tvg-id="DAZN 4" tvg-name="DAZN 4" tvg-logo="https://i.imgur.com/5YL1Dih.png" group-title="PROVIS-DEPOR",DAZN 4 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127645
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M LIGA DE CAMPEONES SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES SD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ LIGA DE CAMPEONES SD" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES SD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127647
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M LIGA DE CAMPEONES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES HD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ LIGA DE CAMPEONES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127648
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M LIGA DE CAMPEONES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES FHD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ LIGA DE CAMPEONES" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127649
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="M LIGA DE CAMPEONES 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 2 HD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="M+ LIGA DE CAMPEONES 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 2 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127650
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="M LIGA DE CAMPEONES 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 2  FHD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="M+ LIGA DE CAMPEONES 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 2  FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127651
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-name="M LIGA DE CAMPEONES 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 3 HD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-name="M+ LIGA DE CAMPEONES 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 3 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127652
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-name="M LIGA DE CAMPEONES 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 3 FHD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-name="M+ LIGA DE CAMPEONES 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 3 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127653
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="M LIGA DE CAMPEONES 4" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 4 HD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="M+ LIGA DE CAMPEONES 4" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 4 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127654
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="M LIGA DE CAMPEONES 4" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 4 FHD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="M+ LIGA DE CAMPEONES 4" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 4 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127655
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="M LIGA DE CAMPEONES 5" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 5 HD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="M+ LIGA DE CAMPEONES 5" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 5 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127656
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="M LIGA DE CAMPEONES 5" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 5 FHD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="M+ LIGA DE CAMPEONES 5" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 5 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127657
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="M LIGA DE CAMPEONES 6" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 6 HD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="M+ LIGA DE CAMPEONES 6" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 6 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127658
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="M LIGA DE CAMPEONES 6" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 6 FHD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="M+ LIGA DE CAMPEONES 6" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 6 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127659
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M LIGA DE CAMPEONES 7" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 7 HD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M+ LIGA DE CAMPEONES 7" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 7 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127660
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M LIGA DE CAMPEONES 7" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 7 FHD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M+ LIGA DE CAMPEONES 7" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 7 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127661
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="M LIGA DE CAMPEONES 8" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 8 HD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="M+ LIGA DE CAMPEONES 8" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 8 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127662
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="M LIGA DE CAMPEONES 8" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 8 FHD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="M+ LIGA DE CAMPEONES 8" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JBK-xSHXHbuT5kEhOKtdXc.png" group-title="PROVIS-DEPOR",M LIGA DE CAMPEONES 8 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127663
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-name="LIGA DE CAMPEONES 9" tvg-logo="https://i.imgur.com/sFOHCUB.png" group-title="PROVIS-DEPOR",LIGA DE CAMPEONES 9 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127664
@@ -9708,19 +9708,19 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127697
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127698
 #EXTINF:-1 tvg-id="Red Bull TV GER" tvg-name="RED BULL TV" tvg-logo="https://i.imgur.com/lDdWoVs.png" group-title="PROVIS-DEPOR",RED BULL TV FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127699
-#EXTINF:-1 tvg-id="M+ LaLigaTV 2" tvg-name="M LALIGA 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JTBMt35p7SDWI1tASjf2c8.png" group-title="PROVIS-DEPOR",M LALIGA 2 HD
+#EXTINF:-1 tvg-id="M+ LaLigaTV 2" tvg-name="M+ LALIGA 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JTBMt35p7SDWI1tASjf2c8.png" group-title="PROVIS-DEPOR",M LALIGA 2 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127700
-#EXTINF:-1 tvg-id="M+ LaLigaTV 2" tvg-name="M LALIGA 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JTBMt35p7SDWI1tASjf2c8.png" group-title="PROVIS-DEPOR",M LALIGA 2 FHD
+#EXTINF:-1 tvg-id="M+ LaLigaTV 2" tvg-name="M+ LALIGA 2" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JTBMt35p7SDWI1tASjf2c8.png" group-title="PROVIS-DEPOR",M LALIGA 2 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127701
-#EXTINF:-1 tvg-id="LaLigaTV Bar 3" tvg-name="M LALIGA 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JTBMt35p7SDWI1tASjf2c8.png" group-title="PROVIS-DEPOR",M LALIGA 3 HD
+#EXTINF:-1 tvg-id="LaLigaTV Bar 3" tvg-name="M+ LALIGA 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JTBMt35p7SDWI1tASjf2c8.png" group-title="PROVIS-DEPOR",M LALIGA 3 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127702
-#EXTINF:-1 tvg-id="M+ LaLigaTV 3" tvg-name="M LALIGA 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JTBMt35p7SDWI1tASjf2c8.png" group-title="PROVIS-DEPOR",M LALIGA 3 FHD
+#EXTINF:-1 tvg-id="M+ LaLigaTV 3" tvg-name="M+ LALIGA 3" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JTBMt35p7SDWI1tASjf2c8.png" group-title="PROVIS-DEPOR",M LALIGA 3 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127703
-#EXTINF:-1 tvg-id="" tvg-name="M LALIGA 4" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JTBMt35p7SDWI1tASjf2c8.png" group-title="PROVIS-DEPOR",M LALIGA 4 FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 4" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JTBMt35p7SDWI1tASjf2c8.png" group-title="PROVIS-DEPOR",M LALIGA 4 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127704
-#EXTINF:-1 tvg-id="" tvg-name="M LALIGA 5" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JTBMt35p7SDWI1tASjf2c8.png" group-title="PROVIS-DEPOR",M LALIGA 5 FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 5" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JTBMt35p7SDWI1tASjf2c8.png" group-title="PROVIS-DEPOR",M LALIGA 5 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127705
-#EXTINF:-1 tvg-id="" tvg-name="M LALIGA 6" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JTBMt35p7SDWI1tASjf2c8.png" group-title="PROVIS-DEPOR",M LALIGA 6
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 6" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/U4XELRQbKS_vmeF5-7ce_JTBMt35p7SDWI1tASjf2c8.png" group-title="PROVIS-DEPOR",M LALIGA 6
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127706
 #EXTINF:-1 tvg-id="M+ #0" tvg-name="#0" tvg-logo="https://i.imgur.com/fSWozjC.png" group-title="PROVIS",#0  FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127457
@@ -9734,7 +9734,7 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127460
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127461
 #EXTINF:-1 tvg-id="M+ Estrenos" tvg-name="M+ ESTRENOS" tvg-logo="https://i.imgur.com/tzNIDcE.png" group-title="PROVIS",M. ESTRENOS FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127462
-#EXTINF:-1 tvg-id="M+ Estrenos 2" tvg-name="M ESTRENOS 2" tvg-logo="https://i.imgur.com/tzNIDcE.png" group-title="PROVIS",M ESTRENOS 2 HD
+#EXTINF:-1 tvg-id="M+ Estrenos 2" tvg-name="M+ ESTRENOS 2" tvg-logo="https://i.imgur.com/tzNIDcE.png" group-title="PROVIS",M ESTRENOS 2 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127463
 #EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS" tvg-logo="https://i.imgur.com/1iU45BF.png" group-title="PROVIS",SOMOS
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127464
@@ -9750,7 +9750,7 @@ http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127468
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127469
 #EXTINF:-1 tvg-id="M+ Series 2" tvg-name="M+ Series 2" tvg-logo="https://i.imgur.com/HPIBDEi.png" group-title="PROVIS",M. Series 2 FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127470
-#EXTINF:-1 tvg-id="M+ Series 2" tvg-name="M Series 2" tvg-logo="https://i.imgur.com/HPIBDEi.png" group-title="PROVIS",M Series 2 HD
+#EXTINF:-1 tvg-id="M+ Series 2" tvg-name="M+ Series 2" tvg-logo="https://i.imgur.com/HPIBDEi.png" group-title="PROVIS",M Series 2 HD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127471
 #EXTINF:-1 tvg-id="M+ Series" tvg-name="M+ SERIES" tvg-logo="https://i.imgur.com/sHU7L6u.png" group-title="PROVIS",M. SERIES FHD
 http://pvtop-es.online:80/Joseesp2620/644ryu358cvj/127472
