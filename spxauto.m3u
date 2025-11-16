@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="TVE LA 1" tvg-logo="http://23.153.216.121:25461/images/920381108317386d5faa0f842a5366dc.png" group-title="ESPAÑA",TVE LA 1 (T)(720)
 http://tv.zeuspro.xyz:8080/jesusrojaswapp1/ab0ad27288cb/8251
 #EXTINF:-1 tvg-id="" tvg-name="LA 1" tvg-logo="http://23.153.216.121:25461/images/920381108317386d5faa0f842a5366dc.png" group-title="ESPAÑA",LA 1 (T)(720)
@@ -4109,3 +4109,4 @@ http://tv.zeuspro.xyz:8080/jesusrojaswapp1/ab0ad27288cb/84698
 http://tv.zeuspro.xyz:8080/jesusrojaswapp1/ab0ad27288cb/84699
 #EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports Wisconsin Plus" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA-SPORTS",USA-Bally Sports Wisconsin Plus (L)(720)
 http://tv.zeuspro.xyz:8080/jesusrojaswapp1/ab0ad27288cb/84700
+
