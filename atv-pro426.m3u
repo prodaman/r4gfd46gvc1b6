@@ -1,4 +1,94 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LA 1" tvg-logo="" group-title="ES ▶ SPAIN TV",LA 1 4K
+http://atv-pro.net:80/819334884/910219922/680409
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LA 1 " tvg-logo="" group-title="ES ▶ SPAIN TV",LA 1 HD
+http://atv-pro.net:80/819334884/910219922/680408
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AMC" tvg-logo="" group-title="ES ▶ SPAIN CINE",AMC 4K
+http://atv-pro.net:80/819334884/910219922/680391
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TCM" tvg-logo="" group-title="ES ▶ SPAIN CINE",TCM 4K
+http://atv-pro.net:80/819334884/910219922/680392
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Warner TV" tvg-logo="" group-title="ES ▶ SPAIN CINE",Warner TV 4K
+http://atv-pro.net:80/819334884/910219922/680382
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AXN MOVIES" tvg-logo="" group-title="ES ▶ SPAIN CINE",AXN MOVIES HEVC
+http://atv-pro.net:80/819334884/910219922/680434
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AXN MOVIES" tvg-logo="" group-title="ES ▶ SPAIN CINE",AXN MOVIES 4K
+http://atv-pro.net:80/819334884/910219922/680389
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AXN" tvg-logo="" group-title="ES ▶ SPAIN CINE",AXN HEVC
+http://atv-pro.net:80/819334884/910219922/680435
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AXN" tvg-logo="" group-title="ES ▶ SPAIN CINE",AXN 4K
+http://atv-pro.net:80/819334884/910219922/680390
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CALLE 13" tvg-logo="" group-title="ES ▶ SPAIN CINE",CALLE 13 4K
+http://atv-pro.net:80/819334884/910219922/680387
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CALLE 13" tvg-logo="" group-title="ES ▶ SPAIN CINE",CALLE 13 4K
+http://atv-pro.net:80/819334884/910219922/680563
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CALLE 13 " tvg-logo="" group-title="ES ▶ SPAIN CINE",CALLE 13 HD
+http://atv-pro.net:80/819334884/910219922/680562
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FOX" tvg-logo="" group-title="ES ▶ SPAIN CINE",FOX 4K
+http://atv-pro.net:80/819334884/910219922/680386
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TCM" tvg-logo="" group-title="ES ▶ SPAIN CINE",TCM HEVC
+http://atv-pro.net:80/819334884/910219922/680411
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BE MAD" tvg-logo="" group-title="ES ▶ SPAIN CINE",BE MAD 4K
+http://atv-pro.net:80/819334884/910219922/680378
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BE MAD" tvg-logo="" group-title="ES ▶ SPAIN CINE",BE MAD HEVC
+http://atv-pro.net:80/819334884/910219922/680433
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DARK" tvg-logo="" group-title="ES ▶ SPAIN CINE",DARK 4K
+http://atv-pro.net:80/819334884/910219922/680539
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DARK " tvg-logo="" group-title="ES ▶ SPAIN CINE",DARK HD
+http://atv-pro.net:80/819334884/910219922/680538
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="M+ HITS" tvg-logo="" group-title="ES ▶ SPAIN CINE",M+ HITS 4K
+http://atv-pro.net:80/819334884/910219922/680482
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="M+ HITS" tvg-logo="" group-title="ES ▶ SPAIN CINE",M+ HITS HD
+http://atv-pro.net:80/819334884/910219922/680481
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CANAL HOLLYWOOD" tvg-logo="" group-title="ES ▶ SPAIN CINE",HOLLYWOOD 4K
+http://atv-pro.net:80/819334884/910219922/680385
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="M+ Acción" tvg-logo="" group-title="ES ▶ SPAIN CINE",M+ ACCION 4K
+http://atv-pro.net:80/819334884/910219922/680568
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="M+ Acción " tvg-logo="" group-title="ES ▶ SPAIN CINE",M+ ACCION HD
+http://atv-pro.net:80/819334884/910219922/680567
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="M+ ESTRENOS" tvg-logo="" group-title="ES ▶ SPAIN CINE",CINE 4K
+http://atv-pro.net:80/819334884/910219922/680550
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="M+ ESTRENOS" tvg-logo="" group-title="ES ▶ SPAIN CINE",M+ CINE HD
+http://atv-pro.net:80/819334884/910219922/680547
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DRAMA" tvg-logo="" group-title="ES ▶ SPAIN CINE",DRAMA 4K
+http://atv-pro.net:80/819334884/910219922/680518
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DRAMA " tvg-logo="" group-title="ES ▶ SPAIN CINE",DRAMA HD
+http://atv-pro.net:80/819334884/910219922/680517
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="M+ COMEDIA" tvg-logo="" group-title="ES ▶ SPAIN CINE",M+ COMEDIA 4K
+http://atv-pro.net:80/819334884/910219922/680543
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="M+ COMEDIA " tvg-logo="" group-title="ES ▶ SPAIN CINE",M+ COMEDIA HD
+http://atv-pro.net:80/819334884/910219922/680542
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MOVISTAR PLUS+" tvg-logo="" group-title="ES ▶ SPAIN CINE",MOVISTAR PLUS 1 4K
+http://atv-pro.net:80/819334884/910219922/680501
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MOVISTAR PLUS+" tvg-logo="" group-title="ES ▶ SPAIN CINE",MOVISTAR PLUS 1 HD
+http://atv-pro.net:80/819334884/910219922/680500
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MOVISTAR PLUS+ 2" tvg-logo="" group-title="ES ▶ SPAIN CINE",MOVISTAR PLUS 2 4K
+http://atv-pro.net:80/819334884/910219922/680499
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MOVISTAR PLUS+ 2 " tvg-logo="" group-title="ES ▶ SPAIN CINE",MOVISTAR PLUS 2 HD
+http://atv-pro.net:80/819334884/910219922/680498
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="M+ INDIE" tvg-logo="" group-title="ES ▶ SPAIN CINE",INDIE 4K
+http://atv-pro.net:80/819334884/910219922/680508
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="M+ INDIE " tvg-logo="" group-title="ES ▶ SPAIN CINE",INDIE HD
+http://atv-pro.net:80/819334884/910219922/680507
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LA 2 " tvg-logo="" group-title="ES ▶ SPAIN TV",LA 2 HD
+http://atv-pro.net:80/819334884/910219922/680407
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LA 2" tvg-logo="" group-title="ES ▶ SPAIN TV",LA 2
+http://atv-pro.net:80/819334884/910219922/680406
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ANTENA 3" tvg-logo="" group-title="ES ▶ SPAIN TV",ANTENA 3 4K
+http://atv-pro.net:80/819334884/910219922/680403
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ANTENA 3 " tvg-logo="" group-title="ES ▶ SPAIN TV",ANTENA 3 HD
+http://atv-pro.net:80/819334884/910219922/680402
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CUATRO" tvg-logo="" group-title="ES ▶ SPAIN TV",CUATRO 4K
+http://atv-pro.net:80/819334884/910219922/680401
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CUATRO " tvg-logo="" group-title="ES ▶ SPAIN TV",CUATRO HD
+http://atv-pro.net:80/819334884/910219922/680400
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TELECINCO" tvg-logo="" group-title="ES ▶ SPAIN TV",TELECINCO 4K
+http://atv-pro.net:80/819334884/910219922/680399
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TELECINCO " tvg-logo="" group-title="ES ▶ SPAIN TV",TELECINCO HD
+http://atv-pro.net:80/819334884/910219922/680398
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LA SEXTA" tvg-logo="" group-title="ES ▶ SPAIN TV",LA SEXTA 4K
+http://atv-pro.net:80/819334884/910219922/680405
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LA SEXTA " tvg-logo="" group-title="ES ▶ SPAIN TV",LA SEXTA HD
+http://atv-pro.net:80/819334884/910219922/680404
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="A punt" tvg-logo="" group-title="ES ▶ SPAIN TV",A punt HEVC
 http://atv-pro.net:80/819334884/910219922/680440
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="A3Series" tvg-logo="" group-title="ES ▶ SPAIN TV",A3Series HEVC
@@ -9,12 +99,6 @@ http://atv-pro.net:80/819334884/910219922/680438
 http://atv-pro.net:80/819334884/910219922/680437
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Aragon" tvg-logo="" group-title="ES ▶ SPAIN TV",Aragon HEVC
 http://atv-pro.net:80/819334884/910219922/680436
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AXN" tvg-logo="" group-title="ES ▶ SPAIN TV",AXN HEVC
-http://atv-pro.net:80/819334884/910219922/680435
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AXN MOVIES" tvg-logo="" group-title="ES ▶ SPAIN TV",AXN MOVIES HEVC
-http://atv-pro.net:80/819334884/910219922/680434
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BE MAD" tvg-logo="" group-title="ES ▶ SPAIN TV",BE MAD HEVC
-http://atv-pro.net:80/819334884/910219922/680433
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Big Brother" tvg-logo="" group-title="ES ▶ SPAIN TV",Big Brother
 http://atv-pro.net:80/819334884/910219922/680432
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BUEN VIAJE" tvg-logo="" group-title="ES ▶ SPAIN TV",BUEN VIAJE HEVC
@@ -57,34 +141,8 @@ http://atv-pro.net:80/819334884/910219922/680414
 http://atv-pro.net:80/819334884/910219922/680413
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SYFY" tvg-logo="" group-title="ES ▶ SPAIN TV",SYFY HEVC
 http://atv-pro.net:80/819334884/910219922/680412
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TCM" tvg-logo="" group-title="ES ▶ SPAIN TV",TCM HEVC
-http://atv-pro.net:80/819334884/910219922/680411
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TELECINCO" tvg-logo="" group-title="ES ▶ SPAIN TV",TELECINCO HEVC
 http://atv-pro.net:80/819334884/910219922/680410
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LA 1" tvg-logo="" group-title="ES ▶ SPAIN TV",LA 1 4K
-http://atv-pro.net:80/819334884/910219922/680409
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LA 1 " tvg-logo="" group-title="ES ▶ SPAIN TV",LA 1 HD
-http://atv-pro.net:80/819334884/910219922/680408
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LA 2 " tvg-logo="" group-title="ES ▶ SPAIN TV",LA 2 HD
-http://atv-pro.net:80/819334884/910219922/680407
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LA 2" tvg-logo="" group-title="ES ▶ SPAIN TV",LA 2
-http://atv-pro.net:80/819334884/910219922/680406
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LA SEXTA" tvg-logo="" group-title="ES ▶ SPAIN TV",LA SEXTA 4K
-http://atv-pro.net:80/819334884/910219922/680405
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LA SEXTA " tvg-logo="" group-title="ES ▶ SPAIN TV",LA SEXTA HD
-http://atv-pro.net:80/819334884/910219922/680404
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ANTENA 3" tvg-logo="" group-title="ES ▶ SPAIN TV",ANTENA 3 4K
-http://atv-pro.net:80/819334884/910219922/680403
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ANTENA 3 " tvg-logo="" group-title="ES ▶ SPAIN TV",ANTENA 3 HD
-http://atv-pro.net:80/819334884/910219922/680402
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CUATRO" tvg-logo="" group-title="ES ▶ SPAIN TV",CUATRO 4K
-http://atv-pro.net:80/819334884/910219922/680401
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CUATRO " tvg-logo="" group-title="ES ▶ SPAIN TV",CUATRO HD
-http://atv-pro.net:80/819334884/910219922/680400
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TELECINCO" tvg-logo="" group-title="ES ▶ SPAIN TV",TELECINCO 4K
-http://atv-pro.net:80/819334884/910219922/680399
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TELECINCO " tvg-logo="" group-title="ES ▶ SPAIN TV",TELECINCO HD
-http://atv-pro.net:80/819334884/910219922/680398
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24 HORAS" tvg-logo="" group-title="ES ▶ SPAIN TV",24 HORAS
 http://atv-pro.net:80/819334884/910219922/680397
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TVE INTERNACIONAL" tvg-logo="" group-title="ES ▶ SPAIN TV",TVE INTERNACIONAL
@@ -95,36 +153,18 @@ http://atv-pro.net:80/819334884/910219922/680395
 http://atv-pro.net:80/819334884/910219922/680394
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VAMOS" tvg-logo="" group-title="ES ▶ SPAIN TV",VAMOS 4K
 http://atv-pro.net:80/819334884/910219922/680393
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TCM" tvg-logo="" group-title="ES ▶ SPAIN TV",TCM 4K
-http://atv-pro.net:80/819334884/910219922/680392
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AMC" tvg-logo="" group-title="ES ▶ SPAIN TV",AMC 4K
-http://atv-pro.net:80/819334884/910219922/680391
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AXN" tvg-logo="" group-title="ES ▶ SPAIN TV",AXN 4K
-http://atv-pro.net:80/819334884/910219922/680390
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AXN WHITE" tvg-logo="" group-title="ES ▶ SPAIN TV",AXN WHITE 4K
-http://atv-pro.net:80/819334884/910219922/680389
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="" group-title="ES ▶ SPAIN TV",PARAMOUNT CHANNEL
 http://atv-pro.net:80/819334884/910219922/680388
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CALLE 13" tvg-logo="" group-title="ES ▶ SPAIN TV",CALLE 13 4K
-http://atv-pro.net:80/819334884/910219922/680387
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FOX" tvg-logo="" group-title="ES ▶ SPAIN TV",FOX 4K
-http://atv-pro.net:80/819334884/910219922/680386
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CANAL HOLLYWOOD" tvg-logo="" group-title="ES ▶ SPAIN TV",HOLLYWOOD 4K
-http://atv-pro.net:80/819334884/910219922/680385
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SYFY" tvg-logo="" group-title="ES ▶ SPAIN TV",SYFY 4K
 http://atv-pro.net:80/819334884/910219922/680384
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="ES ▶ SPAIN TV",DISCOVERY CHANNEL
 http://atv-pro.net:80/819334884/910219922/680383
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TNT" tvg-logo="" group-title="ES ▶ SPAIN TV",TNT 4K
-http://atv-pro.net:80/819334884/910219922/680382
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NICKELODEON " tvg-logo="" group-title="ES ▶ SPAIN TV",NICKELODEON HD
 http://atv-pro.net:80/819334884/910219922/680381
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NICK JR" tvg-logo="" group-title="ES ▶ SPAIN TV",NICK JR
 http://atv-pro.net:80/819334884/910219922/680380
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="A3 SERIES" tvg-logo="" group-title="ES ▶ SPAIN TV",A3 SERIES 4K
 http://atv-pro.net:80/819334884/910219922/680379
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BE MAD" tvg-logo="" group-title="ES ▶ SPAIN TV",BE MAD 4K
-http://atv-pro.net:80/819334884/910219922/680378
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CAZA & PESCA" tvg-logo="" group-title="ES ▶ SPAIN TV",CAZA & PESCA 4K
 http://atv-pro.net:80/819334884/910219922/680377
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="COSMO" tvg-logo="" group-title="ES ▶ SPAIN TV",COSMO 4K
@@ -187,23 +227,15 @@ http://atv-pro.net:80/819334884/910219922/680349
 http://atv-pro.net:80/819334884/910219922/680570
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24 HORAS " tvg-logo="" group-title="ES ▶ MOVISTAR",24 HORAS HD
 http://atv-pro.net:80/819334884/910219922/680569
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="M+ Acción" tvg-logo="" group-title="ES ▶ MOVISTAR",ACCION 4K
-http://atv-pro.net:80/819334884/910219922/680568
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="M+ Acción " tvg-logo="" group-title="ES ▶ MOVISTAR",ACCION HD
-http://atv-pro.net:80/819334884/910219922/680567
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AMC BREAK " tvg-logo="" group-title="ES ▶ MOVISTAR",AMC BREAK HD
 http://atv-pro.net:80/819334884/910219922/680566
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BABY TV SD" tvg-logo="" group-title="ES ▶ MOVISTAR",BABY TV SD
 http://atv-pro.net:80/819334884/910219922/680565
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BOING SD" tvg-logo="" group-title="ES ▶ MOVISTAR",BOING SD
 http://atv-pro.net:80/819334884/910219922/680564
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CALLE 13" tvg-logo="" group-title="ES ▶ MOVISTAR",CALLE 13 4K
-http://atv-pro.net:80/819334884/910219922/680563
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CALLE 13 " tvg-logo="" group-title="ES ▶ MOVISTAR",CALLE 13 HD
-http://atv-pro.net:80/819334884/910219922/680562
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 1" tvg-logo="" group-title="ES ▶ MOVISTAR",CAMPEONES 1 4K
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="M+ LIGA DE CAMPEONES" tvg-logo="" group-title="ES ▶ MOVISTAR",CAMPEONES 1 4K
 http://atv-pro.net:80/819334884/910219922/680561
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 1 " tvg-logo="" group-title="ES ▶ MOVISTAR",CAMPEONES 1 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="M+ LIGA DE CAMPEONES" tvg-logo="" group-title="ES ▶ MOVISTAR",CAMPEONES 1 HD
 http://atv-pro.net:80/819334884/910219922/680560
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 3" tvg-logo="" group-title="ES ▶ MOVISTAR",CAMPEONES 3 4K
 http://atv-pro.net:80/819334884/910219922/680559
@@ -213,7 +245,7 @@ http://atv-pro.net:80/819334884/910219922/680558
 http://atv-pro.net:80/819334884/910219922/680557
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 2 " tvg-logo="" group-title="ES ▶ MOVISTAR",CAMPIONES 2 HD
 http://atv-pro.net:80/819334884/910219922/680556
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CAMPIONES" tvg-logo="" group-title="ES ▶ MOVISTAR",CAMPIONES 4K
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="M+ LIGA DE CAMPEONES" tvg-logo="" group-title="ES ▶ MOVISTAR",CAMPIONES 4K
 http://atv-pro.net:80/819334884/910219922/680555
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="M+ LIGA DE CAMPEONES" tvg-logo="" group-title="ES ▶ MOVISTAR",CAMPIONES HD
 http://atv-pro.net:80/819334884/910219922/680554
@@ -223,32 +255,20 @@ http://atv-pro.net:80/819334884/910219922/680553
 http://atv-pro.net:80/819334884/910219922/680552
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CAZA Y PESCA " tvg-logo="" group-title="ES ▶ MOVISTAR",CAZA Y PESCA HD
 http://atv-pro.net:80/819334884/910219922/680551
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CINE" tvg-logo="" group-title="ES ▶ MOVISTAR",CINE 4K
-http://atv-pro.net:80/819334884/910219922/680550
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CINE ESPANOL" tvg-logo="" group-title="ES ▶ MOVISTAR",CINE ESPANOL 4K
 http://atv-pro.net:80/819334884/910219922/680549
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CINE ESPANOL " tvg-logo="" group-title="ES ▶ MOVISTAR",CINE ESPANOL HD
 http://atv-pro.net:80/819334884/910219922/680548
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CINE " tvg-logo="" group-title="ES ▶ MOVISTAR",CINE HD
-http://atv-pro.net:80/819334884/910219922/680547
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CLASICOS" tvg-logo="" group-title="ES ▶ MOVISTAR",CLASICOS 4K
 http://atv-pro.net:80/819334884/910219922/680546
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CLASICOS " tvg-logo="" group-title="ES ▶ MOVISTAR",CLASICOS HD
 http://atv-pro.net:80/819334884/910219922/680545
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CLASSICA " tvg-logo="" group-title="ES ▶ MOVISTAR",CLASSICA HD
 http://atv-pro.net:80/819334884/910219922/680544
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="COMEDIA" tvg-logo="" group-title="ES ▶ MOVISTAR",COMEDIA 4K
-http://atv-pro.net:80/819334884/910219922/680543
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="COMEDIA " tvg-logo="" group-title="ES ▶ MOVISTAR",COMEDIA HD
-http://atv-pro.net:80/819334884/910219922/680542
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="COSMO" tvg-logo="" group-title="ES ▶ MOVISTAR",COSMO 4K
 http://atv-pro.net:80/819334884/910219922/680541
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="COSMO " tvg-logo="" group-title="ES ▶ MOVISTAR",COSMO HD
 http://atv-pro.net:80/819334884/910219922/680540
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DARK" tvg-logo="" group-title="ES ▶ MOVISTAR",DARK 4K
-http://atv-pro.net:80/819334884/910219922/680539
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DARK " tvg-logo="" group-title="ES ▶ MOVISTAR",DARK HD
-http://atv-pro.net:80/819334884/910219922/680538
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DEPORTES 2" tvg-logo="" group-title="ES ▶ MOVISTAR",DEPORTES 2 4K
 http://atv-pro.net:80/819334884/910219922/680537
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DEPORTES 2 " tvg-logo="" group-title="ES ▶ MOVISTAR",DEPORTES 2 HD
@@ -287,10 +307,6 @@ http://atv-pro.net:80/819334884/910219922/680521
 http://atv-pro.net:80/819334884/910219922/680520
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DOCUMENTALES " tvg-logo="" group-title="ES ▶ MOVISTAR",DOCUMENTALES HD
 http://atv-pro.net:80/819334884/910219922/680519
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DRAMA" tvg-logo="" group-title="ES ▶ MOVISTAR",DRAMA 4K
-http://atv-pro.net:80/819334884/910219922/680518
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DRAMA " tvg-logo="" group-title="ES ▶ MOVISTAR",DRAMA HD
-http://atv-pro.net:80/819334884/910219922/680517
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EL TORO" tvg-logo="" group-title="ES ▶ MOVISTAR",EL TORO 4K
 http://atv-pro.net:80/819334884/910219922/680516
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EL TORO " tvg-logo="" group-title="ES ▶ MOVISTAR",EL TORO HD
@@ -307,10 +323,6 @@ http://atv-pro.net:80/819334884/910219922/680511
 http://atv-pro.net:80/819334884/910219922/680510
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GOLF " tvg-logo="" group-title="ES ▶ MOVISTAR",GOLF HD
 http://atv-pro.net:80/819334884/910219922/680509
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="INDIE" tvg-logo="" group-title="ES ▶ MOVISTAR",INDIE 4K
-http://atv-pro.net:80/819334884/910219922/680508
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="INDIE " tvg-logo="" group-title="ES ▶ MOVISTAR",INDIE HD
-http://atv-pro.net:80/819334884/910219922/680507
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LA 1" tvg-logo="" group-title="ES ▶ MOVISTAR",LA 1 4K
 http://atv-pro.net:80/819334884/910219922/680506
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LA 1 " tvg-logo="" group-title="ES ▶ MOVISTAR",LA 1 HD
@@ -359,10 +371,6 @@ http://atv-pro.net:80/819334884/910219922/680485
 http://atv-pro.net:80/819334884/910219922/680484
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PARAMOUNT SD" tvg-logo="" group-title="ES ▶ MOVISTAR",PARAMOUNT SD
 http://atv-pro.net:80/819334884/910219922/680483
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SERIES" tvg-logo="" group-title="ES ▶ MOVISTAR",SERIES 4K
-http://atv-pro.net:80/819334884/910219922/680482
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SERIES " tvg-logo="" group-title="ES ▶ MOVISTAR",SERIES HD
-http://atv-pro.net:80/819334884/910219922/680481
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="STAR" tvg-logo="" group-title="ES ▶ MOVISTAR",STAR 4K
 http://atv-pro.net:80/819334884/910219922/680480
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="STAR " tvg-logo="" group-title="ES ▶ MOVISTAR",STAR HD
