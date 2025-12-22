@@ -1,4 +1,249 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
+
+#EXTINF:-1 tvg-id="" tvg-name="------▼|BEIN|-BEIN.SPORTS-FR-AR|BEIN|▼------" tvg-logo="" group-title="",------▼|BEIN|-BEIN.SPORTS-FR-AR|BEIN|▼------
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/837
+#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="|TOD| BEIN MAX 1 SD (CAN 2025)" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| BEIN MAX 1 SD (CAN 2025)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/111851
+#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="|TOD| BEIN MAX 1 HD (CAN 2025)" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| BEIN MAX 1 HD (CAN 2025)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/111890
+#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="|TOD| BEIN MAX 1 FHD (CAN 2025)" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| BEIN MAX 1 FHD (CAN 2025)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112636
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|TOD| EVENT SPORTS 1 SD" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 1 SD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89272
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|TOD| EVENT SPORTS 1 HD" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 1 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89271
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|TOD| EVENT SPORTS 1 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 1 FHD (EXCLUS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/69346
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|TOD| EVENT SPORTS 2 SD" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 2 SD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89268
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|TOD| EVENT SPORTS 2 HD" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 2 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89267
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|TOD| EVENT SPORTS 2 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 2 FHD (EXCLUS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/69164
+#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="|TOD| EVENT SPORTS 3 SD" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 3 SD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/99520
+#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="|TOD| EVENT SPORTS 3 HD" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 3 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/74017
+#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="|TOD| EVENT SPORTS 3 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 3 FHD (EXCLUS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1205
+#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="|TOD| EVENT SPORTS 4 SD" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 4 SD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/74012
+#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="|TOD| EVENT SPORTS 4 HD" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 4 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/68967
+#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="|TOD| EVENT SPORTS 4 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 4 FHD (EXCLUS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1206
+#EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="|TOD| EVENT SPORTS 5 SD" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 5 SD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/101070
+#EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="|TOD| EVENT SPORTS 5 HD" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 5 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89262
+#EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="|TOD| EVENT SPORTS 5 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 5 FHD (EXCLUS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1774
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="|TOD| EVENT SPORTS 6 SD" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 6 SD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/101113
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="|TOD| EVENT SPORTS 6 HD" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 6 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89270
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="|TOD| EVENT SPORTS 6 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 6 FHD (EXCLUS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2664
+#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="|TOD| EVENT SPORTS 7 SD" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 7 SD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/99507
+#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="|TOD| EVENT SPORTS 7 HD" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 7 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/99533
+#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="|TOD| EVENT SPORTS 7 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 7 FHD (EXCLUS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2820
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="|TOD| EVENT SPORTS 8 SD" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 8 SD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/99421
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="|TOD| EVENT SPORTS 8 HD" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 8 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/26848
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="|TOD| EVENT SPORTS 8 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 8 FHD (EXCLUS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/12671
+#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="|TOD| EVENT SPORTS 9 SD" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 9 SD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/26849
+#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="|TOD| EVENT SPORTS 9 HD" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 9 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/37261
+#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="|TOD| EVENT SPORTS 9 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 9 FHD (EXCLUS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2250
+#EXTINF:-1 tvg-id="BeinSportsPremium3.qa" tvg-name="|TOD| EVENT SPORTS 10 HD" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 10 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89261
+#EXTINF:-1 tvg-id="BeinSportsPremium3.qa" tvg-name="|TOD| EVENT SPORTS 10 FHD" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 10 FHD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/99605
+#EXTINF:-1 tvg-id="BeinSportsPremium3.qa" tvg-name="|TOD| EVENT SPORTS 11 HD" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 11 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/69098
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="|TOD| EVENT SPORTS 11 FHD" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 11 FHD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/43851
+#EXTINF:-1 tvg-id="" tvg-name="|TOD| EVENT SPORTS 12 FHD" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 12 FHD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112607
+#EXTINF:-1 tvg-id="" tvg-name="|TOD| EVENT SPORTS 13 FHD" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 13 FHD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112600
+#EXTINF:-1 tvg-id="" tvg-name="|TOD| EVENT SPORTS 14 FHD" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 14 FHD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112599
+#EXTINF:-1 tvg-id="beINSportsNews.qa" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="http://i.imgur.com/nk44Tdd.png" group-title="BeIN AR Sports",BEIN SPORTS NEWS HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/369
+#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="BEIN SPORTS MAX 1 SD" tvg-logo="https://i.imgur.com/ABgCjYP.png" group-title="BeIN AR Sports",BEIN SPORTS MAX 1 SD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112542
+#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="BEIN SPORTS MAX 1 HD" tvg-logo="https://i.imgur.com/ABgCjYP.png" group-title="BeIN AR Sports",BEIN SPORTS MAX 1 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112541
+#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="BEIN SPORTS MAX 1 FHD" tvg-logo="https://i.imgur.com/ABgCjYP.png" group-title="BeIN AR Sports",BEIN SPORTS MAX 1 FHD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112539
+#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="BEIN SPORTS MAX 1 HEVC" tvg-logo="https://i.imgur.com/ABgCjYP.png" group-title="BeIN AR Sports",BEIN SPORTS MAX 1 HEVC
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112538
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-name="BEIN SPORTS MAX 2 SD" tvg-logo="https://i.imgur.com/ABgCjYP.png" group-title="BeIN AR Sports",BEIN SPORTS MAX 2 SD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112511
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-name="BEIN SPORTS MAX 2 HD" tvg-logo="https://i.imgur.com/ABgCjYP.png" group-title="BeIN AR Sports",BEIN SPORTS MAX 2 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112512
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-name="BEIN SPORTS MAX 2 FHD" tvg-logo="https://i.imgur.com/ABgCjYP.png" group-title="BeIN AR Sports",BEIN SPORTS MAX 2 FHD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112509
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-name="BEIN SPORTS MAX 2 HEVC" tvg-logo="https://i.imgur.com/ABgCjYP.png" group-title="BeIN AR Sports",BEIN SPORTS MAX 2 HEVC
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112489
+#EXTINF:-1 tvg-id="beINSportsGlobal.qa" tvg-name="BEIN SPORTS HD" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN AR Sports",BEIN SPORTS HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1454
+#EXTINF:-1 tvg-id="beINSportsGlobal.qa" tvg-name="BEIN SPORTS FHD" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN AR Sports",BEIN SPORTS FHD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/4412
+#EXTINF:-1 tvg-id="beINSports4K.qa" tvg-name="BEIN SPORTS 4K HDR NATIVE EXCLUSIVE (LIVE MATCH ONLY)" tvg-logo="https://i.imgur.com/WwH58EE.png" group-title="BeIN AR Sports",BEIN SPORTS 4K HDR NATIVE EXCLUSIVE (LIVE MATCH ONLY)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/104974
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|CHAMPIONS LEAGUE| BEIN SPORTS 1 SD" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN AR Sports",|CHAMPIONS LEAGUE| BEIN SPORTS 1 SD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/105104
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="BEIN SPORTS 1 SD" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN AR Sports",BEIN SPORTS 1 SD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/45706
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|CHAMPIONS LEAGUE| BEIN SPORTS 1 HD" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN AR Sports",|CHAMPIONS LEAGUE| BEIN SPORTS 1 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/105103
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN AR Sports",BEIN SPORTS 1 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/45705
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|CHAMPIONS LEAGUE| BEIN SPORTS 1 FHD" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN AR Sports",|CHAMPIONS LEAGUE| BEIN SPORTS 1 FHD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/105102
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN AR Sports",BEIN SPORTS 1 FHD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/45704
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="BEIN SPORTS 1 HEVC" tvg-logo="" group-title="BeIN AR Sports",BEIN SPORTS 1 HEVC
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/583
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|CHAMPIONS LEAGUE| BEIN SPORTS 2 SD" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN AR Sports",|CHAMPIONS LEAGUE| BEIN SPORTS 2 SD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/105107
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="BEIN SPORTS 2 SD" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN AR Sports",BEIN SPORTS 2 SD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/45709
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|CHAMPIONS LEAGUE| BEIN SPORTS 2 HD" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN AR Sports",|CHAMPIONS LEAGUE| BEIN SPORTS 2 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/105106
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN AR Sports",BEIN SPORTS 2 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/45708
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|CHAMPIONS LEAGUE| BEIN SPORTS 2 FHD" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN AR Sports",|CHAMPIONS LEAGUE| BEIN SPORTS 2 FHD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/105105
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN AR Sports",BEIN SPORTS 2 FHD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/45707
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="BEIN SPORTS 2 HEVC" tvg-logo="" group-title="BeIN AR Sports",BEIN SPORTS 2 HEVC
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/683
+#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="BEIN SPORTS_3 SD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_3 SD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2600
+#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="BEIN SPORTS_3 HD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_3 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/788
+#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN AR Sports",BEIN SPORTS 3 FHD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/10081
+#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="BEIN SPORTS 3 HEVC" tvg-logo="" group-title="BeIN AR Sports",BEIN SPORTS 3 HEVC
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/22392
+#EXTINF:-1 tvg-id="beINSports.qa" tvg-name="BEIN SPORTS HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS HD (50 FPS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/43853
+#EXTINF:-1 tvg-id="beINSports.qa" tvg-name="BEIN SPORTS FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS FHD (50 FPS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/43854
+#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="BEIN SPORTS MAX 1 SD (50 FPS)  (CAN 2025)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS MAX 1 SD (50 FPS)  (CAN 2025)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112591
+#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="BEIN SPORTS MAX 1 HD (50 FPS) (CAN 2025)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS MAX 1 HD (50 FPS) (CAN 2025)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112603
+#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="BEIN SPORTS MAX 1 FHD (50 FPS) (CAN 2025)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS MAX 1 FHD (50 FPS) (CAN 2025)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112604
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-name="BEIN SPORTS MAX 2 SD (50 FPS) (CAN 2025)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS MAX 2 SD (50 FPS) (CAN 2025)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112551
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-name="BEIN SPORTS MAX 2 HD (50 FPS)(CAN 2025)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS MAX 2 HD (50 FPS)(CAN 2025)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112570
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-name="BEIN SPORTS MAX 2 FHD (50 FPS) (CAN 2025)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS MAX 2 FHD (50 FPS) (CAN 2025)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112573
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="BEIN SPORTS 1 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS 1 HD (50 FPS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89259
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS 1 FHD (50 FPS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112484
+#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="BEIN SPORTS_4 SD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_4 SD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2601
+#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="BEIN SPORTS_4 HD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_4 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/789
+#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="BEIN SPORTS 4 FHD" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN AR Sports",BEIN SPORTS 4 FHD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/10080
+#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="BEIN SPORTS 4 HEVC" tvg-logo="" group-title="BeIN AR Sports",BEIN SPORTS 4 HEVC
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/22391
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="BEIN SPORTS 2 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS 2 HD (50 FPS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89263
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="BEIN SPORTS 2 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS 2 FHD (50 FPS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112423
+#EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="BEIN SPORTS_5 SD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_5 SD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2602
+#EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="BEIN SPORTS_5 HD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_5 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/790
+#EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="BEIN SPORTS 5 FHD" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN AR Sports",BEIN SPORTS 5 FHD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/10079
+#EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="BEIN SPORTS 5 HEVC" tvg-logo="" group-title="BeIN AR Sports",BEIN SPORTS 5 HEVC
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/22390
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="BEIN SPORTS 3 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS 3 HD (50 FPS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89265
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="BEIN SPORTS 3 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS 3 FHD (50 FPS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112292
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="BEIN SPORTS_6 SD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_6 SD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2603
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="BEIN SPORTS_6 HD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_6 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/791
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="BEIN SPORTS 6 FHD" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN AR Sports",BEIN SPORTS 6 FHD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/10078
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="BEIN SPORTS 6 HEVC" tvg-logo="" group-title="BeIN AR Sports",BEIN SPORTS 6 HEVC
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/22389
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="BEIN SPORTS 4 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS 4 HD (50 FPS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89264
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="BEIN SPORTS 4 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS 4 FHD (50 FPS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112471
+#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="BEIN SPORTS_7 SD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_7 SD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2604
+#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="BEIN SPORTS_7 HD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_7 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/792
+#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="BEIN SPORTS 7 FHD" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN AR Sports",BEIN SPORTS 7 FHD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/10077
+#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="BEIN SPORTS 7 HEVC" tvg-logo="" group-title="BeIN AR Sports",BEIN SPORTS 7 HEVC
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/22388
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="BEIN SPORTS 5 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS 5 HD (50 FPS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112157
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="BEIN SPORTS 5 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS 5 FHD (50 FPS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112323
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="BEIN SPORTS_8 SD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_8 SD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2605
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="BEIN SPORTS_8 HD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_8 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/793
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 FHD" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN AR Sports",BEIN SPORTS 8 FHD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/10076
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="BEIN SPORTS 8 HEVC" tvg-logo="" group-title="BeIN AR Sports",BEIN SPORTS 8 HEVC
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/22387
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="BEIN SPORTS 6 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS 6 HD (50 FPS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112158
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="BEIN SPORTS 6 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS 6 FHD (50 FPS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112148
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS EN FRANÇAIS FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS EN FRANÇAIS FHD (50 FPS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89273
+#EXTINF:-1 tvg-id="BeinSportsExtra1.qa" tvg-name="BEIN SPORTS XTRA 1 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS XTRA 1 HD (50 FPS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42086
+#EXTINF:-1 tvg-id="BeinSportsExtra1.qa" tvg-name="BEIN SPORTS XTRA 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS XTRA 1 FHD (50 FPS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112275
+#EXTINF:-1 tvg-id="BeinSportsExtra2.qa" tvg-name="BEIN SPORTS XTRA 2 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS XTRA 2 HD (50 FPS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/4418
+#EXTINF:-1 tvg-id="BeinSportsExtra2.qa" tvg-name="BEIN SPORTS XTRA 2 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS XTRA 2 FHD (50 FPS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42094
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 3 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS XTRA 3 FHD (50 FPS)
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112160
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 4 HD" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS XTRA 4 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112437
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 4 FHD" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS XTRA 4 FHD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112302
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 5 HD" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS XTRA 5 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/113553
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 5 FHD" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS XTRA 5 FHD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112582
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="BEIN SPORTS_9 SD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_9 SD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2606
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="BEIN SPORTS_9 HD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_9 HD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/794
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 FHD" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN AR Sports",BEIN SPORTS 9 FHD
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/10075
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="BEIN SPORTS 9 HEVC" tvg-logo="" group-title="BeIN AR Sports",BEIN SPORTS 9 HEVC
+http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/22386
 #EXTINF:-1 tvg-id="" tvg-name="------▼|ES|-CHAINES.ESPAGNOLE-|ES|▼------" tvg-logo="" group-title="",------▼|ES|-CHAINES.ESPAGNOLE-|ES|▼------
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/368
 #EXTINF:-1 tvg-id="LA1.es" tvg-name="TVE LA 1" tvg-logo="http://i.imgur.com/XtAYr2M.png" group-title="(España)",TVE LA 1 HD
@@ -3171,129 +3416,129 @@ http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112607
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112600
 #EXTINF:-1 tvg-id="" tvg-name="|TOD| EVENT SPORTS 14" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 14 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112599
-#EXTINF:-1 tvg-id="beINSportsNews.qa" tvg-name="|AR| BEIN SPORTS NEWS" tvg-logo="http://i.imgur.com/nk44Tdd.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS NEWS HD
+#EXTINF:-1 tvg-id="beINSportsNews.qa" tvg-name="BEIN SPORTS NEWS" tvg-logo="http://i.imgur.com/nk44Tdd.png" group-title="BeIN AR Sports",BEIN SPORTS NEWS HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/369
-#EXTINF:-1 tvg-id="beINSports4K.qa" tvg-name="|AR| BEIN SPORTS 4K HDR NATIVE EXCLUSIVE (LIVE MATCH ONLY)" tvg-logo="https://i.imgur.com/WwH58EE.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 4K HDR NATIVE EXCLUSIVE (LIVE MATCH ONLY)
+#EXTINF:-1 tvg-id="beINSports4K.qa" tvg-name="BEIN SPORTS 4K HDR NATIVE EXCLUSIVE (LIVE MATCH ONLY)" tvg-logo="https://i.imgur.com/WwH58EE.png" group-title="BeIN AR Sports",BEIN SPORTS 4K HDR NATIVE EXCLUSIVE (LIVE MATCH ONLY)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/104974
-#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|CHAMPIONS LEAGUE| BEIN SPORTS 1" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN & Sports & Entertainment (Arabic)",|CHAMPIONS LEAGUE| BEIN SPORTS 1 SD
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|CHAMPIONS LEAGUE| BEIN SPORTS 1" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN AR Sports",|CHAMPIONS LEAGUE| BEIN SPORTS 1 SD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/105104
-#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 1 SD
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="BEIN SPORTS 1" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN AR Sports",BEIN SPORTS 1 SD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/45706
-#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|CHAMPIONS LEAGUE| BEIN SPORTS 1" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN & Sports & Entertainment (Arabic)",|CHAMPIONS LEAGUE| BEIN SPORTS 1 HD
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|CHAMPIONS LEAGUE| BEIN SPORTS 1" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN AR Sports",|CHAMPIONS LEAGUE| BEIN SPORTS 1 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/105103
-#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 1 HD
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="BEIN SPORTS 1" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN AR Sports",BEIN SPORTS 1 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/45705
-#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|CHAMPIONS LEAGUE| BEIN SPORTS 1" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN & Sports & Entertainment (Arabic)",|CHAMPIONS LEAGUE| BEIN SPORTS 1 FHD
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|CHAMPIONS LEAGUE| BEIN SPORTS 1" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN AR Sports",|CHAMPIONS LEAGUE| BEIN SPORTS 1 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/105102
-#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 1 FHD
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="BEIN SPORTS 1" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN AR Sports",BEIN SPORTS 1 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/45704
-#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 HEVC" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 1 HEVC
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="BEIN SPORTS 1 HEVC" tvg-logo="" group-title="BeIN AR Sports",BEIN SPORTS 1 HEVC
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/583
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|CHAMPIONS LEAGUE| BEIN SPORTS 2" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN & Sports & Entertainment (Arabic)",|CHAMPIONS LEAGUE| BEIN SPORTS 2 SD
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|CHAMPIONS LEAGUE| BEIN SPORTS 2" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN AR Sports",|CHAMPIONS LEAGUE| BEIN SPORTS 2 SD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/105107
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 2 SD
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="BEIN SPORTS 2" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN AR Sports",BEIN SPORTS 2 SD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/45709
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|CHAMPIONS LEAGUE| BEIN SPORTS 2" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN & Sports & Entertainment (Arabic)",|CHAMPIONS LEAGUE| BEIN SPORTS 2 HD
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|CHAMPIONS LEAGUE| BEIN SPORTS 2" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN AR Sports",|CHAMPIONS LEAGUE| BEIN SPORTS 2 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/105106
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 2 HD
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="BEIN SPORTS 2" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN AR Sports",BEIN SPORTS 2 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/45708
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|CHAMPIONS LEAGUE| BEIN SPORTS 2" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN & Sports & Entertainment (Arabic)",|CHAMPIONS LEAGUE| BEIN SPORTS 2 FHD
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|CHAMPIONS LEAGUE| BEIN SPORTS 2" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN AR Sports",|CHAMPIONS LEAGUE| BEIN SPORTS 2 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/105105
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 2 FHD
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="BEIN SPORTS 2" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN AR Sports",BEIN SPORTS 2 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/45707
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 HEVC" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 2 HEVC
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="BEIN SPORTS 2 HEVC" tvg-logo="" group-title="BeIN AR Sports",BEIN SPORTS 2 HEVC
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/683
-#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="|AR| BEIN SPORTS_3" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS_3 SD
+#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="BEIN SPORTS_3" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_3 SD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2600
-#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="|AR| BEIN SPORTS_3" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS_3 HD
+#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="BEIN SPORTS_3" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_3 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/788
-#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="|AR| BEIN SPORTS 3" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 3 FHD
+#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="BEIN SPORTS 3" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN AR Sports",BEIN SPORTS 3 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/10081
-#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="|AR| BEIN SPORTS 3 HEVC" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 3 HEVC
+#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="BEIN SPORTS 3 HEVC" tvg-logo="" group-title="BeIN AR Sports",BEIN SPORTS 3 HEVC
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/22392
-#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 HD (50 FPS)
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="BEIN SPORTS 1 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS 1 HD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89259
-#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 FHD (50 FPS)
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS 1 FHD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112484
-#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="|AR| BEIN SPORTS_4" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS_4 SD
+#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="BEIN SPORTS_4" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_4 SD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2601
-#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="|AR| BEIN SPORTS_4" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS_4 HD
+#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="BEIN SPORTS_4" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_4 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/789
-#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="|AR| BEIN SPORTS 4" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 4 FHD
+#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="BEIN SPORTS 4" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN AR Sports",BEIN SPORTS 4 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/10080
-#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="|AR| BEIN SPORTS 4 HEVC" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 4 HEVC
+#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="BEIN SPORTS 4 HEVC" tvg-logo="" group-title="BeIN AR Sports",BEIN SPORTS 4 HEVC
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/22391
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 2 HD (50 FPS)
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="BEIN SPORTS 2 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS 2 HD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89263
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 2 FHD (50 FPS)
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="BEIN SPORTS 2 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS 2 FHD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112423
-#EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="|AR| BEIN SPORTS_5" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS_5 SD
+#EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="BEIN SPORTS_5" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_5 SD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2602
-#EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="|AR| BEIN SPORTS_5" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS_5 HD
+#EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="BEIN SPORTS_5" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_5 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/790
-#EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="|AR| BEIN SPORTS 5" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 5 FHD
+#EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="BEIN SPORTS 5" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN AR Sports",BEIN SPORTS 5 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/10079
-#EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="|AR| BEIN SPORTS 5 HEVC" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 5 HEVC
+#EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="BEIN SPORTS 5 HEVC" tvg-logo="" group-title="BeIN AR Sports",BEIN SPORTS 5 HEVC
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/22390
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="|AR| BEIN SPORTS 3 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 3 HD (50 FPS)
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="BEIN SPORTS 3 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS 3 HD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89265
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="|AR| BEIN SPORTS 3 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 3 FHD (50 FPS)
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="BEIN SPORTS 3 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS 3 FHD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112292
-#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="|AR| BEIN SPORTS_6" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS_6 SD
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="BEIN SPORTS_6" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_6 SD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2603
-#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="|AR| BEIN SPORTS_6" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS_6 HD
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="BEIN SPORTS_6" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_6 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/791
-#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="|AR| BEIN SPORTS 6" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 6 FHD
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="BEIN SPORTS 6" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN AR Sports",BEIN SPORTS 6 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/10078
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="|AR| BEIN SPORTS 4 HEVC" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 4 HEVC
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="BEIN SPORTS 4 HEVC" tvg-logo="" group-title="BeIN AR Sports",BEIN SPORTS 4 HEVC
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/22389
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="|AR| BEIN SPORTS 4 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 4 HD (50 FPS)
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="BEIN SPORTS 4 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS 4 HD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89264
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="|AR| BEIN SPORTS 4 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 4 FHD (50 FPS)
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="BEIN SPORTS 4 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS 4 FHD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112471
-#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="|AR| BEIN SPORTS_7" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS_7 SD
+#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="BEIN SPORTS_7" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_7 SD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2604
-#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="|AR| BEIN SPORTS_7" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS_7 HD
+#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="BEIN SPORTS_7" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_7 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/792
-#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="|AR| BEIN SPORTS 7" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 7 FHD
+#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="BEIN SPORTS 7" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN AR Sports",BEIN SPORTS 7 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/10077
-#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="|AR| BEIN SPORTS 7 HEVC" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 7 HEVC
+#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="BEIN SPORTS 7 HEVC" tvg-logo="" group-title="BeIN AR Sports",BEIN SPORTS 7 HEVC
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/22388
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="|AR| BEIN SPORTS 5 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 5 HD (50 FPS)
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="BEIN SPORTS 5 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS 5 HD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112157
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="|AR| BEIN SPORTS 5 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 5 FHD (50 FPS)
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="BEIN SPORTS 5 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS 5 FHD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112323
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="|AR| BEIN SPORTS_8" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS_8 SD
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="BEIN SPORTS_8" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_8 SD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2605
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="|AR| BEIN SPORTS_8" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS_8 HD
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="BEIN SPORTS_8" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_8 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/793
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS 8" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 8 FHD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN AR Sports",BEIN SPORTS 8 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/10076
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="|AR| BEIN SPORTS 8 HEVC" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 8 HEVC
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="BEIN SPORTS 8 HEVC" tvg-logo="" group-title="BeIN AR Sports",BEIN SPORTS 8 HEVC
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/22387
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="|AR| BEIN SPORTS 6 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 6 HD (50 FPS)
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="BEIN SPORTS 6 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS 6 HD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112158
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="|AR| BEIN SPORTS 6 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 6 FHD (50 FPS)
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="BEIN SPORTS 6 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS 6 FHD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112148
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS EN FRANÇAIS FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS EN FRANÇAIS FHD (50 FPS)
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS EN FRANÇAIS FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS EN FRANÇAIS FHD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89273
-#EXTINF:-1 tvg-id="BeinSportsExtra1.qa" tvg-name="|AR| BEIN SPORTS XTRA 1 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS XTRA 1 HD (50 FPS)
+#EXTINF:-1 tvg-id="BeinSportsExtra1.qa" tvg-name="BEIN SPORTS XTRA 1 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS XTRA 1 HD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42086
-#EXTINF:-1 tvg-id="BeinSportsExtra1.qa" tvg-name="|AR| BEIN SPORTS XTRA 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS XTRA 1 FHD (50 FPS)
+#EXTINF:-1 tvg-id="BeinSportsExtra1.qa" tvg-name="BEIN SPORTS XTRA 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS XTRA 1 FHD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112275
-#EXTINF:-1 tvg-id="BeinSportsExtra2.qa" tvg-name="|AR| BEIN SPORTS XTRA 2 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS XTRA 2 HD (50 FPS)
+#EXTINF:-1 tvg-id="BeinSportsExtra2.qa" tvg-name="BEIN SPORTS XTRA 2 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS XTRA 2 HD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/4418
-#EXTINF:-1 tvg-id="BeinSportsExtra2.qa" tvg-name="|AR| BEIN SPORTS XTRA 2 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS XTRA 2 FHD (50 FPS)
+#EXTINF:-1 tvg-id="BeinSportsExtra2.qa" tvg-name="BEIN SPORTS XTRA 2 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS XTRA 2 FHD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42094
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS XTRA 3 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS XTRA 3 FHD (50 FPS)
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 3 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS XTRA 3 FHD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112160
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS_9" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS_9 SD
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="BEIN SPORTS_9" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_9 SD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2606
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS_9" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS_9 HD
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="BEIN SPORTS_9" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN AR Sports",BEIN SPORTS_9 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/794
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS 9" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 9 FHD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN AR Sports",BEIN SPORTS 9 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/10075
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS 9 HEVC" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 9 HEVC
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="BEIN SPORTS 9 HEVC" tvg-logo="" group-title="BeIN AR Sports",BEIN SPORTS 9 HEVC
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/22386
 #EXTINF:-1 tvg-id="" tvg-name="------▼|AE|-CHAINES.MAGHREBINE-|AE|▼------" tvg-logo="" group-title="",------▼|AE|-CHAINES.MAGHREBINE-|AE|▼------
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/197
@@ -3487,883 +3732,883 @@ http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1115
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1111
 #EXTINF:-1 tvg-id="" tvg-name="------▼|AE|-CHAINES.ARABE-|AE|▼------" tvg-logo="" group-title="",------▼|AE|-CHAINES.ARABE-|AE|▼------
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/199
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS 7 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 7 HD (50 FPS)
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="BEIN SPORTS 7 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS 7 HD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112159
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS 7 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 7 FHD (50 FPS)
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="BEIN SPORTS 7 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS 7 FHD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112089
-#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="|AR| BEIN SPORTS 8 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 8 HD (50 FPS)
+#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="BEIN SPORTS 8 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS 8 HD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112154
-#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="|AR| BEIN SPORTS 8 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 8 FHD (50 FPS)
+#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="BEIN SPORTS 8 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS 8 FHD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/45545
-#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="|AR| BEIN SPORTS 9 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 9 HD (50 FPS)
+#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="BEIN SPORTS 9 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS 9 HD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112156
-#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="|AR| BEIN SPORTS 9 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 9 FHD (50 FPS)
+#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="BEIN SPORTS 9 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS 9 FHD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/22393
-#EXTINF:-1 tvg-id="BeinSportsAFC.qa" tvg-name="|AR| BEIN SPORTS AFC FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS AFC FHD (50 FPS)
+#EXTINF:-1 tvg-id="BeinSportsAFC.qa" tvg-name="BEIN SPORTS AFC FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS AFC FHD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89274
-#EXTINF:-1 tvg-id="BeinSportsAFC1.qa" tvg-name="|AR| BEIN SPORTS AFC 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS AFC 1 FHD (50 FPS)
+#EXTINF:-1 tvg-id="BeinSportsAFC1.qa" tvg-name="BEIN SPORTS AFC 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS AFC 1 FHD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/43854
-#EXTINF:-1 tvg-id="beINSportsAFC2.qa" tvg-name="|AR| BEIN SPORTS AFC 2 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS AFC 2 FHD (50 FPS)
+#EXTINF:-1 tvg-id="beINSportsAFC2.qa" tvg-name="BEIN SPORTS AFC 2 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SPORTS AFC 2 FHD (50 FPS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/43853
-#EXTINF:-1 tvg-id="beINSportsGlobal.qa" tvg-name="|AR| BEIN SPORTS" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS HD
+#EXTINF:-1 tvg-id="beINSportsGlobal.qa" tvg-name="BEIN SPORTS" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN AR Sports",BEIN SPORTS HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1454
-#EXTINF:-1 tvg-id="beINSportsGlobal.qa" tvg-name="|AR| BEIN SPORTS" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS FHD
+#EXTINF:-1 tvg-id="beINSportsGlobal.qa" tvg-name="BEIN SPORTS" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN AR Sports",BEIN SPORTS FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/4412
-#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-name="|AR| ABU DHABI SPORTS 1" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/AD_Sports_1.png" group-title="AD SPORTS | STARZPLAY ARABIA",|AR| ABU DHABI SPORTS 1 HD
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-name="ABU DHABI SPORTS 1" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/AD_Sports_1.png" group-title="AD SPORTS | STARZPLAY ARABIA",ABU DHABI SPORTS 1 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1445
-#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-name="|AR| ABU DHABI SPORTS 1" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/AD_Sports_1.png" group-title="AD SPORTS | STARZPLAY ARABIA",|AR| ABU DHABI SPORTS 1 FHD
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-name="ABU DHABI SPORTS 1" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/AD_Sports_1.png" group-title="AD SPORTS | STARZPLAY ARABIA",ABU DHABI SPORTS 1 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/12675
-#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-name="|AR| ABU DHABI SPORTS 2" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/AD_Sports_2.png" group-title="AD SPORTS | STARZPLAY ARABIA",|AR| ABU DHABI SPORTS 2 HD
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-name="ABU DHABI SPORTS 2" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/AD_Sports_2.png" group-title="AD SPORTS | STARZPLAY ARABIA",ABU DHABI SPORTS 2 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/354
-#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-name="|AR| ABU DHABI SPORTS 2" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/AD_Sports_2.png" group-title="AD SPORTS | STARZPLAY ARABIA",|AR| ABU DHABI SPORTS 2 FHD
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-name="ABU DHABI SPORTS 2" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/AD_Sports_2.png" group-title="AD SPORTS | STARZPLAY ARABIA",ABU DHABI SPORTS 2 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1446
-#EXTINF:-1 tvg-id="AbuDhabiSports1PremiumAr.ae" tvg-name="|AR| ABU DHABI SPORT PREMIUM 1 HD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/hFM94yc.png" group-title="AD SPORTS | STARZPLAY ARABIA",|AR| ABU DHABI SPORT PREMIUM 1 HD (DOUBLE AUDIO)
+#EXTINF:-1 tvg-id="AbuDhabiSports1PremiumAr.ae" tvg-name="ABU DHABI SPORT PREMIUM 1 HD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/hFM94yc.png" group-title="AD SPORTS | STARZPLAY ARABIA",ABU DHABI SPORT PREMIUM 1 HD (DOUBLE AUDIO)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/91718
-#EXTINF:-1 tvg-id="AbuDhabiSports1PremiumAr.ae" tvg-name="|AR| ABU DHABI SPORT PREMIUM 1 FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/hFM94yc.png" group-title="AD SPORTS | STARZPLAY ARABIA",|AR| ABU DHABI SPORT PREMIUM 1 FHD (DOUBLE AUDIO)
+#EXTINF:-1 tvg-id="AbuDhabiSports1PremiumAr.ae" tvg-name="ABU DHABI SPORT PREMIUM 1 FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/hFM94yc.png" group-title="AD SPORTS | STARZPLAY ARABIA",ABU DHABI SPORT PREMIUM 1 FHD (DOUBLE AUDIO)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2365
-#EXTINF:-1 tvg-id="AbuDhabiSports2PremiumAr.ae" tvg-name="|AR| ABU DHABI SPORT PREMIUM 2 HD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/uUDR1Pj.png" group-title="AD SPORTS | STARZPLAY ARABIA",|AR| ABU DHABI SPORT PREMIUM 2 HD (DOUBLE AUDIO)
+#EXTINF:-1 tvg-id="AbuDhabiSports2PremiumAr.ae" tvg-name="ABU DHABI SPORT PREMIUM 2 HD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/uUDR1Pj.png" group-title="AD SPORTS | STARZPLAY ARABIA",ABU DHABI SPORT PREMIUM 2 HD (DOUBLE AUDIO)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/91719
-#EXTINF:-1 tvg-id="AbuDhabiSports2PremiumAr.ae" tvg-name="|AR| ABU DHABI SPORT PREMIUM 2 FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/uUDR1Pj.png" group-title="AD SPORTS | STARZPLAY ARABIA",|AR| ABU DHABI SPORT PREMIUM 2 FHD (DOUBLE AUDIO)
+#EXTINF:-1 tvg-id="AbuDhabiSports2PremiumAr.ae" tvg-name="ABU DHABI SPORT PREMIUM 2 FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/uUDR1Pj.png" group-title="AD SPORTS | STARZPLAY ARABIA",ABU DHABI SPORT PREMIUM 2 FHD (DOUBLE AUDIO)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2366
-#EXTINF:-1 tvg-id="" tvg-name="|AR| STARZ PLAY SPORT" tvg-logo="https://i.imgur.com/LGmjjWk.png" group-title="AD SPORTS | STARZPLAY ARABIA",|AR| STARZ PLAY SPORT HD
+#EXTINF:-1 tvg-id="" tvg-name="STARZ PLAY SPORT" tvg-logo="https://i.imgur.com/LGmjjWk.png" group-title="AD SPORTS | STARZPLAY ARABIA",STARZ PLAY SPORT HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112500
-#EXTINF:-1 tvg-id="" tvg-name="|AR| STARZ PLAY SPORT" tvg-logo="https://i.imgur.com/LGmjjWk.png" group-title="AD SPORTS | STARZPLAY ARABIA",|AR| STARZ PLAY SPORT FHD
+#EXTINF:-1 tvg-id="" tvg-name="STARZ PLAY SPORT" tvg-logo="https://i.imgur.com/LGmjjWk.png" group-title="AD SPORTS | STARZPLAY ARABIA",STARZ PLAY SPORT FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112557
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ABU DHABI SPORT ASIA 1" tvg-logo="" group-title="AD SPORTS | STARZPLAY ARABIA",|AR| ABU DHABI SPORT ASIA 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ABU DHABI SPORT ASIA 1" tvg-logo="" group-title="AD SPORTS | STARZPLAY ARABIA",ABU DHABI SPORT ASIA 1 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112086
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ABU DHABI SPORT ASIA 2" tvg-logo="" group-title="AD SPORTS | STARZPLAY ARABIA",|AR| ABU DHABI SPORT ASIA 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ABU DHABI SPORT ASIA 2" tvg-logo="" group-title="AD SPORTS | STARZPLAY ARABIA",ABU DHABI SPORT ASIA 2 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112083
-#EXTINF:-1 tvg-id="" tvg-name="|AR| CRIC LIFE 1" tvg-logo="https://i.imgur.com/CO9m6Tc.png" group-title="AD SPORTS | STARZPLAY ARABIA",|AR| CRIC LIFE 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CRIC LIFE 1" tvg-logo="https://i.imgur.com/CO9m6Tc.png" group-title="AD SPORTS | STARZPLAY ARABIA",CRIC LIFE 1 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112556
-#EXTINF:-1 tvg-id="" tvg-name="|AR| CRIC LIFE 2" tvg-logo="https://i.imgur.com/o5yJxsz.png" group-title="AD SPORTS | STARZPLAY ARABIA",|AR| CRIC LIFE 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CRIC LIFE 2" tvg-logo="https://i.imgur.com/o5yJxsz.png" group-title="AD SPORTS | STARZPLAY ARABIA",CRIC LIFE 2 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112475
-#EXTINF:-1 tvg-id="" tvg-name="|AR| THMANYAH 1" tvg-logo="https://i.imgur.com/18cUvw8.png" group-title="THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| THMANYAH 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="THMANYAH 1" tvg-logo="https://i.imgur.com/18cUvw8.png" group-title="THMANYAH ARABE ( SAUDI PRO LEAGUE)",THMANYAH 1 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112576
-#EXTINF:-1 tvg-id="" tvg-name="|AR| THMANYAH 1" tvg-logo="https://i.imgur.com/18cUvw8.png" group-title="THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| THMANYAH 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="THMANYAH 1" tvg-logo="https://i.imgur.com/18cUvw8.png" group-title="THMANYAH ARABE ( SAUDI PRO LEAGUE)",THMANYAH 1 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112579
-#EXTINF:-1 tvg-id="" tvg-name="|AR| THMANYAH 2" tvg-logo="https://i.imgur.com/18cUvw8.png" group-title="THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| THMANYAH 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="THMANYAH 2" tvg-logo="https://i.imgur.com/18cUvw8.png" group-title="THMANYAH ARABE ( SAUDI PRO LEAGUE)",THMANYAH 2 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112381
-#EXTINF:-1 tvg-id="" tvg-name="|AR| THMANYAH 2" tvg-logo="https://i.imgur.com/18cUvw8.png" group-title="THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| THMANYAH 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="THMANYAH 2" tvg-logo="https://i.imgur.com/18cUvw8.png" group-title="THMANYAH ARABE ( SAUDI PRO LEAGUE)",THMANYAH 2 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112382
-#EXTINF:-1 tvg-id="" tvg-name="|AR| THMANYAH 3" tvg-logo="https://i.imgur.com/18cUvw8.png" group-title="THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| THMANYAH 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="THMANYAH 3" tvg-logo="https://i.imgur.com/18cUvw8.png" group-title="THMANYAH ARABE ( SAUDI PRO LEAGUE)",THMANYAH 3 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/4373
-#EXTINF:-1 tvg-id="" tvg-name="|AR| THMANYAH 3" tvg-logo="https://i.imgur.com/18cUvw8.png" group-title="THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| THMANYAH 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="THMANYAH 3" tvg-logo="https://i.imgur.com/18cUvw8.png" group-title="THMANYAH ARABE ( SAUDI PRO LEAGUE)",THMANYAH 3 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7056
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC NEWS" tvg-logo="https://i.imgur.com/EUcANNQ.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SSC NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="SSC NEWS" tvg-logo="https://i.imgur.com/EUcANNQ.png" group-title="SHAHID | SSC SPORTS (Arabic)",SSC NEWS HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89981
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC NEWS" tvg-logo="https://i.imgur.com/EUcANNQ.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SSC NEWS FHD
+#EXTINF:-1 tvg-id="" tvg-name="SSC NEWS" tvg-logo="https://i.imgur.com/EUcANNQ.png" group-title="SHAHID | SSC SPORTS (Arabic)",SSC NEWS FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/100977
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC 1" tvg-logo="https://i.imgur.com/cjHQoau.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SSC 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1" tvg-logo="https://i.imgur.com/cjHQoau.png" group-title="SHAHID | SSC SPORTS (Arabic)",SSC 1 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/69191
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC 1" tvg-logo="https://i.imgur.com/cjHQoau.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SSC 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1" tvg-logo="https://i.imgur.com/cjHQoau.png" group-title="SHAHID | SSC SPORTS (Arabic)",SSC 1 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/513
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC 2" tvg-logo="https://i.imgur.com/Ur5qwmJ.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SSC 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="SSC 2" tvg-logo="https://i.imgur.com/Ur5qwmJ.png" group-title="SHAHID | SSC SPORTS (Arabic)",SSC 2 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/69190
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC 2" tvg-logo="https://i.imgur.com/Ur5qwmJ.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SSC 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="SSC 2" tvg-logo="https://i.imgur.com/Ur5qwmJ.png" group-title="SHAHID | SSC SPORTS (Arabic)",SSC 2 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/104975
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC 3" tvg-logo="https://i.imgur.com/z1IQbda.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SSC 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="SSC 3" tvg-logo="https://i.imgur.com/z1IQbda.png" group-title="SHAHID | SSC SPORTS (Arabic)",SSC 3 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/61449
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC 3" tvg-logo="https://i.imgur.com/z1IQbda.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SSC 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="SSC 3" tvg-logo="https://i.imgur.com/z1IQbda.png" group-title="SHAHID | SSC SPORTS (Arabic)",SSC 3 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/3623
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC 4" tvg-logo="https://i.imgur.com/mdBYQCG.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SSC 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4" tvg-logo="https://i.imgur.com/mdBYQCG.png" group-title="SHAHID | SSC SPORTS (Arabic)",SSC 4 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/61469
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC 4" tvg-logo="https://i.imgur.com/mdBYQCG.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SSC 4 FHD
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4" tvg-logo="https://i.imgur.com/mdBYQCG.png" group-title="SHAHID | SSC SPORTS (Arabic)",SSC 4 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2005
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC 5" tvg-logo="https://i.imgur.com/NmMhZPP.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SSC 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="SSC 5" tvg-logo="https://i.imgur.com/NmMhZPP.png" group-title="SHAHID | SSC SPORTS (Arabic)",SSC 5 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/26470
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC 5" tvg-logo="https://i.imgur.com/NmMhZPP.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SSC 5 FHD
+#EXTINF:-1 tvg-id="" tvg-name="SSC 5" tvg-logo="https://i.imgur.com/NmMhZPP.png" group-title="SHAHID | SSC SPORTS (Arabic)",SSC 5 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/19660
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC EXTRA 1" tvg-logo="https://i.imgur.com/sIbOLt7.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SSC EXTRA 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA 1" tvg-logo="https://i.imgur.com/sIbOLt7.png" group-title="SHAHID | SSC SPORTS (Arabic)",SSC EXTRA 1 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/16095
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC EXTRA 1" tvg-logo="https://i.imgur.com/sIbOLt7.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SSC EXTRA 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA 1" tvg-logo="https://i.imgur.com/sIbOLt7.png" group-title="SHAHID | SSC SPORTS (Arabic)",SSC EXTRA 1 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2013
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC EXTRA 2" tvg-logo="https://i.imgur.com/qSCoSVj.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SSC EXTRA 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA 2" tvg-logo="https://i.imgur.com/qSCoSVj.png" group-title="SHAHID | SSC SPORTS (Arabic)",SSC EXTRA 2 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7094
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC EXTRA 2" tvg-logo="https://i.imgur.com/qSCoSVj.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SSC EXTRA 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA 2" tvg-logo="https://i.imgur.com/qSCoSVj.png" group-title="SHAHID | SSC SPORTS (Arabic)",SSC EXTRA 2 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/650
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC EXTRA 3" tvg-logo="https://i.imgur.com/sUdotJt.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SSC EXTRA 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA 3" tvg-logo="https://i.imgur.com/sUdotJt.png" group-title="SHAHID | SSC SPORTS (Arabic)",SSC EXTRA 3 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1470
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC EXTRA 3" tvg-logo="https://i.imgur.com/sUdotJt.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SSC EXTRA 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA 3" tvg-logo="https://i.imgur.com/sUdotJt.png" group-title="SHAHID | SSC SPORTS (Arabic)",SSC EXTRA 3 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42016
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID SPORTS 1" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SHAHID SPORTS 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID SPORTS 1" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | SSC SPORTS (Arabic)",SHAHID SPORTS 1 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/101046
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID SPORTS 1" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SHAHID SPORTS 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID SPORTS 1" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | SSC SPORTS (Arabic)",SHAHID SPORTS 1 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/101038
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID SPORTS 2" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SHAHID SPORTS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID SPORTS 2" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | SSC SPORTS (Arabic)",SHAHID SPORTS 2 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/101020
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID SPORTS 2" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SHAHID SPORTS 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID SPORTS 2" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | SSC SPORTS (Arabic)",SHAHID SPORTS 2 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/100848
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID SPORTS 3" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SHAHID SPORTS 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID SPORTS 3" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | SSC SPORTS (Arabic)",SHAHID SPORTS 3 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/12204
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID SPORTS 3" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SHAHID SPORTS 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID SPORTS 3" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | SSC SPORTS (Arabic)",SHAHID SPORTS 3 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/13261
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID SPORTS 4" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SHAHID SPORTS 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID SPORTS 4" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | SSC SPORTS (Arabic)",SHAHID SPORTS 4 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/100816
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID SPORTS 4" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SHAHID SPORTS 4 FHD
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID SPORTS 4" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | SSC SPORTS (Arabic)",SHAHID SPORTS 4 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/100866
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID SPORTS 5" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SHAHID SPORTS 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID SPORTS 5" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | SSC SPORTS (Arabic)",SHAHID SPORTS 5 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/69198
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID SPORTS 5" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SHAHID SPORTS 5 FHD
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID SPORTS 5" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | SSC SPORTS (Arabic)",SHAHID SPORTS 5 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/100803
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ASHARQ DOCUMENTARY" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| ASHARQ DOCUMENTARY HD
+#EXTINF:-1 tvg-id="" tvg-name="ASHARQ DOCUMENTARY" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",ASHARQ DOCUMENTARY HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112421
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ASHARQ DOCUMENTARY" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| ASHARQ DOCUMENTARY FHD
+#EXTINF:-1 tvg-id="" tvg-name="ASHARQ DOCUMENTARY" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",ASHARQ DOCUMENTARY FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2018
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ASHARQ DISCOVERY" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| ASHARQ DISCOVERY HD
+#EXTINF:-1 tvg-id="" tvg-name="ASHARQ DISCOVERY" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",ASHARQ DISCOVERY HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112422
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ASHARQ DISCOVERY" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| ASHARQ DISCOVERY FHD
+#EXTINF:-1 tvg-id="" tvg-name="ASHARQ DISCOVERY" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",ASHARQ DISCOVERY FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2014
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROYA ست النكهات" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| ROYA ست النكهات FHD
+#EXTINF:-1 tvg-id="" tvg-name="ROYA ست النكهات" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",ROYA ست النكهات FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/111839
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROYA شيف مان" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| ROYA شيف مان FHD
+#EXTINF:-1 tvg-id="" tvg-name="ROYA شيف مان" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",ROYA شيف مان FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112005
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROYA ZESTE" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| ROYA ZESTE FHD
+#EXTINF:-1 tvg-id="" tvg-name="ROYA ZESTE" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",ROYA ZESTE FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112278
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROYA طبخ ونفخ" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| ROYA طبخ ونفخ FHD
+#EXTINF:-1 tvg-id="" tvg-name="ROYA طبخ ونفخ" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",ROYA طبخ ونفخ FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/111976
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROYA مطبخ" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| ROYA مطبخ FHD
+#EXTINF:-1 tvg-id="" tvg-name="ROYA مطبخ" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",ROYA مطبخ FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112239
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROYA TV" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| ROYA TV HD
+#EXTINF:-1 tvg-id="" tvg-name="ROYA TV" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",ROYA TV HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/22635
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROYA ORIGINAL PRODUCTION" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| ROYA ORIGINAL PRODUCTION FHD
+#EXTINF:-1 tvg-id="" tvg-name="ROYA ORIGINAL PRODUCTION" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",ROYA ORIGINAL PRODUCTION FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112592
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROYA MARAYA" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| ROYA MARAYA FHD
+#EXTINF:-1 tvg-id="" tvg-name="ROYA MARAYA" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",ROYA MARAYA FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112554
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROYA ACTION" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| ROYA ACTION FHD
+#EXTINF:-1 tvg-id="" tvg-name="ROYA ACTION" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",ROYA ACTION FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112545
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROYA JELTA" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| ROYA JELTA FHD
+#EXTINF:-1 tvg-id="" tvg-name="ROYA JELTA" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",ROYA JELTA FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112544
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROYA KIDS ORIGINAL" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| ROYA KIDS ORIGINAL FHD
+#EXTINF:-1 tvg-id="" tvg-name="ROYA KIDS ORIGINAL" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",ROYA KIDS ORIGINAL FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2027
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID TOP CHEF" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SHAHID TOP CHEF FHD
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID TOP CHEF" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",SHAHID TOP CHEF FHD
 https://cdxaws-ak.akamaized.net/v1/channel/Top-Chef/index_hls/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID TOP GUEAR" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SHAHID TOP GUEAR FHD
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID TOP GUEAR" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",SHAHID TOP GUEAR FHD
 https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID FEEL GOOD MOVIES" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SHAHID FEEL GOOD MOVIES FHD
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID FEEL GOOD MOVIES" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",SHAHID FEEL GOOD MOVIES FHD
 https://cdxaws-ak.akamaized.net/v1/channel/Feel_Good_Movies/index_hls/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID RAMEZ" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SHAHID RAMEZ FHD
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID RAMEZ" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",SHAHID RAMEZ FHD
 https://cdxaws-ak.akamaized.net/v1/channel/Ramez/index_hls/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID NATURE TIME" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SHAHID NATURE TIME FHD
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID NATURE TIME" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",SHAHID NATURE TIME FHD
 https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID ADEL EMAM" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SHAHID ADEL EMAM FHD
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID ADEL EMAM" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",SHAHID ADEL EMAM FHD
 https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID BAB AL HARA" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SHAHID BAB AL HARA FHD
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID BAB AL HARA" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",SHAHID BAB AL HARA FHD
 https://shls-live-ak.akamaized.net/out/v1/948c54279b594944adde578c95f1d7d1/index_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID WWE" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SHAHID WWE FHD
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID WWE" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",SHAHID WWE FHD
 https://cdxaws-ak.akamaized.net/v1/channel/WWE/index_hls/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 1" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| KSA SPORTS 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 1" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",KSA SPORTS 1 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42069
-#EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 2" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| KSA SPORTS 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 2" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",KSA SPORTS 2 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42070
-#EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 3" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| KSA SPORTS 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 3" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",KSA SPORTS 3 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42071
-#EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 4" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| KSA SPORTS 4 FHD
+#EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 4" tvg-logo="" group-title="SHAHID | SSC SPORTS (Arabic)",KSA SPORTS 4 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42072
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SBC" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/sbc-ae.png" group-title="SHAHID | SSC SPORTS (Arabic)",|AR| SBC FHD
+#EXTINF:-1 tvg-id="" tvg-name="SBC" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/sbc-ae.png" group-title="SHAHID | SSC SPORTS (Arabic)",SBC FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/90004
-#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="|AR| MBC 1" tvg-logo="https://i.imgur.com/YO6kFsp.png" group-title="ARABES  ( العربية)",|AR| MBC 1
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="MBC 1" tvg-logo="https://i.imgur.com/YO6kFsp.png" group-title="ARABES  ( العربية)",MBC 1
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1786
-#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="|AR| MBC 1" tvg-logo="https://i.imgur.com/YO6kFsp.png" group-title="ARABES  ( العربية)",|AR| MBC 1 FHD
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="MBC 1" tvg-logo="https://i.imgur.com/YO6kFsp.png" group-title="ARABES  ( العربية)",MBC 1 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89992
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="|AR| MBC 2" tvg-logo="https://i.imgur.com/WBh4NGJ.png" group-title="ARABES  ( العربية)",|AR| MBC 2
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2" tvg-logo="https://i.imgur.com/WBh4NGJ.png" group-title="ARABES  ( العربية)",MBC 2
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1787
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MBC 3" tvg-logo="https://i.imgur.com/qygieMO.png" group-title="ARABES  ( العربية)",|AR| MBC 3
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://i.imgur.com/qygieMO.png" group-title="ARABES  ( العربية)",MBC 3
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1788
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MBC 3" tvg-logo="https://i.imgur.com/qygieMO.png" group-title="ARABES  ( العربية)",|AR| MBC 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://i.imgur.com/qygieMO.png" group-title="ARABES  ( العربية)",MBC 3 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89993
-#EXTINF:-1 tvg-id="MBC4.sa" tvg-name="|AR| MBC 4" tvg-logo="https://i.imgur.com/ItBKYL1.png" group-title="ARABES  ( العربية)",|AR| MBC 4
+#EXTINF:-1 tvg-id="MBC4.sa" tvg-name="MBC 4" tvg-logo="https://i.imgur.com/ItBKYL1.png" group-title="ARABES  ( العربية)",MBC 4
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1789
-#EXTINF:-1 tvg-id="MBC4.sa" tvg-name="|AR| MBC 4" tvg-logo="https://i.imgur.com/ItBKYL1.png" group-title="ARABES  ( العربية)",|AR| MBC 4 FHD
+#EXTINF:-1 tvg-id="MBC4.sa" tvg-name="MBC 4" tvg-logo="https://i.imgur.com/ItBKYL1.png" group-title="ARABES  ( العربية)",MBC 4 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/90161
-#EXTINF:-1 tvg-id="MBC5.ae" tvg-name="|AR| MBC 5" tvg-logo="https://i.imgur.com/XotBHFv.png" group-title="ARABES  ( العربية)",|AR| MBC 5
+#EXTINF:-1 tvg-id="MBC5.ae" tvg-name="MBC 5" tvg-logo="https://i.imgur.com/XotBHFv.png" group-title="ARABES  ( العربية)",MBC 5
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/658
-#EXTINF:-1 tvg-id="MBC5.ae" tvg-name="|AR| MBC 5" tvg-logo="https://i.imgur.com/XotBHFv.png" group-title="ARABES  ( العربية)",|AR| MBC 5 FHD
+#EXTINF:-1 tvg-id="MBC5.ae" tvg-name="MBC 5" tvg-logo="https://i.imgur.com/XotBHFv.png" group-title="ARABES  ( العربية)",MBC 5 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89995
-#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="|AR| MBC ACTION" tvg-logo="https://i.imgur.com/I4z3F0j.png" group-title="ARABES  ( العربية)",|AR| MBC ACTION
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC ACTION" tvg-logo="https://i.imgur.com/I4z3F0j.png" group-title="ARABES  ( العربية)",MBC ACTION
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/521
-#EXTINF:-1 tvg-id="MBCBollywood.sa" tvg-name="|AR| MBC BOLLYWOOD" tvg-logo="https://i.imgur.com/xJMUYpD.png" group-title="ARABES  ( العربية)",|AR| MBC BOLLYWOOD
+#EXTINF:-1 tvg-id="MBCBollywood.sa" tvg-name="MBC BOLLYWOOD" tvg-logo="https://i.imgur.com/xJMUYpD.png" group-title="ARABES  ( العربية)",MBC BOLLYWOOD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/320
-#EXTINF:-1 tvg-id="MBCBollywood.sa" tvg-name="|AR| MBC BOLLYWOOD" tvg-logo="https://i.imgur.com/xJMUYpD.png" group-title="ARABES  ( العربية)",|AR| MBC BOLLYWOOD FHD
+#EXTINF:-1 tvg-id="MBCBollywood.sa" tvg-name="MBC BOLLYWOOD" tvg-logo="https://i.imgur.com/xJMUYpD.png" group-title="ARABES  ( العربية)",MBC BOLLYWOOD FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/90162
-#EXTINF:-1 tvg-id="MBCDramaEn.ae" tvg-name="|AR| MBC DRAMA" tvg-logo="https://i.imgur.com/ae0YnDx.png" group-title="ARABES  ( العربية)",|AR| MBC DRAMA
+#EXTINF:-1 tvg-id="MBCDramaEn.ae" tvg-name="MBC DRAMA" tvg-logo="https://i.imgur.com/ae0YnDx.png" group-title="ARABES  ( العربية)",MBC DRAMA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/215
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MBC IRAQ" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/mbc-iraq-ae.png" group-title="ARABES  ( العربية)",|AR| MBC IRAQ HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/mbc-iraq-ae.png" group-title="ARABES  ( العربية)",MBC IRAQ HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42093
 #EXTINF:-1 tvg-id="" tvg-name="▀▄ AR ▀▄▀▄▀▄  MY HD ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",▀▄ AR ▀▄▀▄▀▄  MY HD ▄▀▄▀▄▀
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7025
-#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="|AR| MBC 1" tvg-logo="https://i.imgur.com/YO6kFsp.png" group-title="OSN & MY HD (Arabic)",|AR| MBC 1 HD
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="MBC 1" tvg-logo="https://i.imgur.com/YO6kFsp.png" group-title="OSN & MY HD (Arabic)",MBC 1 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/94
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="|AR| MBC 2" tvg-logo="https://i.imgur.com/WBh4NGJ.png" group-title="OSN & MY HD (Arabic)",|AR| MBC 2 HD
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2" tvg-logo="https://i.imgur.com/WBh4NGJ.png" group-title="OSN & MY HD (Arabic)",MBC 2 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/109
-#EXTINF:-1 tvg-id="MBC3Ar.ae" tvg-name="|AR| MBC 3" tvg-logo="https://i.imgur.com/qygieMO.png" group-title="OSN & MY HD (Arabic)",|AR| MBC 3 HD
+#EXTINF:-1 tvg-id="MBC3Ar.ae" tvg-name="MBC 3" tvg-logo="https://i.imgur.com/qygieMO.png" group-title="OSN & MY HD (Arabic)",MBC 3 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/110
-#EXTINF:-1 tvg-id="MBC4En.sa" tvg-name="|AR| MBC 4" tvg-logo="https://i.imgur.com/ItBKYL1.png" group-title="OSN & MY HD (Arabic)",|AR| MBC 4 HD
+#EXTINF:-1 tvg-id="MBC4En.sa" tvg-name="MBC 4" tvg-logo="https://i.imgur.com/ItBKYL1.png" group-title="OSN & MY HD (Arabic)",MBC 4 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/319
-#EXTINF:-1 tvg-id="MBC5.ae" tvg-name="|AR| MBC 5 FHD+" tvg-logo="https://i.imgur.com/XotBHFv.png" group-title="OSN & MY HD (Arabic)",|AR| MBC 5 FHD+
+#EXTINF:-1 tvg-id="MBC5.ae" tvg-name="MBC 5 FHD+" tvg-logo="https://i.imgur.com/XotBHFv.png" group-title="OSN & MY HD (Arabic)",MBC 5 FHD+
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42091
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MBC IRAQ" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/mbc-iraq-ae.png" group-title="ARABES  ( العربية)",|AR| MBC IRAQ FHD
+#EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/mbc-iraq-ae.png" group-title="ARABES  ( العربية)",MBC IRAQ FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89987
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MBC IRAQ FHD+" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/mbc-iraq-ae.png" group-title="ARABES  ( العربية)",|AR| MBC IRAQ FHD+
+#EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ FHD+" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/mbc-iraq-ae.png" group-title="ARABES  ( العربية)",MBC IRAQ FHD+
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42092
-#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="|AR| MBC ACTION" tvg-logo="https://i.imgur.com/I4z3F0j.png" group-title="OSN & MY HD (Arabic)",|AR| MBC ACTION HD
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC ACTION" tvg-logo="https://i.imgur.com/I4z3F0j.png" group-title="OSN & MY HD (Arabic)",MBC ACTION HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2852
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MBC PERSIA" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/mbc-persia-ae.png" group-title="OSN & MY HD (Arabic)",|AR| MBC PERSIA HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC PERSIA" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/mbc-persia-ae.png" group-title="OSN & MY HD (Arabic)",MBC PERSIA HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/22401
-#EXTINF:-1 tvg-id="MBCDramaEn.ae" tvg-name="|AR| MBC DRAMA" tvg-logo="https://i.imgur.com/ae0YnDx.png" group-title="OSN & MY HD (Arabic)",|AR| MBC DRAMA FHD
+#EXTINF:-1 tvg-id="MBCDramaEn.ae" tvg-name="MBC DRAMA" tvg-logo="https://i.imgur.com/ae0YnDx.png" group-title="OSN & MY HD (Arabic)",MBC DRAMA FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2269
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="|AR| MBC FM" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| MBC FM HD
+#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="MBC FM" tvg-logo="" group-title="OSN & MY HD (Arabic)",MBC FM HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/22399
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MBC FM" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MBC FM FHD
+#EXTINF:-1 tvg-id="" tvg-name="MBC FM" tvg-logo="" group-title="ARABES  ( العربية)",MBC FM FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89986
-#EXTINF:-1 tvg-id="MbcMasr.eg" tvg-name="|AR| MBC MASR 1" tvg-logo="https://i.imgur.com/3GTiYWF.png" group-title="OSN & MY HD (Arabic)",|AR| MBC MASR 1 HD
+#EXTINF:-1 tvg-id="MbcMasr.eg" tvg-name="MBC MASR 1" tvg-logo="https://i.imgur.com/3GTiYWF.png" group-title="OSN & MY HD (Arabic)",MBC MASR 1 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/22397
-#EXTINF:-1 tvg-id="MbcMasr.eg" tvg-name="|AR| MBC MASR" tvg-logo="https://i.imgur.com/3GTiYWF.png" group-title="ARABES  ( العربية)",|AR| MBC MASR FHD
+#EXTINF:-1 tvg-id="MbcMasr.eg" tvg-name="MBC MASR" tvg-logo="https://i.imgur.com/3GTiYWF.png" group-title="ARABES  ( العربية)",MBC MASR FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89988
-#EXTINF:-1 tvg-id="MbcMasr2.eg" tvg-name="|AR| MBC MASR 2" tvg-logo="https://i.imgur.com/2kbbTap.png" group-title="OSN & MY HD (Arabic)",|AR| MBC MASR 2 HD
+#EXTINF:-1 tvg-id="MbcMasr2.eg" tvg-name="MBC MASR 2" tvg-logo="https://i.imgur.com/2kbbTap.png" group-title="OSN & MY HD (Arabic)",MBC MASR 2 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/22396
-#EXTINF:-1 tvg-id="MbcMasr2.eg" tvg-name="|AR| MBC MASR 2" tvg-logo="https://i.imgur.com/2kbbTap.png" group-title="ARABES  ( العربية)",|AR| MBC MASR 2 FHD
+#EXTINF:-1 tvg-id="MbcMasr2.eg" tvg-name="MBC MASR 2" tvg-logo="https://i.imgur.com/2kbbTap.png" group-title="ARABES  ( العربية)",MBC MASR 2 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89989
-#EXTINF:-1 tvg-id="MBCBollywood.sa" tvg-name="|AR| MBC BOLLYWOOD" tvg-logo="https://i.imgur.com/xJMUYpD.png" group-title="OSN & MY HD (Arabic)",|AR| MBC BOLLYWOOD HD
+#EXTINF:-1 tvg-id="MBCBollywood.sa" tvg-name="MBC BOLLYWOOD" tvg-logo="https://i.imgur.com/xJMUYpD.png" group-title="OSN & MY HD (Arabic)",MBC BOLLYWOOD HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/22394
-#EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-name="|AR| MBC DRAMA PLUS" tvg-logo="https://i.imgur.com/1V2ryze.png" group-title="OSN & MY HD (Arabic)",|AR| MBC DRAMA PLUS HD
+#EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-name="MBC DRAMA PLUS" tvg-logo="https://i.imgur.com/1V2ryze.png" group-title="OSN & MY HD (Arabic)",MBC DRAMA PLUS HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/616
-#EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-name="|AR| MBC DRAMA PLUS" tvg-logo="https://i.imgur.com/1V2ryze.png" group-title="ARABES  ( العربية)",|AR| MBC DRAMA PLUS FHD
+#EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-name="MBC DRAMA PLUS" tvg-logo="https://i.imgur.com/1V2ryze.png" group-title="ARABES  ( العربية)",MBC DRAMA PLUS FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89991
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MBC MASR DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MBC MASR DRAMA HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",MBC MASR DRAMA HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/600
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MBC MASR DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MBC MASR DRAMA FHD
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",MBC MASR DRAMA FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/90002
-#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="|AR| MBC MAX" tvg-logo="https://i.imgur.com/B22r6Zq.png" group-title="OSN & MY HD (Arabic)",|AR| MBC MAX HD
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC MAX" tvg-logo="https://i.imgur.com/B22r6Zq.png" group-title="OSN & MY HD (Arabic)",MBC MAX HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/321
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MBC PERSIA" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/mbc-persia-ae.png" group-title="ARABES  ( العربية)",|AR| MBC PERSIA FHD
+#EXTINF:-1 tvg-id="" tvg-name="MBC PERSIA" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/mbc-persia-ae.png" group-title="ARABES  ( العربية)",MBC PERSIA FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89990
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MIX ONE" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MIX ONE
+#EXTINF:-1 tvg-id="" tvg-name="MIX ONE" tvg-logo="" group-title="ARABES  ( العربية)",MIX ONE
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112042
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MIX BEL ARABY" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MIX BEL ARABY
+#EXTINF:-1 tvg-id="" tvg-name="MIX BEL ARABY" tvg-logo="" group-title="ARABES  ( العربية)",MIX BEL ARABY
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112037
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MIX HOLLYWOOD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MIX HOLLYWOOD
+#EXTINF:-1 tvg-id="" tvg-name="MIX HOLLYWOOD" tvg-logo="" group-title="ARABES  ( العربية)",MIX HOLLYWOOD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/111959
-#EXTINF:-1 tvg-id="" tvg-name="|AR| WANASA" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/wanasah-ae.png" group-title="ARABES  ( العربية)",|AR| WANASA FHD
+#EXTINF:-1 tvg-id="" tvg-name="WANASA" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/wanasah-ae.png" group-title="ARABES  ( العربية)",WANASA FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/90007
-#EXTINF:-1 tvg-id="MbcWanasahAr.eg" tvg-name="|AR| MBC WANASAH" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/wanasah-ae.png" group-title="OSN & MY HD (Arabic)",|AR| MBC WANASAH HD
+#EXTINF:-1 tvg-id="MbcWanasahAr.eg" tvg-name="MBC WANASAH" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/wanasah-ae.png" group-title="OSN & MY HD (Arabic)",MBC WANASAH HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/22400
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MY HD MBC VARIETY" tvg-logo="https://i.imgur.com/S5J9MNz.png" group-title="OSN & MY HD (Arabic)",|AR| MY HD MBC VARIETY HD
+#EXTINF:-1 tvg-id="" tvg-name="MY HD MBC VARIETY" tvg-logo="https://i.imgur.com/S5J9MNz.png" group-title="OSN & MY HD (Arabic)",MY HD MBC VARIETY HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2256
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MY HD FOX LIFE" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| MY HD FOX LIFE HD
+#EXTINF:-1 tvg-id="" tvg-name="MY HD FOX LIFE" tvg-logo="" group-title="OSN & MY HD (Arabic)",MY HD FOX LIFE HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7039
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MY HD DISCOVERY SCIENCE" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| MY HD DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-id="" tvg-name="MY HD DISCOVERY SCIENCE" tvg-logo="" group-title="OSN & MY HD (Arabic)",MY HD DISCOVERY SCIENCE HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7027
-#EXTINF:-1 tvg-id="BeinSports1EnEn.qa" tvg-name="|AR| BEIN SPORTS 1 ENGLISH" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 1 ENGLISH FHD
+#EXTINF:-1 tvg-id="BeinSports1EnEn.qa" tvg-name="BEIN SPORTS 1 ENGLISH" tvg-logo="" group-title="BeIN AR Sports",BEIN SPORTS 1 ENGLISH FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/26511
-#EXTINF:-1 tvg-id="BeinSports2EnEn.qa" tvg-name="|AR| BEIN SPORTS 2 ENGLISH" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 2 ENGLISH FHD
+#EXTINF:-1 tvg-id="BeinSports2EnEn.qa" tvg-name="BEIN SPORTS 2 ENGLISH" tvg-logo="" group-title="BeIN AR Sports",BEIN SPORTS 2 ENGLISH FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/3032
-#EXTINF:-1 tvg-id="BeinSports3EnEn.qa" tvg-name="|AR| BEIN SPORTS 3 ENGLISH" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 3 ENGLISH FHD
+#EXTINF:-1 tvg-id="BeinSports3EnEn.qa" tvg-name="BEIN SPORTS 3 ENGLISH" tvg-logo="" group-title="BeIN AR Sports",BEIN SPORTS 3 ENGLISH FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89275
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS AFC" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS AFC HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC" tvg-logo="" group-title="BeIN AR Sports",BEIN SPORTS AFC HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89260
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS AFC 2" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS AFC 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 2" tvg-logo="" group-title="BeIN AR Sports",BEIN SPORTS AFC 2 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89269
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS AFC 1" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS AFC 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 1" tvg-logo="" group-title="BeIN AR Sports",BEIN SPORTS AFC 1 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89266
-#EXTINF:-1 tvg-id="Drama.qa" tvg-name="|AR| BEIN DRAMA 1" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN DRAMA 1 FHD
+#EXTINF:-1 tvg-id="Drama.qa" tvg-name="BEIN DRAMA 1" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN DRAMA 1 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112030
-#EXTINF:-1 tvg-id="beINMovies1.qa" tvg-name="|AR| BEIN MOVIES 1" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN MOVIES 1 HD
+#EXTINF:-1 tvg-id="beINMovies1.qa" tvg-name="BEIN MOVIES 1" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN MOVIES 1 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/111
-#EXTINF:-1 tvg-id="beINMovies1.qa" tvg-name="|AR| BEIN MOVIES 1 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN MOVIES 1 FHD (EXCLUS)
+#EXTINF:-1 tvg-id="beINMovies1.qa" tvg-name="BEIN MOVIES 1 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN MOVIES 1 FHD (EXCLUS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/69350
-#EXTINF:-1 tvg-id="beINMovies2.qa" tvg-name="|AR| BEIN MOVIES 2" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN MOVIES 2 HD
+#EXTINF:-1 tvg-id="beINMovies2.qa" tvg-name="BEIN MOVIES 2" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN MOVIES 2 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/346
-#EXTINF:-1 tvg-id="beINMovies2.qa" tvg-name="|AR| BEIN MOVIES 2 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN MOVIES 2 FHD (EXCLUS)
+#EXTINF:-1 tvg-id="beINMovies2.qa" tvg-name="BEIN MOVIES 2 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN MOVIES 2 FHD (EXCLUS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/43850
-#EXTINF:-1 tvg-id="beINMovies4.qa" tvg-name="|AR| BEIN MOVIES 4 FHD (EXCLUS)" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN MOVIES 4 FHD (EXCLUS)
+#EXTINF:-1 tvg-id="beINMovies4.qa" tvg-name="BEIN MOVIES 4 FHD (EXCLUS)" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png" group-title="BeIN AR Sports",BEIN MOVIES 4 FHD (EXCLUS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/43852
-#EXTINF:-1 tvg-id="beINSeries1.qa" tvg-name="|AR| BEIN SERIES 1 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SERIES 1 FHD (EXCLUS)
+#EXTINF:-1 tvg-id="beINSeries1.qa" tvg-name="BEIN SERIES 1 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",BEIN SERIES 1 FHD (EXCLUS)
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2396
-#EXTINF:-1 tvg-id="beINSeries2.qa" tvg-name="|AR| BEIN SERIES 2" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SERIES 2 FHD
+#EXTINF:-1 tvg-id="beINSeries2.qa" tvg-name="BEIN SERIES 2" tvg-logo="" group-title="BeIN AR Sports",BEIN SERIES 2 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/3147
-#EXTINF:-1 tvg-id="FatafeatAr.qa" tvg-name="|AR| BEIN FATAFEAT" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN FATAFEAT HD
+#EXTINF:-1 tvg-id="FatafeatAr.qa" tvg-name="BEIN FATAFEAT" tvg-logo="" group-title="BeIN AR Sports",BEIN FATAFEAT HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/37234
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BeIN GOURMET" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BeIN GOURMET HD
+#EXTINF:-1 tvg-id="" tvg-name="BeIN GOURMET" tvg-logo="" group-title="BeIN AR Sports",BeIN GOURMET HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/5239
-#EXTINF:-1 tvg-id="FOXAr.qa" tvg-name="|AR| BEIN FOX" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN FOX HD
+#EXTINF:-1 tvg-id="FOXAr.qa" tvg-name="BEIN FOX" tvg-logo="" group-title="BeIN AR Sports",BEIN FOX HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/3602
-#EXTINF:-1 tvg-id="FOXMoviesAction.qa" tvg-name="|AR| BEIN FOX CRIME" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN FOX CRIME HD
+#EXTINF:-1 tvg-id="FOXMoviesAction.qa" tvg-name="BEIN FOX CRIME" tvg-logo="" group-title="BeIN AR Sports",BEIN FOX CRIME HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/3644
-#EXTINF:-1 tvg-id="NatGeo.qa" tvg-name="|AR| BEIN NAT GEO" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN NAT GEO HD
+#EXTINF:-1 tvg-id="NatGeo.qa" tvg-name="BEIN NAT GEO" tvg-logo="" group-title="BeIN AR Sports",BEIN NAT GEO HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/4391
-#EXTINF:-1 tvg-id="HGTVAr.qa" tvg-name="|AR| BEIN HGTV" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN HGTV HD
+#EXTINF:-1 tvg-id="HGTVAr.qa" tvg-name="BEIN HGTV" tvg-logo="" group-title="BeIN AR Sports",BEIN HGTV HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/5221
-#EXTINF:-1 tvg-id="" tvg-name="|AR| STC SPORT" tvg-logo="" group-title="ARABES  ( العربية)",|AR| STC SPORT HD
+#EXTINF:-1 tvg-id="" tvg-name="STC SPORT" tvg-logo="" group-title="ARABES  ( العربية)",STC SPORT HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/5090
-#EXTINF:-1 tvg-id="" tvg-name="|AR| STC CINEMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| STC CINEMA HD
+#EXTINF:-1 tvg-id="" tvg-name="STC CINEMA" tvg-logo="" group-title="ARABES  ( العربية)",STC CINEMA HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/933
-#EXTINF:-1 tvg-id="" tvg-name="|AR| STC DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| STC DRAMA HD
+#EXTINF:-1 tvg-id="" tvg-name="STC DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",STC DRAMA HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/932
-#EXTINF:-1 tvg-id="" tvg-name="|AR| STC FAMILY" tvg-logo="" group-title="ARABES  ( العربية)",|AR| STC FAMILY HD
+#EXTINF:-1 tvg-id="" tvg-name="STC FAMILY" tvg-logo="" group-title="ARABES  ( العربية)",STC FAMILY HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112
 #EXTINF:-1 tvg-id="" tvg-name="▀▄ AR ▀▄▀▄▀▄ ROTANA ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ AR ▀▄▀▄▀▄ ROTANA ▄▀▄▀▄▀
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7026
-#EXTINF:-1 tvg-id="" tvg-name="|AR| LANA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| LANA TV HD
+#EXTINF:-1 tvg-id="" tvg-name="LANA TV" tvg-logo="" group-title="ARABES  ( العربية)",LANA TV HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/101145
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA COMEDY" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROTANA COMEDY HD
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA COMEDY" tvg-logo="" group-title="ARABES  ( العربية)",ROTANA COMEDY HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/90003
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA FHD+" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROTANA FHD+
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA FHD+" tvg-logo="" group-title="ARABES  ( العربية)",ROTANA FHD+
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89686
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA M+" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROTANA M+ FHD
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA M+" tvg-logo="" group-title="ARABES  ( العربية)",ROTANA M+ FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89687
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROTANA DRAMA FHD
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",ROTANA DRAMA FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/90163
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA MASRIYA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROTANA MASRIYA
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA MASRIYA" tvg-logo="" group-title="ARABES  ( العربية)",ROTANA MASRIYA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89688
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA AFLAM+" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROTANA AFLAM+ FHD
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA AFLAM+" tvg-logo="" group-title="ARABES  ( العربية)",ROTANA AFLAM+ FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89690
-#EXTINF:-1 tvg-id="RotanaAflam.eg" tvg-name="|AR| ROTANA AFLAM" tvg-logo="http://i.imgur.com/wVGJeeq.png" group-title="ARABES  ( العربية)",|AR| ROTANA AFLAM HD
+#EXTINF:-1 tvg-id="RotanaAflam.eg" tvg-name="ROTANA AFLAM" tvg-logo="http://i.imgur.com/wVGJeeq.png" group-title="ARABES  ( العربية)",ROTANA AFLAM HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/385
-#EXTINF:-1 tvg-id="RotanaKhalijiah.eg" tvg-name="|AR| ROTANA KHALIJIA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROTANA KHALIJIA
+#EXTINF:-1 tvg-id="RotanaKhalijiah.eg" tvg-name="ROTANA KHALIJIA" tvg-logo="" group-title="ARABES  ( العربية)",ROTANA KHALIJIA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/598
-#EXTINF:-1 tvg-id="RotanaKhalijiah.eg" tvg-name="|AR| ROTANA KHALIJIA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROTANA KHALIJIA FHD
+#EXTINF:-1 tvg-id="RotanaKhalijiah.eg" tvg-name="ROTANA KHALIJIA" tvg-logo="" group-title="ARABES  ( العربية)",ROTANA KHALIJIA FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/90001
-#EXTINF:-1 tvg-id="RotanaCinema.eg" tvg-name="|AR| ROTANA CINEMA KSA" tvg-logo="http://i.imgur.com/pAw1ZYL.png" group-title="ARABES  ( العربية)",|AR| ROTANA CINEMA KSA
+#EXTINF:-1 tvg-id="RotanaCinema.eg" tvg-name="ROTANA CINEMA KSA" tvg-logo="http://i.imgur.com/pAw1ZYL.png" group-title="ARABES  ( العربية)",ROTANA CINEMA KSA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/386
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA CINEMA KSA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROTANA CINEMA KSA FHD
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CINEMA KSA" tvg-logo="" group-title="ARABES  ( العربية)",ROTANA CINEMA KSA FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89998
-#EXTINF:-1 tvg-id="RotanaCinema.eg" tvg-name="|AR| ROTANA CINEMA EGY" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROTANA CINEMA EGY
+#EXTINF:-1 tvg-id="RotanaCinema.eg" tvg-name="ROTANA CINEMA EGY" tvg-logo="" group-title="ARABES  ( العربية)",ROTANA CINEMA EGY
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1791
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA CINEMA EGY" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROTANA CINEMA EGY FHD
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CINEMA EGY" tvg-logo="" group-title="ARABES  ( العربية)",ROTANA CINEMA EGY FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89997
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA CINEMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROTANA CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CINEMA" tvg-logo="" group-title="ARABES  ( العربية)",ROTANA CINEMA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89691
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA CINEMA+ FR" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROTANA CINEMA+ FR FHD
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CINEMA+ FR" tvg-logo="" group-title="ARABES  ( العربية)",ROTANA CINEMA+ FR FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89692
-#EXTINF:-1 tvg-id="RotanaDramaAr.eg" tvg-name="|AR| ROTANA DRAMA" tvg-logo="http://i.imgur.com/5K4Qe0R.png" group-title="ARABES  ( العربية)",|AR| ROTANA DRAMA HD
+#EXTINF:-1 tvg-id="RotanaDramaAr.eg" tvg-name="ROTANA DRAMA" tvg-logo="http://i.imgur.com/5K4Qe0R.png" group-title="ARABES  ( العربية)",ROTANA DRAMA HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/384
-#EXTINF:-1 tvg-id="RotanaClassic.eg" tvg-name="|AR| ROTANA CLASSIC" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROTANA CLASSIC
+#EXTINF:-1 tvg-id="RotanaClassic.eg" tvg-name="ROTANA CLASSIC" tvg-logo="" group-title="ARABES  ( العربية)",ROTANA CLASSIC
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/601
-#EXTINF:-1 tvg-id="RotanaClassic.eg" tvg-name="|AR| ROTANA CLASSIC" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROTANA CLASSIC FHD
+#EXTINF:-1 tvg-id="RotanaClassic.eg" tvg-name="ROTANA CLASSIC" tvg-logo="" group-title="ARABES  ( العربية)",ROTANA CLASSIC FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89999
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA CLIP" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROTANA CLIP
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CLIP" tvg-logo="" group-title="ARABES  ( العربية)",ROTANA CLIP
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/599
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA MUSIC CHANNEL" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROTANA MUSIC CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA MUSIC CHANNEL" tvg-logo="" group-title="ARABES  ( العربية)",ROTANA MUSIC CHANNEL HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89689
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA AMERICA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROTANA AMERICA HD
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA AMERICA" tvg-logo="" group-title="ARABES  ( العربية)",ROTANA AMERICA HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/45549
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AGHANI AGHANI" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AGHANI AGHANI HD
+#EXTINF:-1 tvg-id="" tvg-name="AGHANI AGHANI" tvg-logo="" group-title="ARABES  ( العربية)",AGHANI AGHANI HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1586
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ARABICA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ARABICA TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="ARABICA TV" tvg-logo="" group-title="ARABES  ( العربية)",ARABICA TV FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1784
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MAZZIKA MUSIC" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MAZZIKA MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="MAZZIKA MUSIC" tvg-logo="" group-title="ARABES  ( العربية)",MAZZIKA MUSIC
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/19704
 #EXTINF:-1 tvg-id="" tvg-name="▀▄ AR ▀▄▀▄▀▄  ART ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ AR ▀▄▀▄▀▄  ART ▄▀▄▀▄▀
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7024
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ART" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ART
+#EXTINF:-1 tvg-id="" tvg-name="ART" tvg-logo="" group-title="ARABES  ( العربية)",ART
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/45582
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ART MOVIES" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ART MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="ART MOVIES" tvg-logo="" group-title="ARABES  ( العربية)",ART MOVIES
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/45579
-#EXTINF:-1 tvg-id="dossiers-fbi-fr" tvg-name="|AR| ART TARAB" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ART TARAB
+#EXTINF:-1 tvg-id="dossiers-fbi-fr" tvg-name="ART TARAB" tvg-logo="" group-title="ARABES  ( العربية)",ART TARAB
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/45578
-#EXTINF:-1 tvg-id="ARTCinema.sa" tvg-name="|AR| ART CINEMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ART CINEMA
+#EXTINF:-1 tvg-id="ARTCinema.sa" tvg-name="ART CINEMA" tvg-logo="" group-title="ARABES  ( العربية)",ART CINEMA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42105
-#EXTINF:-1 tvg-id="ARTAflam1.sa" tvg-name="|AR| ART AFLAM 1" tvg-logo="http://i.imgur.com/r95iHs8.png" group-title="ARABES  ( العربية)",|AR| ART AFLAM 1
+#EXTINF:-1 tvg-id="ARTAflam1.sa" tvg-name="ART AFLAM 1" tvg-logo="http://i.imgur.com/r95iHs8.png" group-title="ARABES  ( العربية)",ART AFLAM 1
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/352
-#EXTINF:-1 tvg-id="ARTAflam2.sa" tvg-name="|AR| ART AFLAM 2" tvg-logo="http://i.imgur.com/b1GwAbc.png" group-title="ARABES  ( العربية)",|AR| ART AFLAM 2
+#EXTINF:-1 tvg-id="ARTAflam2.sa" tvg-name="ART AFLAM 2" tvg-logo="http://i.imgur.com/b1GwAbc.png" group-title="ARABES  ( العربية)",ART AFLAM 2
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/353
-#EXTINF:-1 tvg-id="Hekayat.sa" tvg-name="|AR| ART HEKAYAT 1" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ART HEKAYAT 1
+#EXTINF:-1 tvg-id="Hekayat.sa" tvg-name="ART HEKAYAT 1" tvg-logo="" group-title="ARABES  ( العربية)",ART HEKAYAT 1
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/647
-#EXTINF:-1 tvg-id="Hekayat2.sa" tvg-name="|AR| ART HEKAYAT 2" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ART HEKAYAT 2
+#EXTINF:-1 tvg-id="Hekayat2.sa" tvg-name="ART HEKAYAT 2" tvg-logo="" group-title="ARABES  ( العربية)",ART HEKAYAT 2
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/648
-#EXTINF:-1 tvg-id="ZeeAflam.ae" tvg-name="|AR| ZEE AFLAM" tvg-logo="http://i.imgur.com/diwNYkt.png" group-title="ARABES  ( العربية)",|AR| ZEE AFLAM
+#EXTINF:-1 tvg-id="ZeeAflam.ae" tvg-name="ZEE AFLAM" tvg-logo="http://i.imgur.com/diwNYkt.png" group-title="ARABES  ( العربية)",ZEE AFLAM
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/415
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ZEE ALWAN" tvg-logo="http://i.imgur.com/XDKqhCY.png" group-title="ARABES  ( العربية)",|AR| ZEE ALWAN
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ALWAN" tvg-logo="http://i.imgur.com/XDKqhCY.png" group-title="ARABES  ( العربية)",ZEE ALWAN
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/413
-#EXTINF:-1 tvg-id="B4UPlus.ae" tvg-name="|AR| B4U PLUS" tvg-logo="" group-title="ARABES  ( العربية)",|AR| B4U PLUS
+#EXTINF:-1 tvg-id="B4UPlus.ae" tvg-name="B4U PLUS" tvg-logo="" group-title="ARABES  ( العربية)",B4U PLUS
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1511
 #EXTINF:-1 tvg-id="" tvg-name="▀▄ AR ▀▄▀▄▀▄  OSN ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",▀▄ AR ▀▄▀▄▀▄  OSN ▄▀▄▀▄▀
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/3713
 #EXTINF:-1 tvg-id="" tvg-name="▀▄ OSN ▀▄▀▄▀▄  MOVIES ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",▀▄ OSN ▀▄▀▄▀▄  MOVIES ▄▀▄▀▄▀
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7107
-#EXTINF:-1 tvg-id="OSNMoviesFirst.ae" tvg-name="|AR| OSN MOVIES FIRST" tvg-logo="http://content.osn.com/logo/channel/cropped/OM1.png" group-title="OSN & MY HD (Arabic)",|AR| OSN MOVIES FIRST HD
+#EXTINF:-1 tvg-id="OSNMoviesFirst.ae" tvg-name="OSN MOVIES FIRST" tvg-logo="http://content.osn.com/logo/channel/cropped/OM1.png" group-title="OSN & MY HD (Arabic)",OSN MOVIES FIRST HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7066
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN MOVIES FIRST +2" tvg-logo="http://content.osn.com/logo/channel/cropped/OMX.png" group-title="OSN & MY HD (Arabic)",|AR| OSN MOVIES FIRST +2 HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN MOVIES FIRST +2" tvg-logo="http://content.osn.com/logo/channel/cropped/OMX.png" group-title="OSN & MY HD (Arabic)",OSN MOVIES FIRST +2 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/4368
-#EXTINF:-1 tvg-id="OSNMoviesAction.ae" tvg-name="|AR| OSN MOVIES ACTION" tvg-logo="http://content.osn.com/logo/channel/cropped/AHD.png" group-title="OSN & MY HD (Arabic)",|AR| OSN MOVIES ACTION HD
+#EXTINF:-1 tvg-id="OSNMoviesAction.ae" tvg-name="OSN MOVIES ACTION" tvg-logo="http://content.osn.com/logo/channel/cropped/AHD.png" group-title="OSN & MY HD (Arabic)",OSN MOVIES ACTION HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2769
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN MIX" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN MIX HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN MIX" tvg-logo="" group-title="OSN & MY HD (Arabic)",OSN MIX HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1793
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN REEL PX ACTION" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN REEL PX ACTION HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN REEL PX ACTION" tvg-logo="" group-title="OSN & MY HD (Arabic)",OSN REEL PX ACTION HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/101142
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN REEL PX UNLIMITED" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN REEL PX UNLIMITED HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN REEL PX UNLIMITED" tvg-logo="" group-title="OSN & MY HD (Arabic)",OSN REEL PX UNLIMITED HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/101114
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN REEL PX COMEDY" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN REEL PX COMEDY HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN REEL PX COMEDY" tvg-logo="" group-title="OSN & MY HD (Arabic)",OSN REEL PX COMEDY HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/101141
-#EXTINF:-1 tvg-id="OSNMovies.ae" tvg-name="|AR| OSN MOVIES" tvg-logo="http://content.osn.com/logo/channel/cropped/OPR.png" group-title="OSN & MY HD (Arabic)",|AR| OSN MOVIES HD
+#EXTINF:-1 tvg-id="OSNMovies.ae" tvg-name="OSN MOVIES" tvg-logo="http://content.osn.com/logo/channel/cropped/OPR.png" group-title="OSN & MY HD (Arabic)",OSN MOVIES HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/4371
-#EXTINF:-1 tvg-id="OSNMoviesComedy.ae" tvg-name="|AR| OSN COMEDY" tvg-logo="http://content.osn.com/logo/channel/cropped/OMC.png" group-title="OSN & MY HD (Arabic)",|AR| OSN COMEDY HD
+#EXTINF:-1 tvg-id="OSNMoviesComedy.ae" tvg-name="OSN COMEDY" tvg-logo="http://content.osn.com/logo/channel/cropped/OMC.png" group-title="OSN & MY HD (Arabic)",OSN COMEDY HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/4370
 #EXTINF:-1 tvg-id="" tvg-name="▀▄ OSN ▀▄▀▄▀▄  ENTERTAINMENT ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",▀▄ OSN ▀▄▀▄▀▄  ENTERTAINMENT ▄▀▄▀▄▀
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7108
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN MOVIES HORROR" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN MOVIES HORROR HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN MOVIES HORROR" tvg-logo="" group-title="OSN & MY HD (Arabic)",OSN MOVIES HORROR HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7067
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN SERIES COMEDY" tvg-logo="http://content.osn.com/logo/channel/cropped/OCO.png" group-title="OSN & MY HD (Arabic)",|AR| OSN SERIES COMEDY HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN SERIES COMEDY" tvg-logo="http://content.osn.com/logo/channel/cropped/OCO.png" group-title="OSN & MY HD (Arabic)",OSN SERIES COMEDY HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7059
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN E!" tvg-logo="http://content.osn.com/logo/channel/cropped/ETV.png" group-title="OSN & MY HD (Arabic)",|AR| OSN E! HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN E!" tvg-logo="http://content.osn.com/logo/channel/cropped/ETV.png" group-title="OSN & MY HD (Arabic)",OSN E! HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7073
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN LIVING" tvg-logo="http://content.osn.com/logo/channel/cropped/OLH.png" group-title="OSN & MY HD (Arabic)",|AR| OSN LIVING HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN LIVING" tvg-logo="http://content.osn.com/logo/channel/cropped/OLH.png" group-title="OSN & MY HD (Arabic)",OSN LIVING HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7070
 #EXTINF:-1 tvg-id="" tvg-name="▀▄ OSN ▀▄▀▄▀▄  ARABIC ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",▀▄ OSN ▀▄▀▄▀▄  ARABIC ▄▀▄▀▄▀
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7109
-#EXTINF:-1 tvg-id="OSNYahala.ae" tvg-name="|AR| OSN YA HALA AOULA" tvg-logo="http://content.osn.com/logo/channel/cropped/OYH.png" group-title="OSN & MY HD (Arabic)",|AR| OSN YA HALA AOULA HD
+#EXTINF:-1 tvg-id="OSNYahala.ae" tvg-name="OSN YA HALA AOULA" tvg-logo="http://content.osn.com/logo/channel/cropped/OYH.png" group-title="OSN & MY HD (Arabic)",OSN YA HALA AOULA HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/516
-#EXTINF:-1 tvg-id="OSNYahalaCinema.ae" tvg-name="|AR| OSN YA HALA CINEMA" tvg-logo="http://content.osn.com/logo/channel/cropped/OYC.png" group-title="OSN & MY HD (Arabic)",|AR| OSN YA HALA CINEMA HD
+#EXTINF:-1 tvg-id="OSNYahalaCinema.ae" tvg-name="OSN YA HALA CINEMA" tvg-logo="http://content.osn.com/logo/channel/cropped/OYC.png" group-title="OSN & MY HD (Arabic)",OSN YA HALA CINEMA HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1207
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN SERIES CHANNEL" tvg-logo="http://content.osn.com/logo/channel/cropped/SER.png" group-title="OSN & MY HD (Arabic)",|AR| OSN SERIES CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN SERIES CHANNEL" tvg-logo="http://content.osn.com/logo/channel/cropped/SER.png" group-title="OSN & MY HD (Arabic)",OSN SERIES CHANNEL HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7064
-#EXTINF:-1 tvg-id="OSNYahala.ae" tvg-name="|AR| OSN YA HALA" tvg-logo="http://content.osn.com/logo/channel/cropped/OYA.png" group-title="OSN & MY HD (Arabic)",|AR| OSN YA HALA HD
+#EXTINF:-1 tvg-id="OSNYahala.ae" tvg-name="OSN YA HALA" tvg-logo="http://content.osn.com/logo/channel/cropped/OYA.png" group-title="OSN & MY HD (Arabic)",OSN YA HALA HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7054
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN ALYOUM" tvg-logo="http://content.osn.com/logo/channel/cropped/YAW.png" group-title="OSN & MY HD (Arabic)",|AR| OSN ALYOUM
+#EXTINF:-1 tvg-id="" tvg-name="OSN ALYOUM" tvg-logo="http://content.osn.com/logo/channel/cropped/YAW.png" group-title="OSN & MY HD (Arabic)",OSN ALYOUM
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7082
-#EXTINF:-1 tvg-id="OSNCinema.ae" tvg-name="|AR| OSN CINEMA 1" tvg-logo="http://content.osn.com/logo/channel/cropped/CM1.png" group-title="OSN & MY HD (Arabic)",|AR| OSN CINEMA 1
+#EXTINF:-1 tvg-id="OSNCinema.ae" tvg-name="OSN CINEMA 1" tvg-logo="http://content.osn.com/logo/channel/cropped/CM1.png" group-title="OSN & MY HD (Arabic)",OSN CINEMA 1
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7081
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN CINEMA 2" tvg-logo="http://content.osn.com/logo/channel/cropped/CM2.png" group-title="OSN & MY HD (Arabic)",|AR| OSN CINEMA 2
+#EXTINF:-1 tvg-id="" tvg-name="OSN CINEMA 2" tvg-logo="http://content.osn.com/logo/channel/cropped/CM2.png" group-title="OSN & MY HD (Arabic)",OSN CINEMA 2
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7080
 #EXTINF:-1 tvg-id="" tvg-name="▀▄ OSN ▀▄▀▄▀▄ MUSIC ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",▀▄ OSN ▀▄▀▄▀▄ MUSIC ▄▀▄▀▄▀
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7110
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN FANN" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN FANN HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN FANN" tvg-logo="" group-title="OSN & MY HD (Arabic)",OSN FANN HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7113
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN MUSIC NOW" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/alfa-music-now-ae.png" group-title="OSN & MY HD (Arabic)",|AR| OSN MUSIC NOW HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN MUSIC NOW" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/alfa-music-now-ae.png" group-title="OSN & MY HD (Arabic)",OSN MUSIC NOW HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7063
 #EXTINF:-1 tvg-id="" tvg-name="▀▄ OSN ▀▄▀▄▀▄ KIDS ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",▀▄ OSN ▀▄▀▄▀▄ KIDS ▄▀▄▀▄▀
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7111
-#EXTINF:-1 tvg-id="OSNFamily.ae" tvg-name="|AR| OSN FAMILY" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN FAMILY HD
+#EXTINF:-1 tvg-id="OSNFamily.ae" tvg-name="OSN FAMILY" tvg-logo="" group-title="OSN & MY HD (Arabic)",OSN FAMILY HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2254
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN NICKTOONS" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN NICKTOONS HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN NICKTOONS" tvg-logo="" group-title="OSN & MY HD (Arabic)",OSN NICKTOONS HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7055
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN DISNEY CHANNEL" tvg-logo="http://content.osn.com/logo/channel/cropped/DIS.png" group-title="OSN & MY HD (Arabic)",|AR| OSN DISNEY CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN DISNEY CHANNEL" tvg-logo="http://content.osn.com/logo/channel/cropped/DIS.png" group-title="OSN & MY HD (Arabic)",OSN DISNEY CHANNEL HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7075
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN DISNEY JUNIOR" tvg-logo="http://content.osn.com/logo/channel/cropped/DJR.png" group-title="OSN & MY HD (Arabic)",|AR| OSN DISNEY JUNIOR HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN DISNEY JUNIOR" tvg-logo="http://content.osn.com/logo/channel/cropped/DJR.png" group-title="OSN & MY HD (Arabic)",OSN DISNEY JUNIOR HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7074
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN KID ZONE TV" tvg-logo="http://content.osn.com/logo/channel/cropped/KDZ.png" group-title="OSN & MY HD (Arabic)",|AR| OSN KID ZONE TV
+#EXTINF:-1 tvg-id="" tvg-name="OSN KID ZONE TV" tvg-logo="http://content.osn.com/logo/channel/cropped/KDZ.png" group-title="OSN & MY HD (Arabic)",OSN KID ZONE TV
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7060
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BIDAYA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| BIDAYA TV HD
+#EXTINF:-1 tvg-id="" tvg-name="BIDAYA TV" tvg-logo="" group-title="ARABES  ( العربية)",BIDAYA TV HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/26846
-#EXTINF:-1 tvg-id="" tvg-name="|AR| THIKRAYAT" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/zekrayat-tv-ae.png" group-title="ARABES  ( العربية)",|AR| THIKRAYAT FHD
+#EXTINF:-1 tvg-id="" tvg-name="THIKRAYAT" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/zekrayat-tv-ae.png" group-title="ARABES  ( العربية)",THIKRAYAT FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/90006
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN MOONBUG" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/moonbug-ae.png" group-title="OSN & MY HD (Arabic)",|AR| OSN MOONBUG HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN MOONBUG" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/moonbug-ae.png" group-title="OSN & MY HD (Arabic)",OSN MOONBUG HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2772
-#EXTINF:-1 tvg-id="OSNMoviesKids.ae" tvg-name="|AR| OSN KIDS" tvg-logo="http://content.osn.com/logo/channel/cropped/OPX.png" group-title="OSN & MY HD (Arabic)",|AR| OSN KIDS HD
+#EXTINF:-1 tvg-id="OSNMoviesKids.ae" tvg-name="OSN KIDS" tvg-logo="http://content.osn.com/logo/channel/cropped/OPX.png" group-title="OSN & MY HD (Arabic)",OSN KIDS HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7068
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN BOOMERANG" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN BOOMERANG HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN BOOMERANG" tvg-logo="" group-title="OSN & MY HD (Arabic)",OSN BOOMERANG HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2259
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN BABY" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN BABY HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN BABY" tvg-logo="" group-title="OSN & MY HD (Arabic)",OSN BABY HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/963
 #EXTINF:-1 tvg-id="" tvg-name="▀▄ OSN ▀▄▀▄▀▄ FACTUAL ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",▀▄ OSN ▀▄▀▄▀▄ FACTUAL ▄▀▄▀▄▀
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7112
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN DISCOVERY CHANNEL" tvg-logo="http://content.osn.com/logo/channel/cropped/DSC.png" group-title="OSN & MY HD (Arabic)",|AR| OSN DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN DISCOVERY CHANNEL" tvg-logo="http://content.osn.com/logo/channel/cropped/DSC.png" group-title="OSN & MY HD (Arabic)",OSN DISCOVERY CHANNEL HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7077
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN SHOWCASE" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN SHOWCASE HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN SHOWCASE" tvg-logo="" group-title="OSN & MY HD (Arabic)",OSN SHOWCASE HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7076
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN DISCOVERY ID" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN DISCOVERY ID HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN DISCOVERY ID" tvg-logo="" group-title="OSN & MY HD (Arabic)",OSN DISCOVERY ID HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2252
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN DISCOVERY IDX" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN DISCOVERY IDX HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN DISCOVERY IDX" tvg-logo="" group-title="OSN & MY HD (Arabic)",OSN DISCOVERY IDX HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2253
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN HISTORY CHANNEL" tvg-logo="http://content.osn.com/logo/channel/cropped/HIS.png" group-title="OSN & MY HD (Arabic)",|AR| OSN HISTORY CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN HISTORY CHANNEL" tvg-logo="http://content.osn.com/logo/channel/cropped/HIS.png" group-title="OSN & MY HD (Arabic)",OSN HISTORY CHANNEL HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7069
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN HISTORY 2" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN HISTORY 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN HISTORY 2" tvg-logo="" group-title="OSN & MY HD (Arabic)",OSN HISTORY 2 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7061
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN MEZZE" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN MEZZE HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN MEZZE" tvg-logo="" group-title="OSN & MY HD (Arabic)",OSN MEZZE HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7079
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN TLC" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN TLC HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN TLC" tvg-logo="" group-title="OSN & MY HD (Arabic)",OSN TLC HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7062
-#EXTINF:-1 tvg-id="Fatafeat.qa" tvg-name="|AR| OSN FATAFEAT" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN FATAFEAT HD
+#EXTINF:-1 tvg-id="Fatafeat.qa" tvg-name="OSN FATAFEAT" tvg-logo="" group-title="OSN & MY HD (Arabic)",OSN FATAFEAT HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7057
-#EXTINF:-1 tvg-id="TravelChannel.qa" tvg-name="|AR| OSN TRAVEL CHANNEL" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN TRAVEL CHANNEL HD
+#EXTINF:-1 tvg-id="TravelChannel.qa" tvg-name="OSN TRAVEL CHANNEL" tvg-logo="" group-title="OSN & MY HD (Arabic)",OSN TRAVEL CHANNEL HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7078
 #EXTINF:-1 tvg-id="" tvg-name="▀▄ UAE ▀▄▀▄▀▄  United Arab Emirates ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ UAE ▀▄▀▄▀▄  United Arab Emirates ▄▀▄▀▄▀
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/3728
-#EXTINF:-1 tvg-id="FoodNetwork.qa" tvg-name="|AR| OSN FOOD NETWORK" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN FOOD NETWORK HD
+#EXTINF:-1 tvg-id="FoodNetwork.qa" tvg-name="OSN FOOD NETWORK" tvg-logo="" group-title="OSN & MY HD (Arabic)",OSN FOOD NETWORK HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/101111
-#EXTINF:-1 tvg-id="DubaiTV.ae" tvg-name="|AR| DUBAI" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/dubai-tv-ae.png" group-title="ARABES  ( العربية)",|AR| DUBAI HD
+#EXTINF:-1 tvg-id="DubaiTV.ae" tvg-name="DUBAI" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/dubai-tv-ae.png" group-title="ARABES  ( العربية)",DUBAI HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/681
-#EXTINF:-1 tvg-id="" tvg-name="|AR| DUBAI ONE" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/dubai-one-ae.png" group-title="ARABES  ( العربية)",|AR| DUBAI ONE FHD
+#EXTINF:-1 tvg-id="" tvg-name="DUBAI ONE" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/dubai-one-ae.png" group-title="ARABES  ( العربية)",DUBAI ONE FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/682
-#EXTINF:-1 tvg-id="DubaiZaman.ae" tvg-name="|AR| DUBAI ZAMAN" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/dubai-zaman-ae.png" group-title="ARABES  ( العربية)",|AR| DUBAI ZAMAN
+#EXTINF:-1 tvg-id="DubaiZaman.ae" tvg-name="DUBAI ZAMAN" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/dubai-zaman-ae.png" group-title="ARABES  ( العربية)",DUBAI ZAMAN
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/590
-#EXTINF:-1 tvg-id="AbuDhabi.ae" tvg-name="|AR| ABU DHABI TV" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/abu-dhabi-tv-ae.png" group-title="ARABES  ( العربية)",|AR| ABU DHABI TV HD
+#EXTINF:-1 tvg-id="AbuDhabi.ae" tvg-name="ABU DHABI TV" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/abu-dhabi-tv-ae.png" group-title="ARABES  ( العربية)",ABU DHABI TV HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2804
-#EXTINF:-1 tvg-id="AbuDhabi.ae" tvg-name="|AR| ABU DHABI TV" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/abu-dhabi-tv-ae.png" group-title="ARABES  ( العربية)",|AR| ABU DHABI TV FHD
+#EXTINF:-1 tvg-id="AbuDhabi.ae" tvg-name="ABU DHABI TV" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/abu-dhabi-tv-ae.png" group-title="ARABES  ( العربية)",ABU DHABI TV FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2802
-#EXTINF:-1 tvg-id="SamaDubai.ae" tvg-name="|AR| SAMA DUBAI" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/sama-dubai-ae.png" group-title="ARABES  ( العربية)",|AR| SAMA DUBAI HD
+#EXTINF:-1 tvg-id="SamaDubai.ae" tvg-name="SAMA DUBAI" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/sama-dubai-ae.png" group-title="ARABES  ( العربية)",SAMA DUBAI HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2803
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SHARJAH SPORT" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| SHARJAH SPORT SD
+#EXTINF:-1 tvg-id="" tvg-name="SHARJAH SPORT" tvg-logo="" group-title="BeIN AR Sports",SHARJAH SPORT SD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42850
 #EXTINF:-1 tvg-id="" tvg-name="▀▄ LB ▀▄▀▄▀▄  LEBANON ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ LB ▀▄▀▄▀▄  LEBANON ▄▀▄▀▄▀
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/3711
-#EXTINF:-1 tvg-id="LBC.lb" tvg-name="|AR| LBC" tvg-logo="" group-title="ARABES  ( العربية)",|AR| LBC HD
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="LBC" tvg-logo="" group-title="ARABES  ( العربية)",LBC HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/680
-#EXTINF:-1 tvg-id="LBCInternational.lb" tvg-name="|AR| LBC INTERNATIONAL" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/lbc-international-lb.png" group-title="ARABES  ( العربية)",|AR| LBC INTERNATIONAL HD
+#EXTINF:-1 tvg-id="LBCInternational.lb" tvg-name="LBC INTERNATIONAL" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/lbc-international-lb.png" group-title="ARABES  ( العربية)",LBC INTERNATIONAL HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42064
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL JADEED" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL JADEED
+#EXTINF:-1 tvg-id="" tvg-name="AL JADEED" tvg-logo="" group-title="ARABES  ( العربية)",AL JADEED
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/5973
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL JOUMHOURIYA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL JOUMHOURIYA HD
+#EXTINF:-1 tvg-id="" tvg-name="AL JOUMHOURIYA" tvg-logo="" group-title="ARABES  ( العربية)",AL JOUMHOURIYA HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112626
-#EXTINF:-1 tvg-id="" tvg-name="|AR| FUTURE TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| FUTURE TV HD
+#EXTINF:-1 tvg-id="" tvg-name="FUTURE TV" tvg-logo="" group-title="ARABES  ( العربية)",FUTURE TV HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42081
-#EXTINF:-1 tvg-id="NBN.lb" tvg-name="|AR| NBN" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/nbn-lb.png" group-title="ARABES  ( العربية)",|AR| NBN HD
+#EXTINF:-1 tvg-id="NBN.lb" tvg-name="NBN" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/nbn-lb.png" group-title="ARABES  ( العربية)",NBN HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1299
-#EXTINF:-1 tvg-id="" tvg-name="|AR| NBN" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/nbn-lb.png" group-title="ARABES  ( العربية)",|AR| NBN FHD
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/nbn-lb.png" group-title="ARABES  ( العربية)",NBN FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42080
-#EXTINF:-1 tvg-id="" tvg-name="|AR| TELE LIBAN" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/tele-liban-lb.png" group-title="ARABES  ( العربية)",|AR| TELE LIBAN HD
+#EXTINF:-1 tvg-id="" tvg-name="TELE LIBAN" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/tele-liban-lb.png" group-title="ARABES  ( العربية)",TELE LIBAN HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2770
-#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="|AR| MTV LEBANON ONE TV" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/mtv-lebanon-lb.png" group-title="ARABES  ( العربية)",|AR| MTV LEBANON ONE TV HD
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="MTV LEBANON ONE TV" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/mtv-lebanon-lb.png" group-title="ARABES  ( العربية)",MTV LEBANON ONE TV HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7058
-#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="|AR| MTV LEBANON" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/mtv-lebanon-lb.png" group-title="ARABES  ( العربية)",|AR| MTV LEBANON
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="MTV LEBANON" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/mtv-lebanon-lb.png" group-title="ARABES  ( العربية)",MTV LEBANON
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/684
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MTV LEBANON" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/mtv-lebanon-lb.png" group-title="ARABES  ( العربية)",|AR| MTV LEBANON HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/mtv-lebanon-lb.png" group-title="ARABES  ( العربية)",MTV LEBANON HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42079
 #EXTINF:-1 tvg-id="" tvg-name="▀▄ EG ▀▄▀▄▀▄  EGYPTE ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ EG ▀▄▀▄▀▄  EGYPTE ▄▀▄▀▄▀
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/4114
-#EXTINF:-1 tvg-id="" tvg-name="|AR| HALA LONDON" tvg-logo="" group-title="ARABES  ( العربية)",|AR| HALA LONDON FHD
+#EXTINF:-1 tvg-id="" tvg-name="HALA LONDON" tvg-logo="" group-title="ARABES  ( العربية)",HALA LONDON FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42027
-#EXTINF:-1 tvg-id="" tvg-name="|AR| O-TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| O-TV HD
+#EXTINF:-1 tvg-id="" tvg-name="O-TV" tvg-logo="" group-title="ARABES  ( العربية)",O-TV HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1769
-#EXTINF:-1 tvg-id="MbcMasr.eg" tvg-name="|AR| MBC MASR 1" tvg-logo="https://i.imgur.com/3GTiYWF.png" group-title="ARABES  ( العربية)",|AR| MBC MASR 1
+#EXTINF:-1 tvg-id="MbcMasr.eg" tvg-name="MBC MASR 1" tvg-logo="https://i.imgur.com/3GTiYWF.png" group-title="ARABES  ( العربية)",MBC MASR 1
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/416
-#EXTINF:-1 tvg-id="MBCMasr2En.eg" tvg-name="|AR| MBC MASR 2" tvg-logo="https://i.imgur.com/2kbbTap.png" group-title="ARABES  ( العربية)",|AR| MBC MASR 2
+#EXTINF:-1 tvg-id="MBCMasr2En.eg" tvg-name="MBC MASR 2" tvg-logo="https://i.imgur.com/2kbbTap.png" group-title="ARABES  ( العربية)",MBC MASR 2
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/420
-#EXTINF:-1 tvg-id="CBC.eg" tvg-name="|AR| CBC" tvg-logo="" group-title="ARABES  ( العربية)",|AR| CBC
+#EXTINF:-1 tvg-id="CBC.eg" tvg-name="CBC" tvg-logo="" group-title="ARABES  ( العربية)",CBC
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/699
-#EXTINF:-1 tvg-id="CBCDrama.eg" tvg-name="|AR| CBC DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| CBC DRAMA
+#EXTINF:-1 tvg-id="CBCDrama.eg" tvg-name="CBC DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",CBC DRAMA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/700
-#EXTINF:-1 tvg-id="" tvg-name="|AR| CBC EXTRA NEWS" tvg-logo="" group-title="ARABES  ( العربية)",|AR| CBC EXTRA NEWS
+#EXTINF:-1 tvg-id="" tvg-name="CBC EXTRA NEWS" tvg-logo="" group-title="ARABES  ( العربية)",CBC EXTRA NEWS
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1795
-#EXTINF:-1 tvg-id="CBCSofra.eg" tvg-name="|AR| CBC SOFRA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| CBC SOFRA
+#EXTINF:-1 tvg-id="CBCSofra.eg" tvg-name="CBC SOFRA" tvg-logo="" group-title="ARABES  ( العربية)",CBC SOFRA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/701
-#EXTINF:-1 tvg-id="" tvg-name="|AR| NILE TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| NILE TV
+#EXTINF:-1 tvg-id="" tvg-name="NILE TV" tvg-logo="" group-title="ARABES  ( العربية)",NILE TV
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/111902
-#EXTINF:-1 tvg-id="NileCinema.eg" tvg-name="|AR| NILE CINEMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| NILE CINEMA
+#EXTINF:-1 tvg-id="NileCinema.eg" tvg-name="NILE CINEMA" tvg-logo="" group-title="ARABES  ( العربية)",NILE CINEMA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/686
-#EXTINF:-1 tvg-id="" tvg-name="|AR| NILE COMEDY" tvg-logo="" group-title="ARABES  ( العربية)",|AR| NILE COMEDY
+#EXTINF:-1 tvg-id="" tvg-name="NILE COMEDY" tvg-logo="" group-title="ARABES  ( العربية)",NILE COMEDY
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/687
-#EXTINF:-1 tvg-id="NileDrama.eg" tvg-name="|AR| NILE DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| NILE DRAMA
+#EXTINF:-1 tvg-id="NileDrama.eg" tvg-name="NILE DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",NILE DRAMA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/685
-#EXTINF:-1 tvg-id="NileLife.eg" tvg-name="|AR| NILE LIFE" tvg-logo="" group-title="ARABES  ( العربية)",|AR| NILE LIFE
+#EXTINF:-1 tvg-id="NileLife.eg" tvg-name="NILE LIFE" tvg-logo="" group-title="ARABES  ( العربية)",NILE LIFE
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1300
-#EXTINF:-1 tvg-id="NileSport.eg" tvg-name="|AR| NILE SPORTS" tvg-logo="" group-title="ARABES  ( العربية)",|AR| NILE SPORTS HD
+#EXTINF:-1 tvg-id="NileSport.eg" tvg-name="NILE SPORTS" tvg-logo="" group-title="ARABES  ( العربية)",NILE SPORTS HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/725
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL NAHAR" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL NAHAR HD
+#EXTINF:-1 tvg-id="" tvg-name="AL NAHAR" tvg-logo="" group-title="ARABES  ( العربية)",AL NAHAR HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1474
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL NAHAR DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL NAHAR DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="AL NAHAR DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",AL NAHAR DRAMA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/734
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MASRIYA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MASRIYA
+#EXTINF:-1 tvg-id="" tvg-name="AL MASRIYA" tvg-logo="" group-title="ARABES  ( العربية)",AL MASRIYA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1767
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL THANYA EGYPTE" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL THANYA EGYPTE
+#EXTINF:-1 tvg-id="" tvg-name="AL THANYA EGYPTE" tvg-logo="" group-title="ARABES  ( العربية)",AL THANYA EGYPTE
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/41998
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL KAHERA WAL NASS" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL KAHERA WAL NASS
+#EXTINF:-1 tvg-id="" tvg-name="AL KAHERA WAL NASS" tvg-logo="" group-title="ARABES  ( العربية)",AL KAHERA WAL NASS
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/5086
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL KAHERA WAL NASS 2" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL KAHERA WAL NASS 2
+#EXTINF:-1 tvg-id="" tvg-name="AL KAHERA WAL NASS 2" tvg-logo="" group-title="ARABES  ( العربية)",AL KAHERA WAL NASS 2
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1509
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MEKAMELEEN TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MEKAMELEEN TV
+#EXTINF:-1 tvg-id="" tvg-name="MEKAMELEEN TV" tvg-logo="" group-title="ARABES  ( العربية)",MEKAMELEEN TV
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/12058
-#EXTINF:-1 tvg-id="" tvg-name="|AR| EL SHARQ" tvg-logo="" group-title="ARABES  ( العربية)",|AR| EL SHARQ
+#EXTINF:-1 tvg-id="" tvg-name="EL SHARQ" tvg-logo="" group-title="ARABES  ( العربية)",EL SHARQ
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/5270
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ASHARQ" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ASHARQ FHD
+#EXTINF:-1 tvg-id="" tvg-name="ASHARQ" tvg-logo="" group-title="ARABES  ( العربية)",ASHARQ FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89979
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ON TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ON TV
+#EXTINF:-1 tvg-id="" tvg-name="ON TV" tvg-logo="" group-title="ARABES  ( العربية)",ON TV
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/728
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ON SPORT TV" tvg-logo="http://i.imgur.com/e8kfi0W.png" group-title="ARABES  ( العربية)",|AR| ON SPORT TV
+#EXTINF:-1 tvg-id="" tvg-name="ON SPORT TV" tvg-logo="http://i.imgur.com/e8kfi0W.png" group-title="ARABES  ( العربية)",ON SPORT TV
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/729
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ON TIME SPORTS" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ON TIME SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORTS" tvg-logo="" group-title="ARABES  ( العربية)",ON TIME SPORTS
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7089
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ONTIME SPORTS 2" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ONTIME SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="ONTIME SPORTS 2" tvg-logo="" group-title="ARABES  ( العربية)",ONTIME SPORTS 2
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42017
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL AHLY TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL AHLY TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="AL AHLY TV" tvg-logo="" group-title="ARABES  ( العربية)",AL AHLY TV FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/45588
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL ZAMALEK SPORTS" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL ZAMALEK SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="AL ZAMALEK SPORTS" tvg-logo="" group-title="ARABES  ( العربية)",AL ZAMALEK SPORTS
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42063
-#EXTINF:-1 tvg-id="" tvg-name="|AR| DMC" tvg-logo="" group-title="ARABES  ( العربية)",|AR| DMC HD
+#EXTINF:-1 tvg-id="" tvg-name="DMC" tvg-logo="" group-title="ARABES  ( العربية)",DMC HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/5093
-#EXTINF:-1 tvg-id="" tvg-name="|AR| DMC DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| DMC DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="DMC DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",DMC DRAMA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/5094
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ON DRAMA EGYPTE" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ON DRAMA EGYPTE
+#EXTINF:-1 tvg-id="" tvg-name="ON DRAMA EGYPTE" tvg-logo="" group-title="ARABES  ( العربية)",ON DRAMA EGYPTE
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42036
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL HADATH" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/al-arabiya-al-hadath-ae.png" group-title="ARABES  ( العربية)",|AR| AL HADATH FHD
+#EXTINF:-1 tvg-id="" tvg-name="AL HADATH" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/al-arabiya-al-hadath-ae.png" group-title="ARABES  ( العربية)",AL HADATH FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89974
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL ARABIA AL HADATH" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/al-arabiya-al-hadath-ae.png" group-title="ARABES  ( العربية)",|AR| AL ARABIA AL HADATH HD
+#EXTINF:-1 tvg-id="" tvg-name="AL ARABIA AL HADATH" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/al-arabiya-al-hadath-ae.png" group-title="ARABES  ( العربية)",AL ARABIA AL HADATH HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/5092
-#EXTINF:-1 tvg-id="AlHayat.eg" tvg-name="|AR| AL HAYAT" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL HAYAT HD
+#EXTINF:-1 tvg-id="AlHayat.eg" tvg-name="AL HAYAT" tvg-logo="" group-title="ARABES  ( العربية)",AL HAYAT HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/5089
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL HAYAT" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL HAYAT FHD
+#EXTINF:-1 tvg-id="" tvg-name="AL HAYAT" tvg-logo="" group-title="ARABES  ( العربية)",AL HAYAT FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/5088
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MASPERO ZAMAN" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MASPERO ZAMAN
+#EXTINF:-1 tvg-id="" tvg-name="MASPERO ZAMAN" tvg-logo="" group-title="ARABES  ( العربية)",MASPERO ZAMAN
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/5095
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL ITTIHAD TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL ITTIHAD TV
+#EXTINF:-1 tvg-id="" tvg-name="AL ITTIHAD TV" tvg-logo="" group-title="ARABES  ( العربية)",AL ITTIHAD TV
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2835
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAYADEEN TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAYADEEN TV
+#EXTINF:-1 tvg-id="" tvg-name="AL MAYADEEN TV" tvg-logo="" group-title="ARABES  ( العربية)",AL MAYADEEN TV
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/760
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL RASHEED" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL RASHEED FHD
+#EXTINF:-1 tvg-id="" tvg-name="AL RASHEED" tvg-logo="" group-title="ARABES  ( العربية)",AL RASHEED FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/759
-#EXTINF:-1 tvg-id="" tvg-name="|AR| PANORAMA FM" tvg-logo="" group-title="ARABES  ( العربية)",|AR| PANORAMA FM FHD
+#EXTINF:-1 tvg-id="" tvg-name="PANORAMA FM" tvg-logo="" group-title="ARABES  ( العربية)",PANORAMA FM FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89996
-#EXTINF:-1 tvg-id="" tvg-name="|AR| PANORAMA DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| PANORAMA DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="PANORAMA DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",PANORAMA DRAMA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/766
-#EXTINF:-1 tvg-id="" tvg-name="|AR| PANORAMA DRAMA 2" tvg-logo="" group-title="ARABES  ( العربية)",|AR| PANORAMA DRAMA 2
+#EXTINF:-1 tvg-id="" tvg-name="PANORAMA DRAMA 2" tvg-logo="" group-title="ARABES  ( العربية)",PANORAMA DRAMA 2
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1483
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SADA EL BALAD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SADA EL BALAD
+#EXTINF:-1 tvg-id="" tvg-name="SADA EL BALAD" tvg-logo="" group-title="ARABES  ( العربية)",SADA EL BALAD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42046
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SADA EL BALAD 2" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SADA EL BALAD 2
+#EXTINF:-1 tvg-id="" tvg-name="SADA EL BALAD 2" tvg-logo="" group-title="ARABES  ( العربية)",SADA EL BALAD 2
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42047
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SADA EL BALAD DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SADA EL BALAD DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="SADA EL BALAD DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",SADA EL BALAD DRAMA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42048
 #EXTINF:-1 tvg-id="" tvg-name="▀▄ QP ▀▄▀▄▀▄  QATAR ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ QP ▀▄▀▄▀▄  QATAR ▄▀▄▀▄▀
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/4115
-#EXTINF:-1 tvg-id="QatarTV.qa" tvg-name="|AR| QATAR TV" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/qatar-tv-ae.png" group-title="ARABES  ( العربية)",|AR| QATAR TV HD
+#EXTINF:-1 tvg-id="QatarTV.qa" tvg-name="QATAR TV" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/qatar-tv-ae.png" group-title="ARABES  ( العربية)",QATAR TV HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/5403
-#EXTINF:-1 tvg-id="" tvg-name="|AR| QATAR 2" tvg-logo="" group-title="ARABES  ( العربية)",|AR| QATAR 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="QATAR 2" tvg-logo="" group-title="ARABES  ( العربية)",QATAR 2 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7033
-#EXTINF:-1 tvg-id="AlKass.qa" tvg-name="|AR| AL KASS ONE" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| AL KASS ONE HD
+#EXTINF:-1 tvg-id="AlKass.qa" tvg-name="AL KASS ONE" tvg-logo="" group-title="BeIN AR Sports",AL KASS ONE HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/90323
-#EXTINF:-1 tvg-id="AlKass.qa" tvg-name="|AR| AL KASS ONE" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| AL KASS ONE FHD
+#EXTINF:-1 tvg-id="AlKass.qa" tvg-name="AL KASS ONE" tvg-logo="" group-title="BeIN AR Sports",AL KASS ONE FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1763
-#EXTINF:-1 tvg-id="AlKassTwo.qa" tvg-name="|AR| AL KASS TWO" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| AL KASS TWO FHD
+#EXTINF:-1 tvg-id="AlKassTwo.qa" tvg-name="AL KASS TWO" tvg-logo="" group-title="BeIN AR Sports",AL KASS TWO FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1764
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL KASS THREE" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| AL KASS THREE FHD
+#EXTINF:-1 tvg-id="" tvg-name="AL KASS THREE" tvg-logo="" group-title="BeIN AR Sports",AL KASS THREE FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/19726
-#EXTINF:-1 tvg-id="AlKassFour.qa" tvg-name="|AR| AL KASS FOUR" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| AL KASS FOUR FHD
+#EXTINF:-1 tvg-id="AlKassFour.qa" tvg-name="AL KASS FOUR" tvg-logo="" group-title="BeIN AR Sports",AL KASS FOUR FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1765
 #EXTINF:-1 tvg-id="" tvg-name="▀▄ KW ▀▄▀▄▀▄  KUWAIT ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ KW ▀▄▀▄▀▄  KUWAIT ▄▀▄▀▄▀
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/4112
-#EXTINF:-1 tvg-id="" tvg-name="|AR| KUWEIT TV 1" tvg-logo="" group-title="ARABES  ( العربية)",|AR| KUWEIT TV 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="KUWEIT TV 1" tvg-logo="" group-title="ARABES  ( العربية)",KUWEIT TV 1 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1773
-#EXTINF:-1 tvg-id="" tvg-name="|AR| KUWEIT TV 2" tvg-logo="" group-title="ARABES  ( العربية)",|AR| KUWEIT TV 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="KUWEIT TV 2" tvg-logo="" group-title="ARABES  ( العربية)",KUWEIT TV 2 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1775
-#EXTINF:-1 tvg-id="" tvg-name="|AR| KUWEIT TV AL.ARABI" tvg-logo="" group-title="ARABES  ( العربية)",|AR| KUWEIT TV AL.ARABI FHD
+#EXTINF:-1 tvg-id="" tvg-name="KUWEIT TV AL.ARABI" tvg-logo="" group-title="ARABES  ( العربية)",KUWEIT TV AL.ARABI FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1776
-#EXTINF:-1 tvg-id="" tvg-name="|AR| KUWEIT TV 2" tvg-logo="" group-title="ARABES  ( العربية)",|AR| KUWEIT TV 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="KUWEIT TV 2" tvg-logo="" group-title="ARABES  ( العربية)",KUWEIT TV 2 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1778
-#EXTINF:-1 tvg-id="" tvg-name="|AR| KUWEIT TV ETHRAA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| KUWEIT TV ETHRAA HD
+#EXTINF:-1 tvg-id="" tvg-name="KUWEIT TV ETHRAA" tvg-logo="" group-title="ARABES  ( العربية)",KUWEIT TV ETHRAA HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1777
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJLIS" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJLIS FHD
+#EXTINF:-1 tvg-id="" tvg-name="AL MAJLIS" tvg-logo="" group-title="ARABES  ( العربية)",AL MAJLIS FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1772
 #EXTINF:-1 tvg-id="" tvg-name="▀▄ KSA ▀▄▀▄▀▄  SAUDIA ARABIA ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ KSA ▀▄▀▄▀▄  SAUDIA ARABIA ▄▀▄▀▄▀
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/3724
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI 1" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/al-saudiya-ae.png" group-title="ARABES  ( العربية)",|AR| SAUDI 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="SAUDI 1" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/al-saudiya-ae.png" group-title="ARABES  ( العربية)",SAUDI 1 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/730
-#EXTINF:-1 tvg-id="Saudi1.sa" tvg-name="|AR| SAUDI TV" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/al-saudiya-ae.png" group-title="ARABES  ( العربية)",|AR| SAUDI TV FHD
+#EXTINF:-1 tvg-id="Saudi1.sa" tvg-name="SAUDI TV" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/al-saudiya-ae.png" group-title="ARABES  ( العربية)",SAUDI TV FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42066
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDIA" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/al-saudiya-ae.png" group-title="ARABES  ( العربية)",|AR| SAUDIA FHD
+#EXTINF:-1 tvg-id="" tvg-name="SAUDIA" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/al-saudiya-ae.png" group-title="ARABES  ( العربية)",SAUDIA FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89978
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ALIKHBARIYA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ALIKHBARIYA FHD
+#EXTINF:-1 tvg-id="" tvg-name="ALIKHBARIYA" tvg-logo="" group-title="ARABES  ( العربية)",ALIKHBARIYA FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89977
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI AL EKHBARIA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SAUDI AL EKHBARIA HD
+#EXTINF:-1 tvg-id="" tvg-name="SAUDI AL EKHBARIA" tvg-logo="" group-title="ARABES  ( العربية)",SAUDI AL EKHBARIA HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42067
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI  ALSAHRAA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SAUDI  ALSAHRAA
+#EXTINF:-1 tvg-id="" tvg-name="SAUDI  ALSAHRAA" tvg-logo="" group-title="ARABES  ( العربية)",SAUDI  ALSAHRAA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42073
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI RESSALA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SAUDI RESSALA
+#EXTINF:-1 tvg-id="" tvg-name="SAUDI RESSALA" tvg-logo="" group-title="ARABES  ( العربية)",SAUDI RESSALA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42068
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI SBC" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/sbc-ae.png" group-title="ARABES  ( العربية)",|AR| SAUDI SBC HD
+#EXTINF:-1 tvg-id="" tvg-name="SAUDI SBC" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/sbc-ae.png" group-title="ARABES  ( العربية)",SAUDI SBC HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42065
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD GENERAL" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD GENERAL
+#EXTINF:-1 tvg-id="" tvg-name="AL MAJD GENERAL" tvg-logo="" group-title="ARABES  ( العربية)",AL MAJD GENERAL
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/4365
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD MASA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD MASA
+#EXTINF:-1 tvg-id="" tvg-name="AL MAJD MASA" tvg-logo="" group-title="ARABES  ( العربية)",AL MAJD MASA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/19657
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BAHRAIN SPORT 1" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BAHRAIN SPORT 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="BAHRAIN SPORT 1" tvg-logo="" group-title="BeIN AR Sports",BAHRAIN SPORT 1 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7085
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BAHRAIN SPORT 2" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BAHRAIN SPORT 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="BAHRAIN SPORT 2" tvg-logo="" group-title="BeIN AR Sports",BAHRAIN SPORT 2 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7084
 #EXTINF:-1 tvg-id="" tvg-name="▀▄ SY ▀▄▀▄▀▄  SYRIA ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ SY ▀▄▀▄▀▄  SYRIA ▄▀▄▀▄▀
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/3722
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL SHARQYA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL SHARQYA TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="AL SHARQYA TV" tvg-logo="" group-title="ARABES  ( العربية)",AL SHARQYA TV FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/5091
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL SHARQYA NEWS" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL SHARQYA NEWS FHD
+#EXTINF:-1 tvg-id="" tvg-name="AL SHARQYA NEWS" tvg-logo="" group-title="ARABES  ( العربية)",AL SHARQYA NEWS FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/3645
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SYRIA CHANNEL" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SYRIA CHANNEL FHD
+#EXTINF:-1 tvg-id="" tvg-name="SYRIA CHANNEL" tvg-logo="" group-title="ARABES  ( العربية)",SYRIA CHANNEL FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/726
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SYRIA DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SYRIA DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="SYRIA DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",SYRIA DRAMA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/727
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SAMA SYRIA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SAMA SYRIA
+#EXTINF:-1 tvg-id="" tvg-name="SAMA SYRIA" tvg-logo="" group-title="ARABES  ( العربية)",SAMA SYRIA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/768
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SYRIAN EDUCATION" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SYRIAN EDUCATION
+#EXTINF:-1 tvg-id="" tvg-name="SYRIAN EDUCATION" tvg-logo="" group-title="ARABES  ( العربية)",SYRIAN EDUCATION
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7043
 #EXTINF:-1 tvg-id="" tvg-name="▀▄ AR ▀▄▀▄▀▄  OTHER COUNTRY ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ AR ▀▄▀▄▀▄  OTHER COUNTRY ▄▀▄▀▄▀
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/3720
-#EXTINF:-1 tvg-id="" tvg-name="|AR| JORDAN TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| JORDAN TV
+#EXTINF:-1 tvg-id="" tvg-name="JORDAN TV" tvg-logo="" group-title="ARABES  ( العربية)",JORDAN TV
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/22634
-#EXTINF:-1 tvg-id="" tvg-name="|AR| JORDAN SAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| JORDAN SAMA
+#EXTINF:-1 tvg-id="" tvg-name="JORDAN SAMA" tvg-logo="" group-title="ARABES  ( العربية)",JORDAN SAMA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/5409
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAMLAKA TV JORDANIE" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAMLAKA TV JORDANIE
+#EXTINF:-1 tvg-id="" tvg-name="AL MAMLAKA TV JORDANIE" tvg-logo="" group-title="ARABES  ( العربية)",AL MAMLAKA TV JORDANIE
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/45584
-#EXTINF:-1 tvg-id="" tvg-name="|AR| JORDAN AMEN" tvg-logo="" group-title="ARABES  ( العربية)",|AR| JORDAN AMEN
+#EXTINF:-1 tvg-id="" tvg-name="JORDAN AMEN" tvg-logo="" group-title="ARABES  ( العربية)",JORDAN AMEN
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2000
-#EXTINF:-1 tvg-id="" tvg-name="|AR| JORDAN SPORT" tvg-logo="" group-title="ARABES  ( العربية)",|AR| JORDAN SPORT
+#EXTINF:-1 tvg-id="" tvg-name="JORDAN SPORT" tvg-logo="" group-title="ARABES  ( العربية)",JORDAN SPORT
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1779
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL YAWM" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL YAWM FHD
+#EXTINF:-1 tvg-id="" tvg-name="AL YAWM" tvg-logo="" group-title="ARABES  ( العربية)",AL YAWM FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/45583
-#EXTINF:-1 tvg-id="mtv-catfish-tv-show-fr" tvg-name="|AR| AL MEHWAR TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MEHWAR TV FHD
+#EXTINF:-1 tvg-id="mtv-catfish-tv-show-fr" tvg-name="AL MEHWAR TV" tvg-logo="" group-title="ARABES  ( العربية)",AL MEHWAR TV FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/45546
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL FALLUJAH TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL FALLUJAH TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="AL FALLUJAH TV" tvg-logo="" group-title="ARABES  ( العربية)",AL FALLUJAH TV FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/45587
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SUDAN TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SUDAN TV
+#EXTINF:-1 tvg-id="" tvg-name="SUDAN TV" tvg-logo="" group-title="ARABES  ( العربية)",SUDAN TV
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/3603
-#EXTINF:-1 tvg-id="" tvg-name="|AR| LIBYA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| LIBYA TV
+#EXTINF:-1 tvg-id="" tvg-name="LIBYA TV" tvg-logo="" group-title="ARABES  ( العربية)",LIBYA TV
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2830
-#EXTINF:-1 tvg-id="" tvg-name="|AR| LIBYA AL AHRAR" tvg-logo="" group-title="ARABES  ( العربية)",|AR| LIBYA AL AHRAR FHD
+#EXTINF:-1 tvg-id="" tvg-name="LIBYA AL AHRAR" tvg-logo="" group-title="ARABES  ( العربية)",LIBYA AL AHRAR FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1794
-#EXTINF:-1 tvg-id="" tvg-name="|AR| LIBYA SPORT" tvg-logo="" group-title="ARABES  ( العربية)",|AR| LIBYA SPORT
+#EXTINF:-1 tvg-id="" tvg-name="LIBYA SPORT" tvg-logo="" group-title="ARABES  ( العربية)",LIBYA SPORT
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/3600
-#EXTINF:-1 tvg-id="" tvg-name="|AR| PALESTINE PFC" tvg-logo="" group-title="ARABES  ( العربية)",|AR| PALESTINE PFC
+#EXTINF:-1 tvg-id="" tvg-name="PALESTINE PFC" tvg-logo="" group-title="ARABES  ( العربية)",PALESTINE PFC
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/758
-#EXTINF:-1 tvg-id="" tvg-name="|AR| PALESTINE LIVE" tvg-logo="" group-title="ARABES  ( العربية)",|AR| PALESTINE LIVE FHD
+#EXTINF:-1 tvg-id="" tvg-name="PALESTINE LIVE" tvg-logo="" group-title="ARABES  ( العربية)",PALESTINE LIVE FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7035
-#EXTINF:-1 tvg-id="" tvg-name="|AR| PALESTINE TV NEWS" tvg-logo="" group-title="ARABES  ( العربية)",|AR| PALESTINE TV NEWS FHD
+#EXTINF:-1 tvg-id="" tvg-name="PALESTINE TV NEWS" tvg-logo="" group-title="ARABES  ( العربية)",PALESTINE TV NEWS FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7036
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL QUDS TODAY TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL QUDS TODAY TV
+#EXTINF:-1 tvg-id="" tvg-name="AL QUDS TODAY TV" tvg-logo="" group-title="ARABES  ( العربية)",AL QUDS TODAY TV
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/761
-#EXTINF:-1 tvg-id="" tvg-name="|AR| PALESTINE TODAY" tvg-logo="" group-title="ARABES  ( العربية)",|AR| PALESTINE TODAY
+#EXTINF:-1 tvg-id="" tvg-name="PALESTINE TODAY" tvg-logo="" group-title="ARABES  ( العربية)",PALESTINE TODAY
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7031
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ANB IRAQ" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ANB IRAQ
+#EXTINF:-1 tvg-id="" tvg-name="ANB IRAQ" tvg-logo="" group-title="ARABES  ( العربية)",ANB IRAQ
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7034
 #EXTINF:-1 tvg-id="" tvg-name="▀▄ AR ▀▄▀▄▀▄  INFORMATION ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ AR ▀▄▀▄▀▄  INFORMATION ▄▀▄▀▄▀
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/3730
-#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="|AR| AL JAZEERA" tvg-logo="http://i.imgur.com/jLxN3D8.png" group-title="ARABES  ( العربية)",|AR| AL JAZEERA HD
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="AL JAZEERA" tvg-logo="http://i.imgur.com/jLxN3D8.png" group-title="ARABES  ( العربية)",AL JAZEERA HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/45586
-#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="|AR| AL JAZEERA" tvg-logo="http://i.imgur.com/jLxN3D8.png" group-title="ARABES  ( العربية)",|AR| AL JAZEERA FHD
+#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="AL JAZEERA" tvg-logo="http://i.imgur.com/jLxN3D8.png" group-title="ARABES  ( العربية)",AL JAZEERA FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/6057
-#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="|AR| AL JAZEERA MUBASHER 2" tvg-logo="http://i.imgur.com/jLxN3D8.png" group-title="ARABES  ( العربية)",|AR| AL JAZEERA MUBASHER 2 HD
+#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="AL JAZEERA MUBASHER 2" tvg-logo="http://i.imgur.com/jLxN3D8.png" group-title="ARABES  ( العربية)",AL JAZEERA MUBASHER 2 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/269
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL JAZEERA ENGLISH" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL JAZEERA ENGLISH HD
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA ENGLISH" tvg-logo="" group-title="ARABES  ( العربية)",AL JAZEERA ENGLISH HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7028
-#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-name="|AR| AL JAZEERA MUBASHER" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL JAZEERA MUBASHER
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-name="AL JAZEERA MUBASHER" tvg-logo="" group-title="ARABES  ( العربية)",AL JAZEERA MUBASHER
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7029
-#EXTINF:-1 tvg-id="Alarabiya.sa" tvg-name="|AR| AL ARABIYA" tvg-logo="http://i.imgur.com/bztmSXX.png" group-title="ARABES  ( العربية)",|AR| AL ARABIYA HD
+#EXTINF:-1 tvg-id="Alarabiya.sa" tvg-name="AL ARABIYA" tvg-logo="http://i.imgur.com/bztmSXX.png" group-title="ARABES  ( العربية)",AL ARABIYA HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/343
-#EXTINF:-1 tvg-id="Alarabiya.sa" tvg-name="|AR| AL ARABIYA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL ARABIYA FHD
+#EXTINF:-1 tvg-id="Alarabiya.sa" tvg-name="AL ARABIYA" tvg-logo="" group-title="ARABES  ( العربية)",AL ARABIYA FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89973
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL ARABIYA BUSINESS" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL ARABIYA BUSINESS FHD
+#EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA BUSINESS" tvg-logo="" group-title="ARABES  ( العربية)",AL ARABIYA BUSINESS FHD
 https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| FRANCE 24" tvg-logo="http://i.imgur.com/jELYlh5.png" group-title="ARABES  ( العربية)",|AR| FRANCE 24 HD
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="http://i.imgur.com/jELYlh5.png" group-title="ARABES  ( العربية)",FRANCE 24 HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/344
-#EXTINF:-1 tvg-id="" tvg-name="|AR| CGTN ARABIA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| CGTN ARABIA
+#EXTINF:-1 tvg-id="" tvg-name="CGTN ARABIA" tvg-logo="" group-title="ARABES  ( العربية)",CGTN ARABIA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/19596
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SKY NEWS ARABIYA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SKY NEWS ARABIYA HD
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS ARABIYA" tvg-logo="" group-title="ARABES  ( العربية)",SKY NEWS ARABIYA HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/585
-#EXTINF:-1 tvg-id="" tvg-name="|AR| RT ARABIC" tvg-logo="" group-title="ARABES  ( العربية)",|AR| RT ARABIC FHD
+#EXTINF:-1 tvg-id="" tvg-name="RT ARABIC" tvg-logo="" group-title="ARABES  ( العربية)",RT ARABIC FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1770
-#EXTINF:-1 tvg-id="" tvg-name="|AR| EURONEWS" tvg-logo="http://i.imgur.com/eoxsyGr.png" group-title="ARABES  ( العربية)",|AR| EURONEWS
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS" tvg-logo="http://i.imgur.com/eoxsyGr.png" group-title="ARABES  ( العربية)",EURONEWS
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/871
-#EXTINF:-1 tvg-id="" tvg-name="|AR| DW TV ARABIA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| DW TV ARABIA
+#EXTINF:-1 tvg-id="" tvg-name="DW TV ARABIA" tvg-logo="" group-title="ARABES  ( العربية)",DW TV ARABIA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/869
-#EXTINF:-1 tvg-id="AlAan.ae" tvg-name="|AR| ALAAN TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ALAAN TV HD
+#EXTINF:-1 tvg-id="AlAan.ae" tvg-name="ALAAN TV" tvg-logo="" group-title="ARABES  ( العربية)",ALAAN TV HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/755
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BBC NEWS ARABIA" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/international/bbc-news-arabic-white-hz-int.png" group-title="ARABES  ( العربية)",|AR| BBC NEWS ARABIA FHD
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS ARABIA" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/international/bbc-news-arabic-white-hz-int.png" group-title="ARABES  ( العربية)",BBC NEWS ARABIA FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/754
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL ARABY TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL ARABY TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="AL ARABY TV" tvg-logo="" group-title="ARABES  ( العربية)",AL ARABY TV FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/12068
-#EXTINF:-1 tvg-id="" tvg-name="|AR| TRT ARABIYA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| TRT ARABIYA
+#EXTINF:-1 tvg-id="" tvg-name="TRT ARABIYA" tvg-logo="" group-title="ARABES  ( العربية)",TRT ARABIYA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/2614
 #EXTINF:-1 tvg-id="" tvg-name="▀▄ AR ▀▄▀▄▀▄  DOC ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ AR ▀▄▀▄▀▄  DOC ▄▀▄▀▄▀
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/3725
-#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="|AR| AL JAZEERA DOCUMENTARY" tvg-logo="http://i.imgur.com/br8qG1j.png" group-title="ARABES  ( العربية)",|AR| AL JAZEERA DOCUMENTARY HD
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="AL JAZEERA DOCUMENTARY" tvg-logo="http://i.imgur.com/br8qG1j.png" group-title="ARABES  ( العربية)",AL JAZEERA DOCUMENTARY HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/345
-#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-name="|AR| NATIONAL GEO AD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/national-geographic-abu-dhabi-ae.png" group-title="ARABES  ( العربية)",|AR| NATIONAL GEO AD FHD
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-name="NATIONAL GEO AD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/national-geographic-abu-dhabi-ae.png" group-title="ARABES  ( العربية)",NATIONAL GEO AD FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/332
-#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-name="|AR| NATIONAL GEO AD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/national-geographic-abu-dhabi-ae.png" group-title="ARABES  ( العربية)",|AR| NATIONAL GEO AD HD
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-name="NATIONAL GEO AD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/national-geographic-abu-dhabi-ae.png" group-title="ARABES  ( العربية)",NATIONAL GEO AD HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1561
-#EXTINF:-1 tvg-id="pluto-tv-teen-series-fr" tvg-name="|AR| HELWA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| HELWA TV FHD
+#EXTINF:-1 tvg-id="pluto-tv-teen-series-fr" tvg-name="HELWA TV" tvg-logo="" group-title="ARABES  ( العربية)",HELWA TV FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/45548
-#EXTINF:-1 tvg-id="" tvg-name="|AR| PANORAMA FOOD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| PANORAMA FOOD
+#EXTINF:-1 tvg-id="" tvg-name="PANORAMA FOOD" tvg-logo="" group-title="ARABES  ( العربية)",PANORAMA FOOD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42022
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ANIMAL PLANET ARABIA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ANIMAL PLANET ARABIA HD
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET ARABIA" tvg-logo="" group-title="ARABES  ( العربية)",ANIMAL PLANET ARABIA HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/5233
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD SCIENTIFIC" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD SCIENTIFIC
+#EXTINF:-1 tvg-id="" tvg-name="AL MAJD SCIENTIFIC" tvg-logo="" group-title="ARABES  ( العربية)",AL MAJD SCIENTIFIC
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/5232
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD DOCUMENTARY" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD DOCUMENTARY
+#EXTINF:-1 tvg-id="" tvg-name="AL MAJD DOCUMENTARY" tvg-logo="" group-title="ARABES  ( العربية)",AL MAJD DOCUMENTARY
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/5223
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD NATURAL" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD NATURAL
+#EXTINF:-1 tvg-id="" tvg-name="AL MAJD NATURAL" tvg-logo="" group-title="ARABES  ( العربية)",AL MAJD NATURAL
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7030
 #EXTINF:-1 tvg-id="" tvg-name="▀▄ AR ▀▄▀▄▀▄  ISLAMIC ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ AR ▀▄▀▄▀▄  ISLAMIC ▄▀▄▀▄▀
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/3727
-#EXTINF:-1 tvg-id="" tvg-name="|AR| IQRA" tvg-logo="http://i.imgur.com/TRcKrY9.png" group-title="ARABES  ( العربية)",|AR| IQRA
+#EXTINF:-1 tvg-id="" tvg-name="IQRA" tvg-logo="http://i.imgur.com/TRcKrY9.png" group-title="ARABES  ( العربية)",IQRA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/523
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD 1" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AL MAJD 1" tvg-logo="" group-title="ARABES  ( العربية)",AL MAJD 1 FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7032
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD QURAN" tvg-logo="http://i.imgur.com/nyWnWq8.png" group-title="ARABES  ( العربية)",|AR| AL MAJD QURAN
+#EXTINF:-1 tvg-id="" tvg-name="AL MAJD QURAN" tvg-logo="http://i.imgur.com/nyWnWq8.png" group-title="ARABES  ( العربية)",AL MAJD QURAN
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/270
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD HADITH" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD HADITH
+#EXTINF:-1 tvg-id="" tvg-name="AL MAJD HADITH" tvg-logo="" group-title="ARABES  ( العربية)",AL MAJD HADITH
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1766
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ZAD TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ZAD TV
+#EXTINF:-1 tvg-id="" tvg-name="ZAD TV" tvg-logo="" group-title="ARABES  ( العربية)",ZAD TV
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7233
-#EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="|AR| AL RESALA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL RESALA HD
+#EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="AL RESALA" tvg-logo="" group-title="ARABES  ( العربية)",AL RESALA HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/649
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL NADA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL NADA TV HD
+#EXTINF:-1 tvg-id="" tvg-name="AL NADA TV" tvg-logo="" group-title="ARABES  ( العربية)",AL NADA TV HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/112047
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL NASS TV" tvg-logo="http://i.imgur.com/75ZwdOa.png" group-title="ARABES  ( العربية)",|AR| AL NASS TV
+#EXTINF:-1 tvg-id="" tvg-name="AL NASS TV" tvg-logo="http://i.imgur.com/75ZwdOa.png" group-title="ARABES  ( العربية)",AL NASS TV
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/387
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI QURAN" tvg-logo="http://i.imgur.com/akthN6N.png" group-title="ARABES  ( العربية)",|AR| SAUDI QURAN HD
+#EXTINF:-1 tvg-id="" tvg-name="SAUDI QURAN" tvg-logo="http://i.imgur.com/akthN6N.png" group-title="ARABES  ( العربية)",SAUDI QURAN HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/272
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI QURAN" tvg-logo="http://i.imgur.com/akthN6N.png" group-title="ARABES  ( العربية)",|AR| SAUDI QURAN FHD
+#EXTINF:-1 tvg-id="" tvg-name="SAUDI QURAN" tvg-logo="http://i.imgur.com/akthN6N.png" group-title="ARABES  ( العربية)",SAUDI QURAN FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/762
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL QURAAN EL KAREEM" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL QURAAN EL KAREEM FHD
+#EXTINF:-1 tvg-id="" tvg-name="AL QURAAN EL KAREEM" tvg-logo="" group-title="ARABES  ( العربية)",AL QURAAN EL KAREEM FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89975
-#EXTINF:-1 tvg-id="Sunnah.sa" tvg-name="|AR| SAUDI SUNNA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SAUDI SUNNA HD
+#EXTINF:-1 tvg-id="Sunnah.sa" tvg-name="SAUDI SUNNA" tvg-logo="" group-title="ARABES  ( العربية)",SAUDI SUNNA HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/732
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI SUNNA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SAUDI SUNNA FHD
+#EXTINF:-1 tvg-id="" tvg-name="SAUDI SUNNA" tvg-logo="" group-title="ARABES  ( العربية)",SAUDI SUNNA FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/724
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL SUNNAH NABAWIYAH" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL SUNNAH NABAWIYAH FHD
+#EXTINF:-1 tvg-id="" tvg-name="AL SUNNAH NABAWIYAH" tvg-logo="" group-title="ARABES  ( العربية)",AL SUNNAH NABAWIYAH FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89976
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI EL HAJ" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SAUDI EL HAJ
+#EXTINF:-1 tvg-id="" tvg-name="SAUDI EL HAJ" tvg-logo="" group-title="ARABES  ( العربية)",SAUDI EL HAJ
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/3643
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MAKKAH TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MAKKAH TV
+#EXTINF:-1 tvg-id="" tvg-name="MAKKAH TV" tvg-logo="" group-title="ARABES  ( العربية)",MAKKAH TV
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/757
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MANAR" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/al-manar-lb.png" group-title="ARABES  ( العربية)",|AR| AL MANAR
+#EXTINF:-1 tvg-id="" tvg-name="AL MANAR" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/al-manar-lb.png" group-title="ARABES  ( العربية)",AL MANAR
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/765
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL INSEN" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL INSEN
+#EXTINF:-1 tvg-id="" tvg-name="AL INSEN" tvg-logo="" group-title="ARABES  ( العربية)",AL INSEN
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/1780
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL BASIRA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL BASIRA
+#EXTINF:-1 tvg-id="" tvg-name="AL BASIRA" tvg-logo="" group-title="ARABES  ( العربية)",AL BASIRA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42100
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL RAHMA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL RAHMA TV
+#EXTINF:-1 tvg-id="" tvg-name="AL RAHMA TV" tvg-logo="" group-title="ARABES  ( العربية)",AL RAHMA TV
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42095
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SAFA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SAFA TV
+#EXTINF:-1 tvg-id="" tvg-name="SAFA TV" tvg-logo="" group-title="ARABES  ( العربية)",SAFA TV
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42099
-#EXTINF:-1 tvg-id="" tvg-name="|AR| TANASOH" tvg-logo="" group-title="ARABES  ( العربية)",|AR| TANASOH
+#EXTINF:-1 tvg-id="" tvg-name="TANASOH" tvg-logo="" group-title="ARABES  ( العربية)",TANASOH
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42096
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ALIMAN TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ALIMAN TV
+#EXTINF:-1 tvg-id="" tvg-name="ALIMAN TV" tvg-logo="" group-title="ARABES  ( العربية)",ALIMAN TV
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42076
 #EXTINF:-1 tvg-id="" tvg-name="▀▄ AR ▀▄▀▄▀▄  KIDS ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ AR ▀▄▀▄▀▄  KIDS ▄▀▄▀▄▀
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/3729
-#EXTINF:-1 tvg-id="" tvg-name="|AR| DISNEY JUNIOR" tvg-logo="" group-title="ARABES  ( العربية)",|AR| DISNEY JUNIOR HD
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="ARABES  ( العربية)",DISNEY JUNIOR HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/5096
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SPACETOON" tvg-logo="http://i.imgur.com/eHw38xa.png" group-title="ARABES  ( العربية)",|AR| SPACETOON
+#EXTINF:-1 tvg-id="" tvg-name="SPACETOON" tvg-logo="http://i.imgur.com/eHw38xa.png" group-title="ARABES  ( العربية)",SPACETOON
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/568
-#EXTINF:-1 tvg-id="SpaceToon.sa" tvg-name="|AR| SPACETOON" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SPACETOON FHD
+#EXTINF:-1 tvg-id="SpaceToon.sa" tvg-name="SPACETOON" tvg-logo="" group-title="ARABES  ( العربية)",SPACETOON FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/90005
-#EXTINF:-1 tvg-id="CartoonNetwork.qa" tvg-name="|AR| CARTOON NETWORK ARABIA" tvg-logo="http://i.imgur.com/QznQYb7.png" group-title="ARABES  ( العربية)",|AR| CARTOON NETWORK ARABIA
+#EXTINF:-1 tvg-id="CartoonNetwork.qa" tvg-name="CARTOON NETWORK ARABIA" tvg-logo="http://i.imgur.com/QznQYb7.png" group-title="ARABES  ( العربية)",CARTOON NETWORK ARABIA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/414
-#EXTINF:-1 tvg-id="" tvg-name="|AR| CARTOON NETWORK" tvg-logo="" group-title="ARABES  ( العربية)",|AR| CARTOON NETWORK FHD
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="ARABES  ( العربية)",CARTOON NETWORK FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89980
-#EXTINF:-1 tvg-id="" tvg-name="|AR| TOYOR EL JANNAH" tvg-logo="http://i.imgur.com/qG3sWFM.png" group-title="ARABES  ( العربية)",|AR| TOYOR EL JANNAH
+#EXTINF:-1 tvg-id="" tvg-name="TOYOR EL JANNAH" tvg-logo="http://i.imgur.com/qG3sWFM.png" group-title="ARABES  ( العربية)",TOYOR EL JANNAH
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/271
-#EXTINF:-1 tvg-id="" tvg-name="|AR| TOYOR BABY" tvg-logo="http://i.imgur.com/tGjib1L.png" group-title="ARABES  ( العربية)",|AR| TOYOR BABY
+#EXTINF:-1 tvg-id="" tvg-name="TOYOR BABY" tvg-logo="http://i.imgur.com/tGjib1L.png" group-title="ARABES  ( العربية)",TOYOR BABY
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/534
-#EXTINF:-1 tvg-id="Baraem.qa" tvg-name="|AR| BARAEM" tvg-logo="" group-title="ARABES  ( العربية)",|AR| BARAEM HD
+#EXTINF:-1 tvg-id="Baraem.qa" tvg-name="BARAEM" tvg-logo="" group-title="ARABES  ( العربية)",BARAEM HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/41999
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BARAEM" tvg-logo="" group-title="ARABES  ( العربية)",|AR| BARAEM FHD
+#EXTINF:-1 tvg-id="" tvg-name="BARAEM" tvg-logo="" group-title="ARABES  ( العربية)",BARAEM FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/68966
-#EXTINF:-1 tvg-id="" tvg-name="|AR| JEEM" tvg-logo="" group-title="ARABES  ( العربية)",|AR| JEEM HD
+#EXTINF:-1 tvg-id="" tvg-name="JEEM" tvg-logo="" group-title="ARABES  ( العربية)",JEEM HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42088
-#EXTINF:-1 tvg-id="" tvg-name="|AR| GULLI ARABIC" tvg-logo="" group-title="ARABES  ( العربية)",|AR| GULLI ARABIC
+#EXTINF:-1 tvg-id="" tvg-name="GULLI ARABIC" tvg-logo="" group-title="ARABES  ( العربية)",GULLI ARABIC
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/679
-#EXTINF:-1 tvg-id="" tvg-name="|AR| GULLI BIL ARABI" tvg-logo="" group-title="ARABES  ( العربية)",|AR| GULLI BIL ARABI FHD
+#EXTINF:-1 tvg-id="" tvg-name="GULLI BIL ARABI" tvg-logo="" group-title="ARABES  ( العربية)",GULLI BIL ARABI FHD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/89982
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA KIDS" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROTANA KIDS HD
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA KIDS" tvg-logo="" group-title="ARABES  ( العربية)",ROTANA KIDS HD
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42102
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MAJID KIDS" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/majid-tv-ae.png" group-title="ARABES  ( العربية)",|AR| MAJID KIDS
+#EXTINF:-1 tvg-id="" tvg-name="MAJID KIDS" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/majid-tv-ae.png" group-title="ARABES  ( العربية)",MAJID KIDS
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/42084
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD BASMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD BASMA
+#EXTINF:-1 tvg-id="" tvg-name="AL MAJD BASMA" tvg-logo="" group-title="ARABES  ( العربية)",AL MAJD BASMA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/5231
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD TAGHAREED" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD TAGHAREED
+#EXTINF:-1 tvg-id="" tvg-name="AL MAJD TAGHAREED" tvg-logo="" group-title="ARABES  ( العربية)",AL MAJD TAGHAREED
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7072
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD RAWDA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD RAWDA
+#EXTINF:-1 tvg-id="" tvg-name="AL MAJD RAWDA" tvg-logo="" group-title="ARABES  ( العربية)",AL MAJD RAWDA
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/7090
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD KIDS" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD KIDS
+#EXTINF:-1 tvg-id="" tvg-name="AL MAJD KIDS" tvg-logo="" group-title="ARABES  ( العربية)",AL MAJD KIDS
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/12672
 #EXTINF:-1 tvg-id="" tvg-name="------▼|DE|-CHAINES.ALLEMANDE-|DE|▼------" tvg-logo="" group-title="",------▼|DE|-CHAINES.ALLEMANDE-|DE|▼------
 http://www.r365mail.bingo:80/jTam7QTC/aNb4YNk/198
