@@ -1,5 +1,37 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 tvg-id="beIN_SPORTS_XTRA_04_bein.com_AR.bein" tvg-name="" group-title="|AR| COUPE D'AFRIQUE 2025 كأس الأمم الإفريقية" tvg-logo="https://i.imgur.com/eq46JQQ_d.png?maxwidth=520&shape=thumb&fidelity=high",BEIN AFCON 1  - LIVE EVENT
+http://pvtop-es.online:80/live/raul3514115(3)/YWRSkwjk3F/106530.ts
+#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="" group-title="|AR| COUPE D'AFRIQUE 2025 كأس الأمم الإفريقية" tvg-logo="https://i.imgur.com/eq46JQQ_d.png?maxwidth=520&shape=thumb&fidelity=high",BEIN AFCON 1 4K
+http://pvtop-es.online:80/live/raul3514115(3)/YWRSkwjk3F/152749.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|AR| COUPE D'AFRIQUE 2025 كأس الأمم الإفريقية" tvg-logo="https://i.imgur.com/eq46JQQ_d.png?maxwidth=520&shape=thumb&fidelity=high",BEIN AFCON 1 4K BKP
+http://pvtop-es.online:80/live/raul3514115(3)/YWRSkwjk3F/21586.ts
+#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="" group-title="|AR| COUPE D'AFRIQUE 2025 كأس الأمم الإفريقية" tvg-logo="https://i.imgur.com/eq46JQQ_d.png?maxwidth=520&shape=thumb&fidelity=high",BEIN AFCON 1 HD
+http://pvtop-es.online:80/live/raul3514115(3)/YWRSkwjk3F/152750.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|AR| COUPE D'AFRIQUE 2025 كأس الأمم الإفريقية" tvg-logo="https://i.imgur.com/eq46JQQ_d.png?maxwidth=520&shape=thumb&fidelity=high",BEIN AFCON 1 HD BKP
+http://pvtop-es.online:80/live/raul3514115(3)/YWRSkwjk3F/21591.ts
+#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="" group-title="|AR| COUPE D'AFRIQUE 2025 كأس الأمم الإفريقية" tvg-logo="https://i.imgur.com/eq46JQQ_d.png?maxwidth=520&shape=thumb&fidelity=high",BEIN AFCON 1 FHD
+http://pvtop-es.online:80/live/raul3514115(3)/YWRSkwjk3F/106529.ts
+#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="" group-title="|AR| COUPE D'AFRIQUE 2025 كأس الأمم الإفريقية" tvg-logo="https://i.imgur.com/eq46JQQ_d.png?maxwidth=520&shape=thumb&fidelity=high",BEIN AFCON 1 SD
+http://pvtop-es.online:80/live/raul3514115(3)/YWRSkwjk3F/152751.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|AR| COUPE D'AFRIQUE 2025 كأس الأمم الإفريقية" tvg-logo="https://i.imgur.com/eq46JQQ_d.png?maxwidth=520&shape=thumb&fidelity=high",BEIN AFCON 2 - LIVE EVENT
+http://pvtop-es.online:80/live/raul3514115(3)/YWRSkwjk3F/106534.ts
+#EXTINF:-1 tvg-id="beinsportsmax2.qa" tvg-name="" group-title="|AR| COUPE D'AFRIQUE 2025 كأس الأمم الإفريقية" tvg-logo="https://i.imgur.com/eq46JQQ_d.png?maxwidth=520&shape=thumb&fidelity=high",BEIN AFCON 2 FHD
+http://pvtop-es.online:80/live/raul3514115(3)/YWRSkwjk3F/106533.ts
+#EXTINF:-1 tvg-id="beinsportsmax2.qa" tvg-name="" group-title="|AR| COUPE D'AFRIQUE 2025 كأس الأمم الإفريقية" tvg-logo="https://i.imgur.com/eq46JQQ_d.png?maxwidth=520&shape=thumb&fidelity=high",BEIN AFCON 2 4K
+http://pvtop-es.online:80/live/raul3514115(3)/YWRSkwjk3F/152752.ts
+#EXTINF:-1 tvg-id="beinsportsmax2.qa" tvg-name="" group-title="|AR| COUPE D'AFRIQUE 2025 كأس الأمم الإفريقية" tvg-logo="https://i.imgur.com/eq46JQQ_d.png?maxwidth=520&shape=thumb&fidelity=high",BEIN AFCON 2 HD
+http://pvtop-es.online:80/live/raul3514115(3)/YWRSkwjk3F/152753.ts
+#EXTINF:-1 tvg-id="beinsportsmax2.qa" tvg-name="" group-title="|AR| COUPE D'AFRIQUE 2025 كأس الأمم الإفريقية" tvg-logo="https://i.imgur.com/eq46JQQ_d.png?maxwidth=520&shape=thumb&fidelity=high",BEIN AFCON 2 SD
+http://pvtop-es.online:80/live/raul3514115(3)/YWRSkwjk3F/152754.ts
+#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="" group-title="|AR| COUPE D'AFRIQUE 2025 كأس الأمم الإفريقية" tvg-logo="https://i.imgur.com/eq46JQQ_d.png?maxwidth=520&shape=thumb&fidelity=high",BEIN AFCON 3 4K
+http://pvtop-es.online:80/live/raul3514115(3)/YWRSkwjk3F/141080.ts
+#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="" group-title="|AR| COUPE D'AFRIQUE 2025 كأس الأمم الإفريقية" tvg-logo="https://i.imgur.com/eq46JQQ_d.png?maxwidth=520&shape=thumb&fidelity=high",BEIN AFCON 3 HD
+http://pvtop-es.online:80/live/raul3514115(3)/YWRSkwjk3F/141079.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|AR| COUPE D'AFRIQUE 2025 كأس الأمم الإفريقية" tvg-logo="https://i.imgur.com/eq46JQQ_d.png?maxwidth=520&shape=thumb&fidelity=high",BEIN BEIN AFCON 4 4K
+http://pvtop-es.online:80/live/raul3514115(3)/YWRSkwjk3F/21602.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="|AR| COUPE D'AFRIQUE 2025 كأس الأمم الإفريقية" tvg-logo="https://i.imgur.com/eq46JQQ_d.png?maxwidth=520&shape=thumb&fidelity=high",BEIN BEIN AFCON 4 HD
+http://pvtop-es.online:80/live/raul3514115(3)/YWRSkwjk3F/22352.ts
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="24 HORAS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxcjYWNCysfZ2ukdtggBDRk.png" group-title="ESP+",24 HORAS HD
 http://pvtop-es.online:80/raul3514115(3)/YWRSkwjk3F/1443
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="24 HORAS" tvg-logo="http://4jrjtklyumkkdfjjjsjsghhshg.dynuddns.net:80/images/QupVps96AQ6tQkBCTzXwJxcjYWNCysfZ2ukdtggBDRk.png" group-title="ESP+",24 HORAS FHD
