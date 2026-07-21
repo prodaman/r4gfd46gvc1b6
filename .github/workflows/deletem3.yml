@@ -1,14 +1,2 @@
-      - name: Borrar todos los m3u
-        run: |
-          find . -type f -name "*.m3u" -print -delete
-
-      - name: Commit cambios
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "github-actions@github.com"
-
-          git add -A
-          git status
-
-          git commit -m "Eliminar archivos m3u" || exit 0
-          git push
+git filter-repo --path-glob "*.m3u" --invert-paths
+git push --force
