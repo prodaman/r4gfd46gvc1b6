@@ -1,4 +1,4 @@
-name: Remove M3U history
+name: Delete M3U files
 
 on:
   workflow_dispatch:
@@ -7,33 +7,24 @@ permissions:
   contents: write
 
 jobs:
-  clean-history:
+  delete-m3u:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout completo
+      - name: Descargar repositorio
         uses: actions/checkout@v5
-        with:
-          fetch-depth: 0
 
-      - name: Instalar git-filter-repo
+      - name: Borrar archivos m3u
         run: |
-          pip install git-filter-repo
+          find . -type f -name "*.m3u" -delete
 
-      - name: Eliminar archivos m3u del historial
+      - name: Guardar cambios
         run: |
-          git filter-repo --path-glob "*.m3u" --invert-paths --force
+          git config user.name "GitHub Actions"
+          git config user.email "github-actions@github.com"
 
-      - name: Optimizar repositorio
-        run: |
-          git gc --prune=now --aggressive
+          git add -A
 
-      - name: Restaurar remote
-        run: |
-          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/prodaman/r4gfd46gvc1b6.git
+          git commit -m "Eliminar archivos m3u" || echo "No hay cambios"
 
-      - name: Forzar subida
-        run: |
-          git config http.postBuffer 524288000
-          git config http.maxRequestBuffer 100M
-          git push --force origin main
+          git push
