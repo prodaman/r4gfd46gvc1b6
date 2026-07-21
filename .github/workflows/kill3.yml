@@ -20,12 +20,15 @@ jobs:
         run: |
           pip install git-filter-repo
 
-      - name: Eliminar m3u del historial
+      - name: Eliminar archivos m3u del historial
         run: |
           git filter-repo --path-glob "*.m3u" --invert-paths --force
 
-      - name: Configurar remote y subir
+      - name: Restaurar remote
         run: |
-          git remote add origin https://github.com/prodaman/r4gfd46gvc1.git
+          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/prodaman/r4gfd46gvc1b6.git
+
+      - name: Forzar subida
+        run: |
           git push --force --all origin
           git push --force --tags origin
