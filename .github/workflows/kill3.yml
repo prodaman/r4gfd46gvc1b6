@@ -24,7 +24,8 @@ jobs:
         run: |
           git filter-repo --path-glob "*.m3u" --invert-paths --force
 
-      - name: Forzar subida
+      - name: Configurar remote y subir
         run: |
-          git push --force --all
-          git push --force --tags
+          git remote add origin https://github.com/prodaman/r4gfd46gvc1.git
+          git push --force --all origin
+          git push --force --tags origin
