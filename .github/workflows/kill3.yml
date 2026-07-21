@@ -1,2 +1,30 @@
-git filter-repo --path-glob "*.m3u" --invert-paths
-git push --force
+name: Remove M3U history
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  clean-history:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout completo
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Instalar git-filter-repo
+        run: |
+          pip install git-filter-repo
+
+      - name: Eliminar m3u del historial
+        run: |
+          git filter-repo --path-glob "*.m3u" --invert-paths --force
+
+      - name: Forzar subida
+        run: |
+          git push --force --all
+          git push --force --tags
