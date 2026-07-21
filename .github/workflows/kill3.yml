@@ -1,0 +1,2 @@
+git filter-repo --path-glob "*.m3u" --invert-paths
+git push --force
