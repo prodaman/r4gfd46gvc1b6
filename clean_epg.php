@@ -1,73 +1,103 @@
 <?php
 
 /**
- * Descarga guiATV sincolor.xml.gz, elimina el contenido de todas
- * las etiquetas <desc> y vuelve a comprimir el XML.
+ * Limpia el EPG de guiATV:
+ * - Descarga el XML.GZ original
+ * - Lo descomprime
+ * - Vacía el contenido de todas las etiquetas <desc>
+ * - Mantiene títulos, horarios, canales y el resto del XML
+ * - Vuelve a comprimirlo como guiatv_limpio.xml.gz
  */
 
 $sourceUrl = 'https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz';
 
-$inputGz  = 'guiatv_sincolor.xml.gz';
 $outputXml = 'guiatv_limpio.xml';
 $outputGz  = 'guiatv_limpio.xml.gz';
 
-echo "Descargando EPG original...\n";
+echo "========================================\n";
+echo "       LIMPIEZA EPG GUIATV\n";
+echo "========================================\n\n";
 
-$data = file_get_contents($sourceUrl);
+echo "1. Descargando EPG original...\n";
+
+$context = stream_context_create([
+    'http' => [
+        'timeout' => 120,
+        'user_agent' => 'GitHub-Actions-EPG-Cleaner'
+    ]
+]);
+
+$data = file_get_contents($sourceUrl, false, $context);
 
 if ($data === false || strlen($data) === 0) {
-    exit("ERROR: No se pudo descargar el archivo original.\n");
+    exit("ERROR: No se pudo descargar el EPG original.\n");
 }
 
-if (file_put_contents($inputGz, $data) === false) {
-    exit("ERROR: No se pudo guardar el archivo descargado.\n");
-}
+echo "Descargado: " . strlen($data) . " bytes\n\n";
 
-echo "Archivo descargado: " . strlen($data) . " bytes\n";
 
 /*
- * Descomprimir
+ * Descomprimir GZ
  */
-echo "Descomprimiendo...\n";
+echo "2. Descomprimiendo...\n";
 
 $xmlContent = gzdecode($data);
 
 if ($xmlContent === false) {
-    exit("ERROR: No se pudo descomprimir el archivo GZ.\n");
+    exit("ERROR: El archivo GZ no se pudo descomprimir.\n");
 }
 
+echo "XML descomprimido correctamente.\n\n";
+
+
 /*
- * Eliminar únicamente el contenido de <desc>.
+ * Vaciar todas las etiquetas <desc>.
  *
- * Se conserva la etiqueta:
+ * Ejemplo:
+ *
+ * <desc>Descripción del programa</desc>
+ *
+ * pasa a:
  *
  * <desc></desc>
  *
- * También funciona si <desc> tiene atributos.
+ * También funciona con:
+ *
+ * <desc atributo="valor">texto</desc>
  */
-$xmlContent = preg_replace(
-    '/<desc(\s[^>]*)?>.*?<\/desc>/is',
+echo "3. Eliminando descripciones...\n";
+
+$xmlClean = preg_replace(
+    '/<desc(\s[^>]*)?>.*?<\/desc\s*>/is',
     '<desc></desc>',
     $xmlContent
 );
 
-if ($xmlContent === null) {
-    exit("ERROR: Falló el procesamiento de las etiquetas <desc>.\n");
+if ($xmlClean === null) {
+    exit("ERROR: No se pudieron procesar las etiquetas <desc>.\n");
 }
+
+$xmlContent = $xmlClean;
+
+echo "Descripciones eliminadas.\n\n";
+
 
 /*
  * Guardar XML limpio
  */
-echo "Guardando XML limpio...\n";
+echo "4. Guardando XML limpio...\n";
 
 if (file_put_contents($outputXml, $xmlContent) === false) {
     exit("ERROR: No se pudo guardar $outputXml\n");
 }
 
+echo "$outputXml creado correctamente.\n\n";
+
+
 /*
- * Comprimir con máxima compresión.
+ * Comprimir con máxima compresión
  */
-echo "Comprimiendo...\n";
+echo "5. Comprimiendo XML...\n";
 
 $compressed = gzencode($xmlContent, 9);
 
@@ -79,22 +109,30 @@ if (file_put_contents($outputGz, $compressed) === false) {
     exit("ERROR: No se pudo guardar $outputGz\n");
 }
 
-echo "\n";
-echo "========================================\n";
-echo " EPG LIMPIO GENERADO CORRECTAMENTE\n";
-echo "========================================\n";
-echo "XML : $outputXml\n";
-echo "GZ  : $outputGz\n";
-echo "Tamaño XML : " . filesize($outputXml) . " bytes\n";
-echo "Tamaño GZ  : " . filesize($outputGz) . " bytes\n";
-echo "========================================\n";
+echo "$outputGz creado correctamente.\n\n";
+
 
 /*
- * El archivo original descargado solamente se utiliza
- * durante el proceso y no se conserva en el repositorio.
+ * Mostrar tamaños
  */
-if (file_exists($inputGz)) {
-    unlink($inputGz);
+$xmlSize = filesize($outputXml);
+$gzSize  = filesize($outputGz);
+
+echo "========================================\n";
+echo "          PROCESO COMPLETADO\n";
+echo "========================================\n";
+echo "XML : $xmlSize bytes\n";
+echo "GZ  : $gzSize bytes\n";
+echo "========================================\n";
+
+
+/*
+ * El XML sin comprimir es solamente temporal.
+ *
+ * No queremos subirlo al repositorio.
+ */
+if (file_exists($outputXml)) {
+    unlink($outputXml);
 }
 
-?>
+echo "\nArchivo final: $outputGz\n";
