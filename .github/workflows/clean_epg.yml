@@ -1,115 +1,128 @@
 name: Clean guiATV EPG
 
 on:
+
+  # Ejecutar automáticamente cada hora
   schedule:
     - cron: '0 * * * *'
 
+  # Permite ejecutarlo manualmente desde GitHub
   workflow_dispatch:
 
 jobs:
+
   clean:
+
     runs-on: ubuntu-latest
 
     steps:
 
+      # ==========================================
+      # 1. Descargar repositorio
+      # ==========================================
+
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Descargar EPG original y comprobar cambios
-        run: |
 
-          mkdir -p epg_temp
+      # ==========================================
+      # 2. Ejecutar PHP
+      # ==========================================
 
-          URL="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
-
-          echo "Descargando EPG original..."
-
-          curl -L --fail --silent --show-error \
-            "$URL" \
-            -o epg_temp/guiatv_sincolor.xml.gz.new
-
-          if [ ! -s epg_temp/guiatv_sincolor.xml.gz.new ]; then
-            echo "ERROR: El archivo descargado está vacío."
-            exit 1
-          fi
-
-          NEW_HASH=$(sha256sum epg_temp/guiatv_sincolor.xml.gz.new | awk '{print $1}')
-
-          echo "Hash nuevo:"
-          echo "$NEW_HASH"
-
-          if [ -f epg_temp/guiatv_sincolor.xml.gz ]; then
-
-            OLD_HASH=$(sha256sum epg_temp/guiatv_sincolor.xml.gz | awk '{print $1}')
-
-            echo "Hash anterior:"
-            echo "$OLD_HASH"
-
-            if [ "$OLD_HASH" = "$NEW_HASH" ]; then
-              echo ""
-              echo "El EPG original NO ha cambiado."
-              echo "No es necesario generar un nuevo archivo."
-
-              exit 0
-            fi
-
-            echo ""
-            echo "El EPG original HA CAMBIADO."
-
-          else
-
-            echo ""
-            echo "No existe una copia anterior."
-            echo "Se procesará el archivo."
-
-          fi
-
-          mv epg_temp/guiatv_sincolor.xml.gz.new \
-             epg_temp/guiatv_sincolor.xml.gz
-
-      - name: Preparar PHP
-        run: |
-
-          cp epg_temp/guiatv_sincolor.xml.gz \
-             guiATV_original.xml.gz
-
-      - name: Ejecutar limpieza del EPG
+      - name: Ejecutar limpieza EPG
         run: |
 
           php clean_epg.php
 
-      - name: Comprobar cambios en el archivo limpio
+
+      # ==========================================
+      # 3. Comprobar que se creó el archivo
+      # ==========================================
+
+      - name: Comprobar archivo generado
         run: |
 
-          if git diff --quiet -- guiATV_limpio.xml.gz; then
+          if [ ! -f "guiatv_limpio.xml.gz" ]; then
 
-            echo ""
-            echo "El archivo limpio no ha cambiado."
-            echo "No se hará ningún commit."
+            echo "ERROR: No se ha generado guiatv_limpio.xml.gz"
 
-            exit 0
+            exit 1
 
           fi
 
-          echo ""
-          echo "El archivo limpio ha cambiado."
-          echo "Se actualizará el repositorio."
+          echo "Archivo generado correctamente."
 
-      - name: Guardar versión del EPG original
+          ls -lh guiatv_limpio.xml.gz
+
+
+      # ==========================================
+      # 4. Comparar con la versión existente
+      # ==========================================
+
+      - name: Comprobar si ha cambiado
+        id: comprobar
         run: |
 
-          mkdir -p epg_temp
+          if git cat-file -e HEAD:guiatv_limpio.xml.gz 2>/dev/null; then
 
-          cp guiATV_original.xml.gz \
-             epg_temp/guiatv_sincolor.xml.gz
+            echo "Existe una versión anterior."
+
+            git show HEAD:guiatv_limpio.xml.gz > /tmp/guiatv_anterior.xml.gz
+
+            OLD_HASH=$(sha256sum /tmp/guiatv_anterior.xml.gz | awk '{print $1}')
+            NEW_HASH=$(sha256sum guiatv_limpio.xml.gz | awk '{print $1}')
+
+            echo "Hash anterior:"
+            echo "$OLD_HASH"
+
+            echo "Hash nuevo:"
+            echo "$NEW_HASH"
+
+            if [ "$OLD_HASH" = "$NEW_HASH" ]; then
+
+              echo ""
+              echo "========================================"
+              echo "El EPG limpio NO ha cambiado."
+              echo "No se hará ningún commit."
+              echo "========================================"
+
+              echo "changed=false" >> "$GITHUB_OUTPUT"
+
+            else
+
+              echo ""
+              echo "========================================"
+              echo "El EPG limpio HA CAMBIADO."
+              echo "Se actualizará."
+              echo "========================================"
+
+              echo "changed=true" >> "$GITHUB_OUTPUT"
+
+            fi
+
+          else
+
+            echo ""
+            echo "No existe todavía guiatv_limpio.xml.gz."
+            echo "Se creará por primera vez."
+
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+
+          fi
+
+
+      # ==========================================
+      # 5. Commit y Push
+      # ==========================================
 
       - name: Commit y push
+        if: steps.comprobar.outputs.changed == 'true'
         run: |
 
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
 
-          git add guiATV_limpio.xml.gz
+          git add guiatv_limpio.xml.gz
 
           git commit -m "Update cleaned guiATV EPG"
 
